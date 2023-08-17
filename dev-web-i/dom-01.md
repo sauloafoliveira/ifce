@@ -37,9 +37,9 @@ Saída esperada:
 <html lang="en">
 <body>
     <div></div>
-  	<script>
-			const imageSrc = "https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png/@@images/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png";
-  	</script>
+    <script>
+       const imageSrc = "https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png/@@images/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png";
+    </script>
 </body>
 </html>
 ```
@@ -48,7 +48,7 @@ Saída esperada:
 
 Saída esperada:
 
-<img src="https://ifce.edu.br/fortaleza/comunicacao/logos/logo-horizontal-colorida_media.png/@@images/image.png" style="height: 64px">
+<img src="https://github.com/sauloafoliveira/ifce/blob/main/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png?raw=true" style="height: 64px">
 
 
 
