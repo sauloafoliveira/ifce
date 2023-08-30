@@ -19,41 +19,30 @@
 
       /// Vincular o componete à tag
       ReactDOM.createRoot(
-        rootElement
-      ).render(<App />);
-
-      /// Função comum que pega a data e mostra a hora:minuto:segundo.
-      function horaString() {
-        return new Date().toLocaleTimeString();
-      }
+        rootElement // tag para renderizar o componente
+      ).render(<App />); // o componente a ser renderizado
 
 
       /// Definição do componente App
       function App() {
 
-        // JSX
-        let inicio = <span>{horaString()}</span>;
+        let nome = 'Saulo Oliveira';
 
-        // Função (local) interna para evento de clique.
-        function clicou() {
-          let agora = new Date();
-          alert(`Você clicou em mim às ${horaString()}!`);
-        }
+        // JSX
+        let inicio = <span>{nome}</span>;
 
         // O retorno que será renderizado em JSX
         return (
           <div>
-            <p>
-              A aplicação iniciou às {horaString()}.
-            </p>
-
-            Saulo Oliveira 
+            <h1>Currículo de {inicio}</h1>
             
+            <img src="https://picsum.photos/100"></img>
             
-            <button onClick={clicou}>
-              Clicar não fará nada :(
-            </button>
-
+            <ul>
+              <li>Cientista da Computação</li>
+              <li>Crossfiteiro</li>
+              <li>Professor</li>
+            </ul>
           </div>
         );
       }
