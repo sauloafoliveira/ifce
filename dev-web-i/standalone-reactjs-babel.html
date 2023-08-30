@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  </head>
+  <body>
+
+    <div class="container"></div>
+    
+    <script type="text/babel">
+
+      /// Capturar o elemento em que será renderizado o componente
+      const rootElement = document.querySelector(".container");
+
+      /// Vincular o componete à tag
+      ReactDOM.createRoot(
+        rootElement
+      ).render(<App />);
+
+      /// Função comum que pega a data e mostra a hora:minuto:segundo.
+      function horaString() {
+        return new Date().toLocaleTimeString();
+      }
+
+
+      /// Definição do componente App
+      function App() {
+
+        // JSX
+        let inicio = <span>{horaString()}</span>;
+
+        // Função (local) interna para evento de clique.
+        function clicou() {
+          let agora = new Date();
+          alert(`Você clicou em mim às ${horaString()}!`);
+        }
+
+        // O retorno que será renderizado em JSX
+        return (
+          <div>
+            <p>
+              A aplicação iniciou às {horaString()}.
+            </p>
+
+            Saulo Oliveira 
+            
+            
+            <button onClick={clicou}>
+              Clicar não fará nada :(
+            </button>
+
+          </div>
+        );
+      }
+    </script>
+ 
+  </body>
+</html>
