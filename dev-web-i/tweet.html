@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  </head>
+  <body>
+
+    <div class="container w-50 my-5"></div>
+    
+    <script type="text/babel">
+
+      /// Capturar o elemento em que será renderizado o componente
+      const rootElement = document.querySelector(".container");
+
+      /// Vincular o componete à tag
+      ReactDOM.createRoot(
+        rootElement // tag para renderizar o componente
+      ).render(<App />); // o componente a ser renderizado
+
+      function Tweet({photo, username, nickname, bio}) {
+
+        return (
+            <div className="border rounded p-1 my-1">
+                <div className="row my-3 px-1">
+                    <div className="col-1">
+                        <img src={photo} className="rounded-circle" height="64" />
+                    </div>
+                    <div className="col px-4 d-flex justify-content-between">
+                        <p>
+                            <span className="fw-bold">
+                                {nickname}
+                            </span>
+                            <span className="text-muted d-block">
+                                @{username}
+                            </span>
+                        </p>
+                        <button className="btn btn-dark btn-sm h-50">Seguir</button>
+                    </div>
+                </div>
+                <div className="row">
+                    <div className="col-10 offset-1 px-4">
+                        <p className="text-left">{bio}</p>
+                    </div>
+                </div>
+            </div>
+        );
+
+      }
+
+      const accounts = [
+        {
+            photo : "https://picsum.photos/id/200/100", 
+            nickname: "Texas Robots", 
+            username: "texas_robotics", 
+            bio: "Texas Robotics unites robotics efforts at UUTAustin with goals to enable deeper collaborations that accelerate and grow research programs."
+        },
+        {
+            photo : "https://picsum.photos/id/34/100", 
+            nickname: "Pop Crave", 
+            username: "popcrave", 
+            bio: "Feeding your pop culture hunger since 2015."
+        },
+        {
+            photo : "https://picsum.photos/id/1/100", 
+            nickname: "International Conference on 3D Vision", 
+            username: "3DVconf", 
+            bio: "Since 2013, 3DV has provided a premier platform for disseminating research results covering a broad variety of topics in computer vision and graphics."
+        }
+      ];
+
+      /// Definição do componente App
+      function App() {
+
+        let tweets = accounts.map(
+            (account) => <Tweet {...account} />
+        );
+
+        return tweets;
+      }
+    </script>
+ 
+  </body>
+</html>
