@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Poké Ficha</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+</head>
+
+<body class="bg-light">
+
+
+
+    <nav class="navbar navbar-expand-lg bg-white shadow sticky-top">
+        <div class="container-fluid">
+            Barra superior
+        </div>
+    </nav>
+    <div class="container pt-3"></div>
+
+    <script type="text/babel">
+
+        /// Capturar o elemento em que será renderizado o componente
+        const container = document.querySelector(".container");
+
+        /// Vincular o componete à tag
+        ReactDOM.createRoot(
+            container // tag para renderizar o componente
+        ).render(<App />); // o Componente a ser renderizado
+
+        function MenuLateral() {
+            return (
+                <>
+                    Menu lateral
+                </>
+            );
+        }
+
+        function LinhaDoTempo() {
+            return (
+                <>
+                    Linha do tempo aqui!
+                </>
+            );
+        }
+
+        function BatePapo() {
+            return (
+                <>
+                    Lista de contatos
+                </>
+            );
+        }
+
+        /// Definição do componente App
+        function App() {
+
+            return (
+                <>
+                    <div className="row">
+                        <div className="col">
+                            <MenuLateral />
+                        </div>
+                        <div className="col-6">
+                            <LinhaDoTempo />
+                        </div>
+                        <div className="col">
+                            <BatePapo />
+                        </div>
+                    </div>
+                </>
+            );
+        }
+    </script>
+
+</body>
+
+</html>
