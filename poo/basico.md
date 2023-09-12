@@ -131,7 +131,49 @@ public class Aluno {
 }
 ```
 
+```java
+package ifce;
 
+public class Aluno {
+
+	String nome;
+	String matricula;
+	Double nota1;
+	Double nota2;
+	
+	public Aluno() {
+		nota1 = 0.0;
+		nota2 = 0.0;
+	}
+
+	public Aluno(String nome, String matricula) {
+		this.nome = nome;
+		this.matricula = matricula;
+		nota1 = 0.0;
+		nota2 = 0.0;
+		System.out.println("Sem notas");
+	}
+
+	public Double getMedia() {
+		return (this.nota1 + this.nota2) / 2;
+	}
+
+	public Aluno(String nome, String matricula, Double nota1, Double nota2) {
+		this.nome = nome;
+		this.matricula = matricula;
+		this.nota1 = nota1;
+		this.nota2 = nota2;
+	}
+
+	public static void main(String[] args) {
+		Aluno alunoX = new Aluno("Mary", "01", 7.0, 9.0);
+		System.out.println( alunoX.getMedia() );
+
+		Aluno alunoY = new Aluno("Victor", "02");
+		System.out.println( alunoY.getMedia() );
+	}
+}
+```
 
 Note que ao criar o objeto, usamos "new Aluno();"  - logo, não passamos nenhum parâmetro. Então, chamamos claramente o construtor padrão.
 
