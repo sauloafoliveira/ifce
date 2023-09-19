@@ -48,7 +48,7 @@ public class Semaforo {
   private CorDeSemaforo corAtual;
 
   public Semaforo() {
-    this(CorDeSemaforo.VERMELHO);
+    corAtual = CorDeSemaforo.VERMELHO;
   }
 
   public void muda() {
