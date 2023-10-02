@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema De Carrinho</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+
+    <div class="container"></div>
+
+    <script type="text/babel">
+        /// Capturar o elemento em que será renderizado o componente
+        const rootElement = document.querySelector(".container");
+        const urlDadosRestaurante = 'https://raw.githubusercontent.com/sauloafoliveira/analytica/master/task_1/sample.txt';
+
+        /// Vincular o componete à tag
+        ReactDOM.createRoot(
+            rootElement // tag para renderizar o componente
+        ).render(<Carrinho />); // o componente a ser renderizado
+
+
+        function Carrinho() {
+
+            let [produtos, setProdutos] = React.useState([
+                {id: 1, nome: "iPhone", qtd: 2, valor: 3000}
+            ]);
+
+            return (
+                <>
+                    <h1>Carrinho de compras</h1>
+                    <div className="row border rounded border-light">
+                        <div className="col-md-6">
+                            <label htmlFor="nome" className="form-label">Nome</label>
+                            <input type="text" className="form-control" id="nome" />
+                        </div>
+                        <div className="col-md-2">
+                            <label htmlFor="quantidade" className="form-label">Quantidade</label>
+                            <input type="number" className="form-control" id="quantidade" />
+                            
+                        </div>
+                        <div className="col-md-2">
+                            <label htmlFor="preco" className="form-label">Valor</label>
+                            <input type="text" className="form-control" id="preco" />
+                        </div>
+                        <div className="mt-1 col-md-2 d-flex align-items-end">
+                            <button className="btn btn-primary">Add</button>
+                        </div>
+                    </div>
+
+                    <ListaDeProdutos produtos={produtos} />
+
+                </>
+            
+            );
+        }
+
+    
+        function ListaDeProdutos({produtos}) {
+            return (
+                <>
+                    <table className="table mt-3 border border-light rounded-3">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Descrição</th>
+                                <th scope="col">Quantidade</th>
+                                <th scope="col">Valor</th>
+                                <th scope="col">Subtotal</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+
+                </>
+            );
+        }
+
+        function Produto({id, nome, qtd, valor}) {
+            return (
+                <tr key={id}>
+                    <th scope="row">{id}</th>
+                    <td>{nome}</td>
+                    <td>{qtd}</td>
+                    <td>{valor}</td>
+                    <td>{qtd * valor}</td>
+                </tr>
+            );
+        }
+    
+    </script>
+
+    
+</body>
+</html>
