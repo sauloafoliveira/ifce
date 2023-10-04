@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema De Carrinho</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body>
+
+    
+    <div class="container mt-3"></div>
+
+    <script type="text/babel">
+        /// Capturar o elemento em que será renderizado o componente
+        const rootElement = document.querySelector(".container");
+
+        /// Vincular o componete à tag
+        ReactDOM.createRoot(
+            rootElement // tag para renderizar o componente
+        ).render(<App />); // o componente a ser renderizado
+
+
+        function CardProduto({titulo, texto, imagem}) {
+            return (
+                <>
+                <div className="card mb-3 mx-1 rounded-start">
+                    <div className="row g-0  h-100">
+                        <div className="col-4">
+                            <img src={imagem} className="w-100 h-100 rounded-start object-fit-cover" alt="..."/>
+                        </div>
+                        <div className="col-8">
+                        <div className="card-body">
+                            <h5 className="card-title">{titulo}</h5>
+                            <p className="card-text">{texto}</p>
+                            
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                </>
+            );
+        }
+
+        function _convert_date(str) {
+            return new Date( Date.parse( str ) );
+        }
+
+        function App() {
+
+            const [erro, setErro] = React.useState(null);
+            const [dados, setDados] = React.useState([]);
+            const [maisCaro, setMaisCaro] = React.useState(0);
+
+
+            React.useEffect(() => {
+
+                let url = 'https://raw.githubusercontent.com/sauloafoliveira/analytica/master/task_1/sample.txt';
+
+                fetch( url ).then( 
+                    (resp) => resp.json()
+                ).then( (dados) => {
+
+                    setErro(null);
+                    setDados(dados);
+
+                    let valoresTotais = dados.map(pedido =>
+                            parseFloat(pedido.complemento.valorTotal)
+                    );
+
+                    setMaisCaro( Math.max(...valoresTotais) );
+
+                }).catch( (e) => {
+                    setErro(e.message);
+                });
+                
+            });
+
+            
+
+            return (
+                <>
+
+                    { erro && 
+                        (<div className="alert alert-danger" role="alert">
+                            {erro}
+                        </div>)
+                    }
+
+                    <h1>Painel de dados do restaurante</h1>
+
+                    <code>
+
+                        {JSON.stringify(dados[0])}
+                    </code>
+
+                    <div className="card-group">
+                        <CardProduto 
+                            titulo="Água"
+                            texto="A maior quantidade de água consumida por dia foi XX"
+                            imagem="https://img.livestrong.com/1260x/clsd/getty/1f9697b9e3f54405b1c7f814017b2e39.jpg"
+                        />
+
+                        <CardProduto 
+                            titulo="Refrigerante"
+                            texto="Ahhh uma Coquinha Gelada"
+                            imagem="https://media.gazetadopovo.com.br/bomgourmet/2016/05/guaranajesus-97fec530.jpg"
+                        />
+
+                        <CardProduto 
+                            titulo="Buffet"
+                            texto="O PF mais pesado foi de xx"
+                            imagem="https://www.proteste.org.br/-/media/proteste/images/pratofeito-rj-sp.jpg"
+                        />
+                    </div>
+
+                    <h2>Outras estatísticas</h2>
+                    <div className="card-group">
+                        <CardProduto 
+                            titulo="Pedido"
+                            texto={`O pedido mais caro foi de R$ ${maisCaro}`}
+                            imagem="https://thumb-cdn.soluall.net/prod/shp_products/sp1280fw/60631219-0a80-4580-a2c9-6ce1ac1e0880/6064c044-2c20-423d-89a4-4d28ac1e06cd.jpg"
+                        />
+                    </div>
+                    
+
+
+                </>
+            );
+        }
+    </script>
+
+    <div class="container-fluid mx-5">
+
+        <h3>Questões</h3>
+        <ul class="list-group list-group-flush list-group-numbered">
+            <li class="list-group-item">Mostre o pedido mais barato.</li>
+            <li class="list-group-item">Mostre o peso da PF mais pesado.</li>
+            <li class="list-group-item">Mostre o número de águas vendidas.</li>
+            <li class="list-group-item">Mostre o número de PF vendidos.</li>
+            <li class="list-group-item">Mostre o número de refrigerantes vendidos.</li>
+            <li class="list-group-item">Mostre o número de pedidos por mesa.</li>
+            <li class="list-group-item">Mostre a mesa mais balada (a que o povo consome mais).</li>
+            <li class="list-group-item">Mostre o dia que menos faturou.</li>
+            <li class="list-group-item">Mostre o dia que mais tomaram água.</li>
+        </ul>
+
+    </div>
+</body>
+</html>
