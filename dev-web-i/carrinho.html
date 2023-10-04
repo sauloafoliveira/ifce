@@ -26,9 +26,36 @@
 
         function Carrinho() {
 
+            let [nome, setNome] = React.useState('');
+            let [preco, setPreco] = React.useState(0.00);
+            let [qtd, setQtd] = React.useState(0);
+
             let [produtos, setProdutos] = React.useState([
-                {id: 1, nome: "iPhone", qtd: 2, valor: 3000}
+                {id: 1, key: 1,  nome: "iPhone", qtd: 2, valor: 3000},
+                {id: 2, key: 2, nome: "Cola Mix", qtd: 15, valor: 31}
             ]);
+
+            function add() {
+                if(!nome || !qtd || !preco) {
+                    return;
+                }
+
+                let novosProdutos = [...produtos,  
+                    {
+                        id: produtos.length + 1, 
+                        key: produtos.length + 1,
+                        nome: nome,
+                        valor: preco,
+                        qtd: qtd
+                    }
+                ];
+                
+                setNome('');
+                setQtd(0);
+                setPreco(0.0);
+                setProdutos(novosProdutos);
+            }
+
 
             return (
                 <>
@@ -36,33 +63,22 @@
                     <div className="row border rounded border-light">
                         <div className="col-md-6">
                             <label htmlFor="nome" className="form-label">Nome</label>
-                            <input type="text" className="form-control" id="nome" />
+                            <input type="text" className="form-control" id="nome" value={nome} onChange={(e) => setNome(e.target.value)} />
                         </div>
                         <div className="col-md-2">
                             <label htmlFor="quantidade" className="form-label">Quantidade</label>
-                            <input type="number" className="form-control" id="quantidade" />
+                            <input type="number" className="form-control" id="quantidade" value={qtd} onChange={(e) => setQtd(e.target.value)} />
                             
                         </div>
                         <div className="col-md-2">
                             <label htmlFor="preco" className="form-label">Valor</label>
-                            <input type="text" className="form-control" id="preco" />
+                            <input type="text" className="form-control" id="preco" value={preco} onChange={(e) => setPreco(e.target.value)} />
                         </div>
                         <div className="mt-1 col-md-2 d-flex align-items-end">
-                            <button className="btn btn-primary">Add</button>
+                            <button className="btn btn-primary" onClick={add}>Add</button>
                         </div>
                     </div>
 
-                    <ListaDeProdutos produtos={produtos} />
-
-                </>
-            
-            );
-        }
-
-    
-        function ListaDeProdutos({produtos}) {
-            return (
-                <>
                     <table className="table mt-3 border border-light rounded-3">
                         <thead>
                             <tr>
@@ -74,13 +90,25 @@
                             </tr>
                         </thead>
                         <tbody>
-                            
+                            {produtos.map( (p) => <Produto {...p} />)}
                         </tbody>
+                        <tfoot>
+                            <tr>
+                                <th scope="col" colSpan="4"><strong>Total</strong></th>
+                                <th scope="col">
+                                    {
+                                        produtos.map( (p) => p.valor * p.qtd ).reduce((a, b) => a + b)
+                                    }
+                                </th>
+                            </tr>
+                        </tfoot>
                     </table>
 
                 </>
+            
             );
         }
+
 
         function Produto({id, nome, qtd, valor}) {
             return (
