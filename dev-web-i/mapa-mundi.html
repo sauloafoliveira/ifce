@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Países do mundo</title>
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+
+</head>
+<body class="bg-light">
+    
+    <script>
+        function getFlagEmoji(countryCode) {
+            const codePoints = countryCode
+                .toUpperCase()
+                .split('')
+                .map(char =>  127397 + char.charCodeAt());
+            return String.fromCodePoint(...codePoints);
+        }
+
+        
+
+    </script>
+
+    <nav class="navbar navbar-expand-lg bg-white shadow sticky-top">
+        <div class="container-fluid">
+            <p class="text-center">
+                Cards do Mapa mundial
+            </p>
+        </div>
+    </nav>
+
+    <div class="container pt-3"></div>
+
+    <script type="text/babel">
+
+        /// Capturar o elemento em que será renderizado o componente
+        const container = document.querySelector(".container");
+
+        
+        /// Vincular o componete à tag
+        ReactDOM.createRoot(
+            container // tag para renderizar o componente
+        ).render(<App />); // o Componente a ser renderizado
+
+        function App() {
+
+            const [dados, setDados] = React.useState([]);
+
+            React.useEffect(() => {
+                async function carregaDados() {
+                    const url =  'https://raw.githubusercontent.com/sauloafoliveira/ifce/main/dev-web-i/world_mysql.json';
+                    
+                    return await fetch(url).then(
+                        (resp) => resp.json()
+                    ).catch(
+                        (e) => []
+                    );
+
+                }
+                carregaDados().then(
+                    (paisesJson) => setDados( paisesJson )
+                );
+            });
+
+            return (
+                <>
+                    Brasil: {getFlagEmoji('br')}
+                    Estados Unidos: {getFlagEmoji('us')}
+                    França: {getFlagEmoji('fr')}
+
+                    {dados.length && 
+                        (dados[0].Name + getFlagEmoji(dados[0].Code2))
+                    }
+
+                    {dados.length && 
+                        (dados[22].Name + getFlagEmoji(dados[22].Code2))
+                    }
+                </>
+            );
+        }
+
+    </script>
+
+</body>
+</html>
