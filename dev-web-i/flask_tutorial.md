@@ -22,6 +22,11 @@ A primeira linha cria uma pasta via linha de comando. Já a segunda pasta movime
  $ source venv/bin/activate
  ```
 
+Se estiver no Windows
+```shell
+PS .\venv\Scripts\activate
+```
+
 Pronto! A partir de agora temos um Python só nosso de modo que todas as configurações não quebrarão nem instalarão elementos desnecessários no Python utlizado no computador como um todo, e sim, somente no contido nesta pasta. Se tudo tiver dado certo, ficará um ```(venv)``` no início do terminal indicando que você está num ambinete virtual.
 
 3. Depois de criar e ativar seu ambiente virtual, é hora de instalar o **Flask** com ```pip```. O micro framework Flask é a principal dependência que seu projeto requer. 
