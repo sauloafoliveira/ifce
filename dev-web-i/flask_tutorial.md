@@ -287,6 +287,10 @@ $ curl -X <método> <site> -d <parâmetro chave=valor>
 $ curl -X DELETE "localhost:8000/esquecer" -d nome=Zezinho
 ```
 
+```shell
+Invoke-RestMethod -Method Delete -Uri "localhost"
+```
+
 ### Referências
 
 **Python Basics**. Flask REST API Tutorial. Disponível em: https://pythonbasics.org/flask-rest-api/. Acessado em 25 de out. 2023.
