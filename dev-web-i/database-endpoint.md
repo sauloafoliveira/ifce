@@ -202,6 +202,20 @@ Invoke-RestMethod @Params
    Invoke-RestMethod @Params
    ```
 
+
+
+## Final
+
+```python
+def crud(sql, cnx, cur, params):
+  try:
+    cur.execute(sql,  *params)
+    cnx.commit()
+    return True
+  except:
+    return False
+
+```
    
 
    
