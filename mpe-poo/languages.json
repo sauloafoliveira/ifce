@@ -1,5906 +1,5906 @@
 [
 	{
-		"language" : "Dutch",
+		"Name" : "Aruba",
+		"Language" : "Dutch",
 		"isOfficial" : true,
-		"percentage" : 5.3,
-		"countrycode" : "ABW"
+		"Percentage" : 5.3
 	},
 	{
-		"language" : "English",
+		"Name" : "Aruba",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 9.5,
-		"countrycode" : "ABW"
+		"Percentage" : 9.5
 	},
 	{
-		"language" : "Papiamento",
+		"Name" : "Aruba",
+		"Language" : "Papiamento",
 		"isOfficial" : false,
-		"percentage" : 76.7,
-		"countrycode" : "ABW"
+		"Percentage" : 76.7
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Aruba",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 7.4,
-		"countrycode" : "ABW"
+		"Percentage" : 7.4
 	},
 	{
-		"language" : "Balochi",
+		"Name" : "Afghanistan",
+		"Language" : "Balochi",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "AFG"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Dari",
+		"Name" : "Afghanistan",
+		"Language" : "Dari",
 		"isOfficial" : true,
-		"percentage" : 32.1,
-		"countrycode" : "AFG"
+		"Percentage" : 32.1
 	},
 	{
-		"language" : "Pashto",
+		"Name" : "Afghanistan",
+		"Language" : "Pashto",
 		"isOfficial" : true,
-		"percentage" : 52.4,
-		"countrycode" : "AFG"
+		"Percentage" : 52.4
 	},
 	{
-		"language" : "Turkmenian",
+		"Name" : "Afghanistan",
+		"Language" : "Turkmenian",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "AFG"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Afghanistan",
+		"Language" : "Uzbek",
 		"isOfficial" : false,
-		"percentage" : 8.8,
-		"countrycode" : "AFG"
+		"Percentage" : 8.8
 	},
 	{
-		"language" : "Ambo",
+		"Name" : "Angola",
+		"Language" : "Ambo",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "AGO"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Chokwe",
+		"Name" : "Angola",
+		"Language" : "Chokwe",
 		"isOfficial" : false,
-		"percentage" : 4.2,
-		"countrycode" : "AGO"
+		"Percentage" : 4.2
 	},
 	{
-		"language" : "Kongo",
+		"Name" : "Angola",
+		"Language" : "Kongo",
 		"isOfficial" : false,
-		"percentage" : 13.2,
-		"countrycode" : "AGO"
+		"Percentage" : 13.2
 	},
 	{
-		"language" : "Luchazi",
+		"Name" : "Angola",
+		"Language" : "Luchazi",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "AGO"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Luimbe-nganguela",
+		"Name" : "Angola",
+		"Language" : "Luimbe-nganguela",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "AGO"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Luvale",
+		"Name" : "Angola",
+		"Language" : "Luvale",
 		"isOfficial" : false,
-		"percentage" : 3.6,
-		"countrycode" : "AGO"
+		"Percentage" : 3.6
 	},
 	{
-		"language" : "Mbundu",
+		"Name" : "Angola",
+		"Language" : "Mbundu",
 		"isOfficial" : false,
-		"percentage" : 21.6,
-		"countrycode" : "AGO"
+		"Percentage" : 21.6
 	},
 	{
-		"language" : "Nyaneka-nkhumbi",
+		"Name" : "Angola",
+		"Language" : "Nyaneka-nkhumbi",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "AGO"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Ovimbundu",
+		"Name" : "Angola",
+		"Language" : "Ovimbundu",
 		"isOfficial" : false,
-		"percentage" : 37.2,
-		"countrycode" : "AGO"
+		"Percentage" : 37.2
 	},
 	{
-		"language" : "English",
+		"Name" : "Anguilla",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "AIA"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Albaniana",
+		"Name" : "Albania",
+		"Language" : "Albaniana",
 		"isOfficial" : true,
-		"percentage" : 97.9,
-		"countrycode" : "ALB"
+		"Percentage" : 97.9
 	},
 	{
-		"language" : "Greek",
+		"Name" : "Albania",
+		"Language" : "Greek",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "ALB"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Macedonian",
+		"Name" : "Albania",
+		"Language" : "Macedonian",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "ALB"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Catalan",
+		"Name" : "Andorra",
+		"Language" : "Catalan",
 		"isOfficial" : true,
-		"percentage" : 32.3,
-		"countrycode" : "AND"
+		"Percentage" : 32.3
 	},
 	{
-		"language" : "French",
+		"Name" : "Andorra",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 6.2,
-		"countrycode" : "AND"
+		"Percentage" : 6.2
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Andorra",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 10.8,
-		"countrycode" : "AND"
+		"Percentage" : 10.8
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Andorra",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 44.6,
-		"countrycode" : "AND"
+		"Percentage" : 44.6
 	},
 	{
-		"language" : "Dutch",
+		"Name" : "Netherlands Antilles",
+		"Language" : "Dutch",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "ANT"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Netherlands Antilles",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "ANT"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Papiamento",
+		"Name" : "Netherlands Antilles",
+		"Language" : "Papiamento",
 		"isOfficial" : true,
-		"percentage" : 86.2,
-		"countrycode" : "ANT"
+		"Percentage" : 86.2
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "United Arab Emirates",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 42.0,
-		"countrycode" : "ARE"
+		"Percentage" : 42.0
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "United Arab Emirates",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "ARE"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Indian Languages",
+		"Name" : "Argentina",
+		"Language" : "Indian Languages",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "ARG"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Argentina",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "ARG"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Argentina",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 96.8,
-		"countrycode" : "ARG"
+		"Percentage" : 96.8
 	},
 	{
-		"language" : "Armenian",
+		"Name" : "Armenia",
+		"Language" : "Armenian",
 		"isOfficial" : true,
-		"percentage" : 93.4,
-		"countrycode" : "ARM"
+		"Percentage" : 93.4
 	},
 	{
-		"language" : "Azerbaijani",
+		"Name" : "Armenia",
+		"Language" : "Azerbaijani",
 		"isOfficial" : false,
-		"percentage" : 2.6,
-		"countrycode" : "ARM"
+		"Percentage" : 2.6
 	},
 	{
-		"language" : "English",
+		"Name" : "American Samoa",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 3.1,
-		"countrycode" : "ASM"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Samoan",
+		"Name" : "American Samoa",
+		"Language" : "Samoan",
 		"isOfficial" : true,
-		"percentage" : 90.6,
-		"countrycode" : "ASM"
+		"Percentage" : 90.6
 	},
 	{
-		"language" : "Tongan",
+		"Name" : "American Samoa",
+		"Language" : "Tongan",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "ASM"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Antigua and Barbuda",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 95.7,
-		"countrycode" : "ATG"
+		"Percentage" : 95.7
 	},
 	{
-		"language" : "English",
+		"Name" : "Antigua and Barbuda",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "ATG"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Australia",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 1.0,
-		"countrycode" : "AUS"
+		"Percentage" : 1.0
 	},
 	{
-		"language" : "Canton Chinese",
+		"Name" : "Australia",
+		"Language" : "Canton Chinese",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "AUS"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Australia",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 81.2,
-		"countrycode" : "AUS"
+		"Percentage" : 81.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Australia",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "AUS"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Greek",
+		"Name" : "Australia",
+		"Language" : "Greek",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "AUS"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Australia",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "AUS"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Australia",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "AUS"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Vietnamese",
+		"Name" : "Australia",
+		"Language" : "Vietnamese",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "AUS"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Czech",
+		"Name" : "Austria",
+		"Language" : "Czech",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "AUT"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Austria",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 92.0,
-		"countrycode" : "AUT"
+		"Percentage" : 92.0
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Austria",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "AUT"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Austria",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "AUT"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Romanian",
+		"Name" : "Austria",
+		"Language" : "Romanian",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "AUT"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Austria",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "AUT"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Slovene",
+		"Name" : "Austria",
+		"Language" : "Slovene",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "AUT"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Austria",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 1.5,
-		"countrycode" : "AUT"
+		"Percentage" : 1.5
 	},
 	{
-		"language" : "Armenian",
+		"Name" : "Azerbaijan",
+		"Language" : "Armenian",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "AZE"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Azerbaijani",
+		"Name" : "Azerbaijan",
+		"Language" : "Azerbaijani",
 		"isOfficial" : true,
-		"percentage" : 89.0,
-		"countrycode" : "AZE"
+		"Percentage" : 89.0
 	},
 	{
-		"language" : "Lezgian",
+		"Name" : "Azerbaijan",
+		"Language" : "Lezgian",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "AZE"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Azerbaijan",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "AZE"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "French",
+		"Name" : "Burundi",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "BDI"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Kirundi",
+		"Name" : "Burundi",
+		"Language" : "Kirundi",
 		"isOfficial" : true,
-		"percentage" : 98.1,
-		"countrycode" : "BDI"
+		"Percentage" : 98.1
 	},
 	{
-		"language" : "Swahili",
+		"Name" : "Burundi",
+		"Language" : "Swahili",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "BDI"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Belgium",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "BEL"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Dutch",
+		"Name" : "Belgium",
+		"Language" : "Dutch",
 		"isOfficial" : true,
-		"percentage" : 59.2,
-		"countrycode" : "BEL"
+		"Percentage" : 59.2
 	},
 	{
-		"language" : "French",
+		"Name" : "Belgium",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 32.6,
-		"countrycode" : "BEL"
+		"Percentage" : 32.6
 	},
 	{
-		"language" : "German",
+		"Name" : "Belgium",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 1.0,
-		"countrycode" : "BEL"
+		"Percentage" : 1.0
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Belgium",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "BEL"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Belgium",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "BEL"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Adja",
+		"Name" : "Benin",
+		"Language" : "Adja",
 		"isOfficial" : false,
-		"percentage" : 11.1,
-		"countrycode" : "BEN"
+		"Percentage" : 11.1
 	},
 	{
-		"language" : "Aizo",
+		"Name" : "Benin",
+		"Language" : "Aizo",
 		"isOfficial" : false,
-		"percentage" : 8.7,
-		"countrycode" : "BEN"
+		"Percentage" : 8.7
 	},
 	{
-		"language" : "Bariba",
+		"Name" : "Benin",
+		"Language" : "Bariba",
 		"isOfficial" : false,
-		"percentage" : 8.7,
-		"countrycode" : "BEN"
+		"Percentage" : 8.7
 	},
 	{
-		"language" : "Fon",
+		"Name" : "Benin",
+		"Language" : "Fon",
 		"isOfficial" : false,
-		"percentage" : 39.8,
-		"countrycode" : "BEN"
+		"Percentage" : 39.8
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Benin",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 5.6,
-		"countrycode" : "BEN"
+		"Percentage" : 5.6
 	},
 	{
-		"language" : "Joruba",
+		"Name" : "Benin",
+		"Language" : "Joruba",
 		"isOfficial" : false,
-		"percentage" : 12.2,
-		"countrycode" : "BEN"
+		"Percentage" : 12.2
 	},
 	{
-		"language" : "Somba",
+		"Name" : "Benin",
+		"Language" : "Somba",
 		"isOfficial" : false,
-		"percentage" : 6.7,
-		"countrycode" : "BEN"
+		"Percentage" : 6.7
 	},
 	{
-		"language" : "Busansi",
+		"Name" : "Burkina Faso",
+		"Language" : "Busansi",
 		"isOfficial" : false,
-		"percentage" : 3.5,
-		"countrycode" : "BFA"
+		"Percentage" : 3.5
 	},
 	{
-		"language" : "Dagara",
+		"Name" : "Burkina Faso",
+		"Language" : "Dagara",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "BFA"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Dyula",
+		"Name" : "Burkina Faso",
+		"Language" : "Dyula",
 		"isOfficial" : false,
-		"percentage" : 2.6,
-		"countrycode" : "BFA"
+		"Percentage" : 2.6
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Burkina Faso",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 9.7,
-		"countrycode" : "BFA"
+		"Percentage" : 9.7
 	},
 	{
-		"language" : "Gurma",
+		"Name" : "Burkina Faso",
+		"Language" : "Gurma",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "BFA"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Mossi",
+		"Name" : "Burkina Faso",
+		"Language" : "Mossi",
 		"isOfficial" : false,
-		"percentage" : 50.2,
-		"countrycode" : "BFA"
+		"Percentage" : 50.2
 	},
 	{
-		"language" : "Bengali",
+		"Name" : "Bangladesh",
+		"Language" : "Bengali",
 		"isOfficial" : true,
-		"percentage" : 97.7,
-		"countrycode" : "BGD"
+		"Percentage" : 97.7
 	},
 	{
-		"language" : "Chakma",
+		"Name" : "Bangladesh",
+		"Language" : "Chakma",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "BGD"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Garo",
+		"Name" : "Bangladesh",
+		"Language" : "Garo",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "BGD"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Khasi",
+		"Name" : "Bangladesh",
+		"Language" : "Khasi",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "BGD"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Marma",
+		"Name" : "Bangladesh",
+		"Language" : "Marma",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "BGD"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Santhali",
+		"Name" : "Bangladesh",
+		"Language" : "Santhali",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "BGD"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Tripuri",
+		"Name" : "Bangladesh",
+		"Language" : "Tripuri",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "BGD"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Bulgariana",
+		"Name" : "Bulgaria",
+		"Language" : "Bulgariana",
 		"isOfficial" : true,
-		"percentage" : 83.2,
-		"countrycode" : "BGR"
+		"Percentage" : 83.2
 	},
 	{
-		"language" : "Macedonian",
+		"Name" : "Bulgaria",
+		"Language" : "Macedonian",
 		"isOfficial" : false,
-		"percentage" : 2.6,
-		"countrycode" : "BGR"
+		"Percentage" : 2.6
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Bulgaria",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 3.7,
-		"countrycode" : "BGR"
+		"Percentage" : 3.7
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Bulgaria",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 9.4,
-		"countrycode" : "BGR"
+		"Percentage" : 9.4
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Bahrain",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 67.7,
-		"countrycode" : "BHR"
+		"Percentage" : 67.7
 	},
 	{
-		"language" : "English",
+		"Name" : "Bahrain",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "BHR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Bahamas",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 89.7,
-		"countrycode" : "BHS"
+		"Percentage" : 89.7
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Bahamas",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 10.3,
-		"countrycode" : "BHS"
+		"Percentage" : 10.3
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Bosnia and Herzegovina",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : true,
-		"percentage" : 99.2,
-		"countrycode" : "BIH"
+		"Percentage" : 99.2
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Belarus",
+		"Language" : "Belorussian",
 		"isOfficial" : true,
-		"percentage" : 65.6,
-		"countrycode" : "BLR"
+		"Percentage" : 65.6
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Belarus",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "BLR"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Belarus",
+		"Language" : "Russian",
 		"isOfficial" : true,
-		"percentage" : 32.0,
-		"countrycode" : "BLR"
+		"Percentage" : 32.0
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Belarus",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "BLR"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "English",
+		"Name" : "Belize",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 50.8,
-		"countrycode" : "BLZ"
+		"Percentage" : 50.8
 	},
 	{
-		"language" : "Garifuna",
+		"Name" : "Belize",
+		"Language" : "Garifuna",
 		"isOfficial" : false,
-		"percentage" : 6.8,
-		"countrycode" : "BLZ"
+		"Percentage" : 6.8
 	},
 	{
-		"language" : "Maya Languages",
+		"Name" : "Belize",
+		"Language" : "Maya Languages",
 		"isOfficial" : false,
-		"percentage" : 9.6,
-		"countrycode" : "BLZ"
+		"Percentage" : 9.6
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Belize",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 31.6,
-		"countrycode" : "BLZ"
+		"Percentage" : 31.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Bermuda",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "BMU"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Aimará",
+		"Name" : "Bolivia",
+		"Language" : "Aimará",
 		"isOfficial" : true,
-		"percentage" : 3.2,
-		"countrycode" : "BOL"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Guaraní",
+		"Name" : "Bolivia",
+		"Language" : "Guaraní",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "BOL"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Ketšua",
+		"Name" : "Bolivia",
+		"Language" : "Ketšua",
 		"isOfficial" : true,
-		"percentage" : 8.1,
-		"countrycode" : "BOL"
+		"Percentage" : 8.1
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Bolivia",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 87.7,
-		"countrycode" : "BOL"
+		"Percentage" : 87.7
 	},
 	{
-		"language" : "German",
+		"Name" : "Brazil",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "BRA"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Indian Languages",
+		"Name" : "Brazil",
+		"Language" : "Indian Languages",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "BRA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Brazil",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "BRA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Japanese",
+		"Name" : "Brazil",
+		"Language" : "Japanese",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "BRA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Brazil",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 97.5,
-		"countrycode" : "BRA"
+		"Percentage" : 97.5
 	},
 	{
-		"language" : "Bajan",
+		"Name" : "Barbados",
+		"Language" : "Bajan",
 		"isOfficial" : false,
-		"percentage" : 95.1,
-		"countrycode" : "BRB"
+		"Percentage" : 95.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Barbados",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "BRB"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Brunei",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 9.3,
-		"countrycode" : "BRN"
+		"Percentage" : 9.3
 	},
 	{
-		"language" : "English",
+		"Name" : "Brunei",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "BRN"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Brunei",
+		"Language" : "Malay",
 		"isOfficial" : true,
-		"percentage" : 45.5,
-		"countrycode" : "BRN"
+		"Percentage" : 45.5
 	},
 	{
-		"language" : "Malay-English",
+		"Name" : "Brunei",
+		"Language" : "Malay-English",
 		"isOfficial" : false,
-		"percentage" : 28.8,
-		"countrycode" : "BRN"
+		"Percentage" : 28.8
 	},
 	{
-		"language" : "Asami",
+		"Name" : "Bhutan",
+		"Language" : "Asami",
 		"isOfficial" : false,
-		"percentage" : 15.2,
-		"countrycode" : "BTN"
+		"Percentage" : 15.2
 	},
 	{
-		"language" : "Dzongkha",
+		"Name" : "Bhutan",
+		"Language" : "Dzongkha",
 		"isOfficial" : true,
-		"percentage" : 50.0,
-		"countrycode" : "BTN"
+		"Percentage" : 50.0
 	},
 	{
-		"language" : "Nepali",
+		"Name" : "Bhutan",
+		"Language" : "Nepali",
 		"isOfficial" : false,
-		"percentage" : 34.8,
-		"countrycode" : "BTN"
+		"Percentage" : 34.8
 	},
 	{
-		"language" : "Khoekhoe",
+		"Name" : "Botswana",
+		"Language" : "Khoekhoe",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "BWA"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Ndebele",
+		"Name" : "Botswana",
+		"Language" : "Ndebele",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "BWA"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "San",
+		"Name" : "Botswana",
+		"Language" : "San",
 		"isOfficial" : false,
-		"percentage" : 3.5,
-		"countrycode" : "BWA"
+		"Percentage" : 3.5
 	},
 	{
-		"language" : "Shona",
+		"Name" : "Botswana",
+		"Language" : "Shona",
 		"isOfficial" : false,
-		"percentage" : 12.3,
-		"countrycode" : "BWA"
+		"Percentage" : 12.3
 	},
 	{
-		"language" : "Tswana",
+		"Name" : "Botswana",
+		"Language" : "Tswana",
 		"isOfficial" : false,
-		"percentage" : 75.5,
-		"countrycode" : "BWA"
+		"Percentage" : 75.5
 	},
 	{
-		"language" : "Banda",
+		"Name" : "Central African Republic",
+		"Language" : "Banda",
 		"isOfficial" : false,
-		"percentage" : 23.5,
-		"countrycode" : "CAF"
+		"Percentage" : 23.5
 	},
 	{
-		"language" : "Gbaya",
+		"Name" : "Central African Republic",
+		"Language" : "Gbaya",
 		"isOfficial" : false,
-		"percentage" : 23.8,
-		"countrycode" : "CAF"
+		"Percentage" : 23.8
 	},
 	{
-		"language" : "Mandjia",
+		"Name" : "Central African Republic",
+		"Language" : "Mandjia",
 		"isOfficial" : false,
-		"percentage" : 14.8,
-		"countrycode" : "CAF"
+		"Percentage" : 14.8
 	},
 	{
-		"language" : "Mbum",
+		"Name" : "Central African Republic",
+		"Language" : "Mbum",
 		"isOfficial" : false,
-		"percentage" : 6.4,
-		"countrycode" : "CAF"
+		"Percentage" : 6.4
 	},
 	{
-		"language" : "Ngbaka",
+		"Name" : "Central African Republic",
+		"Language" : "Ngbaka",
 		"isOfficial" : false,
-		"percentage" : 7.5,
-		"countrycode" : "CAF"
+		"Percentage" : 7.5
 	},
 	{
-		"language" : "Sara",
+		"Name" : "Central African Republic",
+		"Language" : "Sara",
 		"isOfficial" : false,
-		"percentage" : 6.4,
-		"countrycode" : "CAF"
+		"Percentage" : 6.4
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Canada",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "CAN"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Dutch",
+		"Name" : "Canada",
+		"Language" : "Dutch",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "CAN"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "English",
+		"Name" : "Canada",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 60.4,
-		"countrycode" : "CAN"
+		"Percentage" : 60.4
 	},
 	{
-		"language" : "Eskimo Languages",
+		"Name" : "Canada",
+		"Language" : "Eskimo Languages",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "CAN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "French",
+		"Name" : "Canada",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 23.4,
-		"countrycode" : "CAN"
+		"Percentage" : 23.4
 	},
 	{
-		"language" : "German",
+		"Name" : "Canada",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "CAN"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Canada",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "CAN"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Canada",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "CAN"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Canada",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "CAN"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Punjabi",
+		"Name" : "Canada",
+		"Language" : "Punjabi",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "CAN"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Canada",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "CAN"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Canada",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "CAN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Cocos (Keeling) Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "CCK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Cocos (Keeling) Islands",
+		"Language" : "Malay",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "CCK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "French",
+		"Name" : "Switzerland",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 19.2,
-		"countrycode" : "CHE"
+		"Percentage" : 19.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Switzerland",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 63.6,
-		"countrycode" : "CHE"
+		"Percentage" : 63.6
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Switzerland",
+		"Language" : "Italian",
 		"isOfficial" : true,
-		"percentage" : 7.7,
-		"countrycode" : "CHE"
+		"Percentage" : 7.7
 	},
 	{
-		"language" : "Romansh",
+		"Name" : "Switzerland",
+		"Language" : "Romansh",
 		"isOfficial" : true,
-		"percentage" : 0.6,
-		"countrycode" : "CHE"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Aimará",
+		"Name" : "Chile",
+		"Language" : "Aimará",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "CHL"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Araucan",
+		"Name" : "Chile",
+		"Language" : "Araucan",
 		"isOfficial" : false,
-		"percentage" : 9.6,
-		"countrycode" : "CHL"
+		"Percentage" : 9.6
 	},
 	{
-		"language" : "Rapa nui",
+		"Name" : "Chile",
+		"Language" : "Rapa nui",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "CHL"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Chile",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 89.7,
-		"countrycode" : "CHL"
+		"Percentage" : 89.7
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "China",
+		"Language" : "Chinese",
 		"isOfficial" : true,
-		"percentage" : 92.0,
-		"countrycode" : "CHN"
+		"Percentage" : 92.0
 	},
 	{
-		"language" : "Dong",
+		"Name" : "China",
+		"Language" : "Dong",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "CHN"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Hui",
+		"Name" : "China",
+		"Language" : "Hui",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "CHN"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Mantšu",
+		"Name" : "China",
+		"Language" : "Mantšu",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "CHN"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Miao",
+		"Name" : "China",
+		"Language" : "Miao",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "CHN"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Mongolian",
+		"Name" : "China",
+		"Language" : "Mongolian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "CHN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Puyi",
+		"Name" : "China",
+		"Language" : "Puyi",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "CHN"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Tibetan",
+		"Name" : "China",
+		"Language" : "Tibetan",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "CHN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Tujia",
+		"Name" : "China",
+		"Language" : "Tujia",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "CHN"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Uighur",
+		"Name" : "China",
+		"Language" : "Uighur",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "CHN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Yi",
+		"Name" : "China",
+		"Language" : "Yi",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "CHN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Zhuang",
+		"Name" : "China",
+		"Language" : "Zhuang",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "CHN"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "[South]Mande",
+		"Name" : "Côte d’Ivoire",
+		"Language" : "[South]Mande",
 		"isOfficial" : false,
-		"percentage" : 7.7,
-		"countrycode" : "CIV"
+		"Percentage" : 7.7
 	},
 	{
-		"language" : "Akan",
+		"Name" : "Côte d’Ivoire",
+		"Language" : "Akan",
 		"isOfficial" : false,
-		"percentage" : 30.0,
-		"countrycode" : "CIV"
+		"Percentage" : 30.0
 	},
 	{
-		"language" : "Gur",
+		"Name" : "Côte d’Ivoire",
+		"Language" : "Gur",
 		"isOfficial" : false,
-		"percentage" : 11.7,
-		"countrycode" : "CIV"
+		"Percentage" : 11.7
 	},
 	{
-		"language" : "Kru",
+		"Name" : "Côte d’Ivoire",
+		"Language" : "Kru",
 		"isOfficial" : false,
-		"percentage" : 10.5,
-		"countrycode" : "CIV"
+		"Percentage" : 10.5
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Côte d’Ivoire",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 11.4,
-		"countrycode" : "CIV"
+		"Percentage" : 11.4
 	},
 	{
-		"language" : "Bamileke-bamum",
+		"Name" : "Cameroon",
+		"Language" : "Bamileke-bamum",
 		"isOfficial" : false,
-		"percentage" : 18.6,
-		"countrycode" : "CMR"
+		"Percentage" : 18.6
 	},
 	{
-		"language" : "Duala",
+		"Name" : "Cameroon",
+		"Language" : "Duala",
 		"isOfficial" : false,
-		"percentage" : 10.9,
-		"countrycode" : "CMR"
+		"Percentage" : 10.9
 	},
 	{
-		"language" : "Fang",
+		"Name" : "Cameroon",
+		"Language" : "Fang",
 		"isOfficial" : false,
-		"percentage" : 19.7,
-		"countrycode" : "CMR"
+		"Percentage" : 19.7
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Cameroon",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 9.6,
-		"countrycode" : "CMR"
+		"Percentage" : 9.6
 	},
 	{
-		"language" : "Maka",
+		"Name" : "Cameroon",
+		"Language" : "Maka",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "CMR"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Mandara",
+		"Name" : "Cameroon",
+		"Language" : "Mandara",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "CMR"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Masana",
+		"Name" : "Cameroon",
+		"Language" : "Masana",
 		"isOfficial" : false,
-		"percentage" : 3.9,
-		"countrycode" : "CMR"
+		"Percentage" : 3.9
 	},
 	{
-		"language" : "Tikar",
+		"Name" : "Cameroon",
+		"Language" : "Tikar",
 		"isOfficial" : false,
-		"percentage" : 7.4,
-		"countrycode" : "CMR"
+		"Percentage" : 7.4
 	},
 	{
-		"language" : "Boa",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Boa",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "COD"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Chokwe",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Chokwe",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "COD"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Kongo",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Kongo",
 		"isOfficial" : false,
-		"percentage" : 16.0,
-		"countrycode" : "COD"
+		"Percentage" : 16.0
 	},
 	{
-		"language" : "Luba",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Luba",
 		"isOfficial" : false,
-		"percentage" : 18.0,
-		"countrycode" : "COD"
+		"Percentage" : 18.0
 	},
 	{
-		"language" : "Mongo",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Mongo",
 		"isOfficial" : false,
-		"percentage" : 13.5,
-		"countrycode" : "COD"
+		"Percentage" : 13.5
 	},
 	{
-		"language" : "Ngala and Bangi",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Ngala and Bangi",
 		"isOfficial" : false,
-		"percentage" : 5.8,
-		"countrycode" : "COD"
+		"Percentage" : 5.8
 	},
 	{
-		"language" : "Rundi",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Rundi",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "COD"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Rwanda",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Rwanda",
 		"isOfficial" : false,
-		"percentage" : 10.3,
-		"countrycode" : "COD"
+		"Percentage" : 10.3
 	},
 	{
-		"language" : "Teke",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Teke",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "COD"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Zande",
+		"Name" : "Congo, The Democratic Republic of the",
+		"Language" : "Zande",
 		"isOfficial" : false,
-		"percentage" : 6.1,
-		"countrycode" : "COD"
+		"Percentage" : 6.1
 	},
 	{
-		"language" : "Kongo",
+		"Name" : "Congo",
+		"Language" : "Kongo",
 		"isOfficial" : false,
-		"percentage" : 51.5,
-		"countrycode" : "COG"
+		"Percentage" : 51.5
 	},
 	{
-		"language" : "Mbete",
+		"Name" : "Congo",
+		"Language" : "Mbete",
 		"isOfficial" : false,
-		"percentage" : 4.8,
-		"countrycode" : "COG"
+		"Percentage" : 4.8
 	},
 	{
-		"language" : "Mboshi",
+		"Name" : "Congo",
+		"Language" : "Mboshi",
 		"isOfficial" : false,
-		"percentage" : 11.4,
-		"countrycode" : "COG"
+		"Percentage" : 11.4
 	},
 	{
-		"language" : "Punu",
+		"Name" : "Congo",
+		"Language" : "Punu",
 		"isOfficial" : false,
-		"percentage" : 2.9,
-		"countrycode" : "COG"
+		"Percentage" : 2.9
 	},
 	{
-		"language" : "Sango",
+		"Name" : "Congo",
+		"Language" : "Sango",
 		"isOfficial" : false,
-		"percentage" : 2.6,
-		"countrycode" : "COG"
+		"Percentage" : 2.6
 	},
 	{
-		"language" : "Teke",
+		"Name" : "Congo",
+		"Language" : "Teke",
 		"isOfficial" : false,
-		"percentage" : 17.3,
-		"countrycode" : "COG"
+		"Percentage" : 17.3
 	},
 	{
-		"language" : "English",
+		"Name" : "Cook Islands",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "COK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Maori",
+		"Name" : "Cook Islands",
+		"Language" : "Maori",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "COK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arawakan",
+		"Name" : "Colombia",
+		"Language" : "Arawakan",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "COL"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Caribbean",
+		"Name" : "Colombia",
+		"Language" : "Caribbean",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "COL"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Chibcha",
+		"Name" : "Colombia",
+		"Language" : "Chibcha",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "COL"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Colombia",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "COL"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Colombia",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 99.0,
-		"countrycode" : "COL"
+		"Percentage" : 99.0
 	},
 	{
-		"language" : "Comorian",
+		"Name" : "Comoros",
+		"Language" : "Comorian",
 		"isOfficial" : true,
-		"percentage" : 75.0,
-		"countrycode" : "COM"
+		"Percentage" : 75.0
 	},
 	{
-		"language" : "Comorian-Arabic",
+		"Name" : "Comoros",
+		"Language" : "Comorian-Arabic",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "COM"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Comorian-French",
+		"Name" : "Comoros",
+		"Language" : "Comorian-French",
 		"isOfficial" : false,
-		"percentage" : 12.9,
-		"countrycode" : "COM"
+		"Percentage" : 12.9
 	},
 	{
-		"language" : "Comorian-madagassi",
+		"Name" : "Comoros",
+		"Language" : "Comorian-madagassi",
 		"isOfficial" : false,
-		"percentage" : 5.5,
-		"countrycode" : "COM"
+		"Percentage" : 5.5
 	},
 	{
-		"language" : "Comorian-Swahili",
+		"Name" : "Comoros",
+		"Language" : "Comorian-Swahili",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "COM"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Crioulo",
+		"Name" : "Cape Verde",
+		"Language" : "Crioulo",
 		"isOfficial" : false,
-		"percentage" : 100.0,
-		"countrycode" : "CPV"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Cape Verde",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "CPV"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Chibcha",
+		"Name" : "Costa Rica",
+		"Language" : "Chibcha",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "CRI"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Costa Rica",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "CRI"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Costa Rica",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "CRI"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Costa Rica",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 97.5,
-		"countrycode" : "CRI"
+		"Percentage" : 97.5
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Cuba",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "CUB"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Christmas Island",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "CXR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Christmas Island",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "CXR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Cayman Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "CYM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Greek",
+		"Name" : "Cyprus",
+		"Language" : "Greek",
 		"isOfficial" : true,
-		"percentage" : 74.1,
-		"countrycode" : "CYP"
+		"Percentage" : 74.1
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Cyprus",
+		"Language" : "Turkish",
 		"isOfficial" : true,
-		"percentage" : 22.4,
-		"countrycode" : "CYP"
+		"Percentage" : 22.4
 	},
 	{
-		"language" : "Czech",
+		"Name" : "Czech Republic",
+		"Language" : "Czech",
 		"isOfficial" : true,
-		"percentage" : 81.2,
-		"countrycode" : "CZE"
+		"Percentage" : 81.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Czech Republic",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "CZE"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Czech Republic",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "CZE"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Moravian",
+		"Name" : "Czech Republic",
+		"Language" : "Moravian",
 		"isOfficial" : false,
-		"percentage" : 12.9,
-		"countrycode" : "CZE"
+		"Percentage" : 12.9
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Czech Republic",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "CZE"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Czech Republic",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "CZE"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Silesiana",
+		"Name" : "Czech Republic",
+		"Language" : "Silesiana",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "CZE"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Slovak",
+		"Name" : "Czech Republic",
+		"Language" : "Slovak",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "CZE"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "German",
+		"Name" : "Germany",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 91.3,
-		"countrycode" : "DEU"
+		"Percentage" : 91.3
 	},
 	{
-		"language" : "Greek",
+		"Name" : "Germany",
+		"Language" : "Greek",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "DEU"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Germany",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "DEU"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Germany",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "DEU"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Southern Slavic Languages",
+		"Name" : "Germany",
+		"Language" : "Southern Slavic Languages",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "DEU"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Germany",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 2.6,
-		"countrycode" : "DEU"
+		"Percentage" : 2.6
 	},
 	{
-		"language" : "Afar",
+		"Name" : "Djibouti",
+		"Language" : "Afar",
 		"isOfficial" : false,
-		"percentage" : 34.8,
-		"countrycode" : "DJI"
+		"Percentage" : 34.8
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Djibouti",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 10.6,
-		"countrycode" : "DJI"
+		"Percentage" : 10.6
 	},
 	{
-		"language" : "Somali",
+		"Name" : "Djibouti",
+		"Language" : "Somali",
 		"isOfficial" : false,
-		"percentage" : 43.9,
-		"countrycode" : "DJI"
+		"Percentage" : 43.9
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Dominica",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 100.0,
-		"countrycode" : "DMA"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Dominica",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "DMA"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Denmark",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "DNK"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Danish",
+		"Name" : "Denmark",
+		"Language" : "Danish",
 		"isOfficial" : true,
-		"percentage" : 93.5,
-		"countrycode" : "DNK"
+		"Percentage" : 93.5
 	},
 	{
-		"language" : "English",
+		"Name" : "Denmark",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "DNK"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "German",
+		"Name" : "Denmark",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "DNK"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Norwegian",
+		"Name" : "Denmark",
+		"Language" : "Norwegian",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "DNK"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Swedish",
+		"Name" : "Denmark",
+		"Language" : "Swedish",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "DNK"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Denmark",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "DNK"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Dominican Republic",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "DOM"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Dominican Republic",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 98.0,
-		"countrycode" : "DOM"
+		"Percentage" : 98.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Algeria",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 86.0,
-		"countrycode" : "DZA"
+		"Percentage" : 86.0
 	},
 	{
-		"language" : "Berberi",
+		"Name" : "Algeria",
+		"Language" : "Berberi",
 		"isOfficial" : false,
-		"percentage" : 14.0,
-		"countrycode" : "DZA"
+		"Percentage" : 14.0
 	},
 	{
-		"language" : "Ketšua",
+		"Name" : "Ecuador",
+		"Language" : "Ketšua",
 		"isOfficial" : false,
-		"percentage" : 7.0,
-		"countrycode" : "ECU"
+		"Percentage" : 7.0
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Ecuador",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 93.0,
-		"countrycode" : "ECU"
+		"Percentage" : 93.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Egypt",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 98.8,
-		"countrycode" : "EGY"
+		"Percentage" : 98.8
 	},
 	{
-		"language" : "Sinaberberi",
+		"Name" : "Egypt",
+		"Language" : "Sinaberberi",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "EGY"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Afar",
+		"Name" : "Eritrea",
+		"Language" : "Afar",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "ERI"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Bilin",
+		"Name" : "Eritrea",
+		"Language" : "Bilin",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "ERI"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "Hadareb",
+		"Name" : "Eritrea",
+		"Language" : "Hadareb",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "ERI"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Saho",
+		"Name" : "Eritrea",
+		"Language" : "Saho",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "ERI"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "Tigre",
+		"Name" : "Eritrea",
+		"Language" : "Tigre",
 		"isOfficial" : false,
-		"percentage" : 31.7,
-		"countrycode" : "ERI"
+		"Percentage" : 31.7
 	},
 	{
-		"language" : "Tigrinja",
+		"Name" : "Eritrea",
+		"Language" : "Tigrinja",
 		"isOfficial" : true,
-		"percentage" : 49.1,
-		"countrycode" : "ERI"
+		"Percentage" : 49.1
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Western Sahara",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "ESH"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Basque",
+		"Name" : "Spain",
+		"Language" : "Basque",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "ESP"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Catalan",
+		"Name" : "Spain",
+		"Language" : "Catalan",
 		"isOfficial" : false,
-		"percentage" : 16.9,
-		"countrycode" : "ESP"
+		"Percentage" : 16.9
 	},
 	{
-		"language" : "Galecian",
+		"Name" : "Spain",
+		"Language" : "Galecian",
 		"isOfficial" : false,
-		"percentage" : 6.4,
-		"countrycode" : "ESP"
+		"Percentage" : 6.4
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Spain",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 74.4,
-		"countrycode" : "ESP"
+		"Percentage" : 74.4
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Estonia",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "EST"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Estonian",
+		"Name" : "Estonia",
+		"Language" : "Estonian",
 		"isOfficial" : true,
-		"percentage" : 65.3,
-		"countrycode" : "EST"
+		"Percentage" : 65.3
 	},
 	{
-		"language" : "Finnish",
+		"Name" : "Estonia",
+		"Language" : "Finnish",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "EST"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Estonia",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 27.8,
-		"countrycode" : "EST"
+		"Percentage" : 27.8
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Estonia",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "EST"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Amhara",
+		"Name" : "Ethiopia",
+		"Language" : "Amhara",
 		"isOfficial" : false,
-		"percentage" : 30.0,
-		"countrycode" : "ETH"
+		"Percentage" : 30.0
 	},
 	{
-		"language" : "Gurage",
+		"Name" : "Ethiopia",
+		"Language" : "Gurage",
 		"isOfficial" : false,
-		"percentage" : 4.7,
-		"countrycode" : "ETH"
+		"Percentage" : 4.7
 	},
 	{
-		"language" : "Oromo",
+		"Name" : "Ethiopia",
+		"Language" : "Oromo",
 		"isOfficial" : false,
-		"percentage" : 31.0,
-		"countrycode" : "ETH"
+		"Percentage" : 31.0
 	},
 	{
-		"language" : "Sidamo",
+		"Name" : "Ethiopia",
+		"Language" : "Sidamo",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "ETH"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Somali",
+		"Name" : "Ethiopia",
+		"Language" : "Somali",
 		"isOfficial" : false,
-		"percentage" : 4.1,
-		"countrycode" : "ETH"
+		"Percentage" : 4.1
 	},
 	{
-		"language" : "Tigrinja",
+		"Name" : "Ethiopia",
+		"Language" : "Tigrinja",
 		"isOfficial" : false,
-		"percentage" : 7.2,
-		"countrycode" : "ETH"
+		"Percentage" : 7.2
 	},
 	{
-		"language" : "Walaita",
+		"Name" : "Ethiopia",
+		"Language" : "Walaita",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "ETH"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Estonian",
+		"Name" : "Finland",
+		"Language" : "Estonian",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "FIN"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Finnish",
+		"Name" : "Finland",
+		"Language" : "Finnish",
 		"isOfficial" : true,
-		"percentage" : 92.7,
-		"countrycode" : "FIN"
+		"Percentage" : 92.7
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Finland",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "FIN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Saame",
+		"Name" : "Finland",
+		"Language" : "Saame",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "FIN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Swedish",
+		"Name" : "Finland",
+		"Language" : "Swedish",
 		"isOfficial" : true,
-		"percentage" : 5.7,
-		"countrycode" : "FIN"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Fijian",
+		"Name" : "Fiji Islands",
+		"Language" : "Fijian",
 		"isOfficial" : true,
-		"percentage" : 50.8,
-		"countrycode" : "FJI"
+		"Percentage" : 50.8
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Fiji Islands",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 43.7,
-		"countrycode" : "FJI"
+		"Percentage" : 43.7
 	},
 	{
-		"language" : "English",
+		"Name" : "Falkland Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "FLK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "France",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "FRA"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "French",
+		"Name" : "France",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 93.6,
-		"countrycode" : "FRA"
+		"Percentage" : 93.6
 	},
 	{
-		"language" : "Italian",
+		"Name" : "France",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "FRA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "France",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "FRA"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "France",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "FRA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "France",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "FRA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Danish",
+		"Name" : "Faroe Islands",
+		"Language" : "Danish",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "FRO"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Faroese",
+		"Name" : "Faroe Islands",
+		"Language" : "Faroese",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "FRO"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Kosrean",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Kosrean",
 		"isOfficial" : false,
-		"percentage" : 7.3,
-		"countrycode" : "FSM"
+		"Percentage" : 7.3
 	},
 	{
-		"language" : "Mortlock",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Mortlock",
 		"isOfficial" : false,
-		"percentage" : 7.6,
-		"countrycode" : "FSM"
+		"Percentage" : 7.6
 	},
 	{
-		"language" : "Pohnpei",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Pohnpei",
 		"isOfficial" : false,
-		"percentage" : 23.8,
-		"countrycode" : "FSM"
+		"Percentage" : 23.8
 	},
 	{
-		"language" : "Trukese",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Trukese",
 		"isOfficial" : false,
-		"percentage" : 41.6,
-		"countrycode" : "FSM"
+		"Percentage" : 41.6
 	},
 	{
-		"language" : "Wolea",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Wolea",
 		"isOfficial" : false,
-		"percentage" : 3.7,
-		"countrycode" : "FSM"
+		"Percentage" : 3.7
 	},
 	{
-		"language" : "Yap",
+		"Name" : "Micronesia, Federated States of",
+		"Language" : "Yap",
 		"isOfficial" : false,
-		"percentage" : 5.8,
-		"countrycode" : "FSM"
+		"Percentage" : 5.8
 	},
 	{
-		"language" : "Fang",
+		"Name" : "Gabon",
+		"Language" : "Fang",
 		"isOfficial" : false,
-		"percentage" : 35.8,
-		"countrycode" : "GAB"
+		"Percentage" : 35.8
 	},
 	{
-		"language" : "Mbete",
+		"Name" : "Gabon",
+		"Language" : "Mbete",
 		"isOfficial" : false,
-		"percentage" : 13.8,
-		"countrycode" : "GAB"
+		"Percentage" : 13.8
 	},
 	{
-		"language" : "Mpongwe",
+		"Name" : "Gabon",
+		"Language" : "Mpongwe",
 		"isOfficial" : false,
-		"percentage" : 14.6,
-		"countrycode" : "GAB"
+		"Percentage" : 14.6
 	},
 	{
-		"language" : "Punu-sira-nzebi",
+		"Name" : "Gabon",
+		"Language" : "Punu-sira-nzebi",
 		"isOfficial" : false,
-		"percentage" : 17.1,
-		"countrycode" : "GAB"
+		"Percentage" : 17.1
 	},
 	{
-		"language" : "English",
+		"Name" : "United Kingdom",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 97.3,
-		"countrycode" : "GBR"
+		"Percentage" : 97.3
 	},
 	{
-		"language" : "Gaeli",
+		"Name" : "United Kingdom",
+		"Language" : "Gaeli",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "GBR"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Kymri",
+		"Name" : "United Kingdom",
+		"Language" : "Kymri",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "GBR"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Abhyasi",
+		"Name" : "Georgia",
+		"Language" : "Abhyasi",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "GEO"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Armenian",
+		"Name" : "Georgia",
+		"Language" : "Armenian",
 		"isOfficial" : false,
-		"percentage" : 6.8,
-		"countrycode" : "GEO"
+		"Percentage" : 6.8
 	},
 	{
-		"language" : "Azerbaijani",
+		"Name" : "Georgia",
+		"Language" : "Azerbaijani",
 		"isOfficial" : false,
-		"percentage" : 5.5,
-		"countrycode" : "GEO"
+		"Percentage" : 5.5
 	},
 	{
-		"language" : "Georgiana",
+		"Name" : "Georgia",
+		"Language" : "Georgiana",
 		"isOfficial" : true,
-		"percentage" : 71.7,
-		"countrycode" : "GEO"
+		"Percentage" : 71.7
 	},
 	{
-		"language" : "Osseetti",
+		"Name" : "Georgia",
+		"Language" : "Osseetti",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "GEO"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Georgia",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 8.8,
-		"countrycode" : "GEO"
+		"Percentage" : 8.8
 	},
 	{
-		"language" : "Akan",
+		"Name" : "Ghana",
+		"Language" : "Akan",
 		"isOfficial" : false,
-		"percentage" : 52.4,
-		"countrycode" : "GHA"
+		"Percentage" : 52.4
 	},
 	{
-		"language" : "Ewe",
+		"Name" : "Ghana",
+		"Language" : "Ewe",
 		"isOfficial" : false,
-		"percentage" : 11.9,
-		"countrycode" : "GHA"
+		"Percentage" : 11.9
 	},
 	{
-		"language" : "Ga-adangme",
+		"Name" : "Ghana",
+		"Language" : "Ga-adangme",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "GHA"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Gurma",
+		"Name" : "Ghana",
+		"Language" : "Gurma",
 		"isOfficial" : false,
-		"percentage" : 3.3,
-		"countrycode" : "GHA"
+		"Percentage" : 3.3
 	},
 	{
-		"language" : "Joruba",
+		"Name" : "Ghana",
+		"Language" : "Joruba",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "GHA"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Mossi",
+		"Name" : "Ghana",
+		"Language" : "Mossi",
 		"isOfficial" : false,
-		"percentage" : 15.8,
-		"countrycode" : "GHA"
+		"Percentage" : 15.8
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Gibraltar",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 7.4,
-		"countrycode" : "GIB"
+		"Percentage" : 7.4
 	},
 	{
-		"language" : "English",
+		"Name" : "Gibraltar",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 88.9,
-		"countrycode" : "GIB"
+		"Percentage" : 88.9
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Guinea",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 38.6,
-		"countrycode" : "GIN"
+		"Percentage" : 38.6
 	},
 	{
-		"language" : "Kissi",
+		"Name" : "Guinea",
+		"Language" : "Kissi",
 		"isOfficial" : false,
-		"percentage" : 6.0,
-		"countrycode" : "GIN"
+		"Percentage" : 6.0
 	},
 	{
-		"language" : "Kpelle",
+		"Name" : "Guinea",
+		"Language" : "Kpelle",
 		"isOfficial" : false,
-		"percentage" : 4.6,
-		"countrycode" : "GIN"
+		"Percentage" : 4.6
 	},
 	{
-		"language" : "Loma",
+		"Name" : "Guinea",
+		"Language" : "Loma",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "GIN"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Guinea",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 23.2,
-		"countrycode" : "GIN"
+		"Percentage" : 23.2
 	},
 	{
-		"language" : "Susu",
+		"Name" : "Guinea",
+		"Language" : "Susu",
 		"isOfficial" : false,
-		"percentage" : 11.0,
-		"countrycode" : "GIN"
+		"Percentage" : 11.0
 	},
 	{
-		"language" : "Yalunka",
+		"Name" : "Guinea",
+		"Language" : "Yalunka",
 		"isOfficial" : false,
-		"percentage" : 2.9,
-		"countrycode" : "GIN"
+		"Percentage" : 2.9
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Guadeloupe",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 95.0,
-		"countrycode" : "GLP"
+		"Percentage" : 95.0
 	},
 	{
-		"language" : "French",
+		"Name" : "Guadeloupe",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "GLP"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Diola",
+		"Name" : "Gambia",
+		"Language" : "Diola",
 		"isOfficial" : false,
-		"percentage" : 9.2,
-		"countrycode" : "GMB"
+		"Percentage" : 9.2
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Gambia",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 16.2,
-		"countrycode" : "GMB"
+		"Percentage" : 16.2
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Gambia",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 34.1,
-		"countrycode" : "GMB"
+		"Percentage" : 34.1
 	},
 	{
-		"language" : "Soninke",
+		"Name" : "Gambia",
+		"Language" : "Soninke",
 		"isOfficial" : false,
-		"percentage" : 7.6,
-		"countrycode" : "GMB"
+		"Percentage" : 7.6
 	},
 	{
-		"language" : "Wolof",
+		"Name" : "Gambia",
+		"Language" : "Wolof",
 		"isOfficial" : false,
-		"percentage" : 12.6,
-		"countrycode" : "GMB"
+		"Percentage" : 12.6
 	},
 	{
-		"language" : "Balante",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Balante",
 		"isOfficial" : false,
-		"percentage" : 14.6,
-		"countrycode" : "GNB"
+		"Percentage" : 14.6
 	},
 	{
-		"language" : "Crioulo",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Crioulo",
 		"isOfficial" : false,
-		"percentage" : 36.4,
-		"countrycode" : "GNB"
+		"Percentage" : 36.4
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 16.6,
-		"countrycode" : "GNB"
+		"Percentage" : 16.6
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 6.9,
-		"countrycode" : "GNB"
+		"Percentage" : 6.9
 	},
 	{
-		"language" : "Mandyako",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Mandyako",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "GNB"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Guinea-Bissau",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 8.1,
-		"countrycode" : "GNB"
+		"Percentage" : 8.1
 	},
 	{
-		"language" : "Bubi",
+		"Name" : "Equatorial Guinea",
+		"Language" : "Bubi",
 		"isOfficial" : false,
-		"percentage" : 8.7,
-		"countrycode" : "GNQ"
+		"Percentage" : 8.7
 	},
 	{
-		"language" : "Fang",
+		"Name" : "Equatorial Guinea",
+		"Language" : "Fang",
 		"isOfficial" : false,
-		"percentage" : 84.8,
-		"countrycode" : "GNQ"
+		"Percentage" : 84.8
 	},
 	{
-		"language" : "Greek",
+		"Name" : "Greece",
+		"Language" : "Greek",
 		"isOfficial" : true,
-		"percentage" : 98.5,
-		"countrycode" : "GRC"
+		"Percentage" : 98.5
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Greece",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "GRC"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Grenada",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 100.0,
-		"countrycode" : "GRD"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Danish",
+		"Name" : "Greenland",
+		"Language" : "Danish",
 		"isOfficial" : true,
-		"percentage" : 12.5,
-		"countrycode" : "GRL"
+		"Percentage" : 12.5
 	},
 	{
-		"language" : "Greenlandic",
+		"Name" : "Greenland",
+		"Language" : "Greenlandic",
 		"isOfficial" : true,
-		"percentage" : 87.5,
-		"countrycode" : "GRL"
+		"Percentage" : 87.5
 	},
 	{
-		"language" : "Cakchiquel",
+		"Name" : "Guatemala",
+		"Language" : "Cakchiquel",
 		"isOfficial" : false,
-		"percentage" : 8.9,
-		"countrycode" : "GTM"
+		"Percentage" : 8.9
 	},
 	{
-		"language" : "Kekchí",
+		"Name" : "Guatemala",
+		"Language" : "Kekchí",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "GTM"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Mam",
+		"Name" : "Guatemala",
+		"Language" : "Mam",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "GTM"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Quiché",
+		"Name" : "Guatemala",
+		"Language" : "Quiché",
 		"isOfficial" : false,
-		"percentage" : 10.1,
-		"countrycode" : "GTM"
+		"Percentage" : 10.1
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Guatemala",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 64.7,
-		"countrycode" : "GTM"
+		"Percentage" : 64.7
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "French Guiana",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 94.3,
-		"countrycode" : "GUF"
+		"Percentage" : 94.3
 	},
 	{
-		"language" : "Indian Languages",
+		"Name" : "French Guiana",
+		"Language" : "Indian Languages",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "GUF"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "Chamorro",
+		"Name" : "Guam",
+		"Language" : "Chamorro",
 		"isOfficial" : true,
-		"percentage" : 29.6,
-		"countrycode" : "GUM"
+		"Percentage" : 29.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Guam",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 37.5,
-		"countrycode" : "GUM"
+		"Percentage" : 37.5
 	},
 	{
-		"language" : "Japanese",
+		"Name" : "Guam",
+		"Language" : "Japanese",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "GUM"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Korean",
+		"Name" : "Guam",
+		"Language" : "Korean",
 		"isOfficial" : false,
-		"percentage" : 3.3,
-		"countrycode" : "GUM"
+		"Percentage" : 3.3
 	},
 	{
-		"language" : "Philippene Languages",
+		"Name" : "Guam",
+		"Language" : "Philippene Languages",
 		"isOfficial" : false,
-		"percentage" : 19.7,
-		"countrycode" : "GUM"
+		"Percentage" : 19.7
 	},
 	{
-		"language" : "Arawakan",
+		"Name" : "Guyana",
+		"Language" : "Arawakan",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "GUY"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Caribbean",
+		"Name" : "Guyana",
+		"Language" : "Caribbean",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "GUY"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Guyana",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 96.4,
-		"countrycode" : "GUY"
+		"Percentage" : 96.4
 	},
 	{
-		"language" : "Canton Chinese",
+		"Name" : "Hong Kong",
+		"Language" : "Canton Chinese",
 		"isOfficial" : false,
-		"percentage" : 88.7,
-		"countrycode" : "HKG"
+		"Percentage" : 88.7
 	},
 	{
-		"language" : "Chiu chau",
+		"Name" : "Hong Kong",
+		"Language" : "Chiu chau",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "HKG"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "English",
+		"Name" : "Hong Kong",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 2.2,
-		"countrycode" : "HKG"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Fukien",
+		"Name" : "Hong Kong",
+		"Language" : "Fukien",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "HKG"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "Hakka",
+		"Name" : "Hong Kong",
+		"Language" : "Hakka",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "HKG"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Honduras",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "HND"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Garifuna",
+		"Name" : "Honduras",
+		"Language" : "Garifuna",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "HND"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Miskito",
+		"Name" : "Honduras",
+		"Language" : "Miskito",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "HND"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Honduras",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 97.2,
-		"countrycode" : "HND"
+		"Percentage" : 97.2
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Croatia",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : true,
-		"percentage" : 95.9,
-		"countrycode" : "HRV"
+		"Percentage" : 95.9
 	},
 	{
-		"language" : "Slovene",
+		"Name" : "Croatia",
+		"Language" : "Slovene",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "HRV"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "French",
+		"Name" : "Haiti",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "HTI"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Haiti Creole",
+		"Name" : "Haiti",
+		"Language" : "Haiti Creole",
 		"isOfficial" : false,
-		"percentage" : 100.0,
-		"countrycode" : "HTI"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "German",
+		"Name" : "Hungary",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "HUN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Hungary",
+		"Language" : "Hungarian",
 		"isOfficial" : true,
-		"percentage" : 98.5,
-		"countrycode" : "HUN"
+		"Percentage" : 98.5
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Hungary",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "HUN"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Romanian",
+		"Name" : "Hungary",
+		"Language" : "Romanian",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "HUN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Hungary",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "HUN"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Slovak",
+		"Name" : "Hungary",
+		"Language" : "Slovak",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "HUN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Bali",
+		"Name" : "Indonesia",
+		"Language" : "Bali",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "IDN"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Banja",
+		"Name" : "Indonesia",
+		"Language" : "Banja",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "IDN"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Batakki",
+		"Name" : "Indonesia",
+		"Language" : "Batakki",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "IDN"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Bugi",
+		"Name" : "Indonesia",
+		"Language" : "Bugi",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "IDN"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Javanese",
+		"Name" : "Indonesia",
+		"Language" : "Javanese",
 		"isOfficial" : false,
-		"percentage" : 39.4,
-		"countrycode" : "IDN"
+		"Percentage" : 39.4
 	},
 	{
-		"language" : "Madura",
+		"Name" : "Indonesia",
+		"Language" : "Madura",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "IDN"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Indonesia",
+		"Language" : "Malay",
 		"isOfficial" : true,
-		"percentage" : 12.1,
-		"countrycode" : "IDN"
+		"Percentage" : 12.1
 	},
 	{
-		"language" : "Minangkabau",
+		"Name" : "Indonesia",
+		"Language" : "Minangkabau",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "IDN"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Sunda",
+		"Name" : "Indonesia",
+		"Language" : "Sunda",
 		"isOfficial" : false,
-		"percentage" : 15.8,
-		"countrycode" : "IDN"
+		"Percentage" : 15.8
 	},
 	{
-		"language" : "Asami",
+		"Name" : "India",
+		"Language" : "Asami",
 		"isOfficial" : false,
-		"percentage" : 1.5,
-		"countrycode" : "IND"
+		"Percentage" : 1.5
 	},
 	{
-		"language" : "Bengali",
+		"Name" : "India",
+		"Language" : "Bengali",
 		"isOfficial" : false,
-		"percentage" : 8.2,
-		"countrycode" : "IND"
+		"Percentage" : 8.2
 	},
 	{
-		"language" : "Gujarati",
+		"Name" : "India",
+		"Language" : "Gujarati",
 		"isOfficial" : false,
-		"percentage" : 4.8,
-		"countrycode" : "IND"
+		"Percentage" : 4.8
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "India",
+		"Language" : "Hindi",
 		"isOfficial" : true,
-		"percentage" : 39.9,
-		"countrycode" : "IND"
+		"Percentage" : 39.9
 	},
 	{
-		"language" : "Kannada",
+		"Name" : "India",
+		"Language" : "Kannada",
 		"isOfficial" : false,
-		"percentage" : 3.9,
-		"countrycode" : "IND"
+		"Percentage" : 3.9
 	},
 	{
-		"language" : "Malajalam",
+		"Name" : "India",
+		"Language" : "Malajalam",
 		"isOfficial" : false,
-		"percentage" : 3.6,
-		"countrycode" : "IND"
+		"Percentage" : 3.6
 	},
 	{
-		"language" : "Marathi",
+		"Name" : "India",
+		"Language" : "Marathi",
 		"isOfficial" : false,
-		"percentage" : 7.4,
-		"countrycode" : "IND"
+		"Percentage" : 7.4
 	},
 	{
-		"language" : "Orija",
+		"Name" : "India",
+		"Language" : "Orija",
 		"isOfficial" : false,
-		"percentage" : 3.3,
-		"countrycode" : "IND"
+		"Percentage" : 3.3
 	},
 	{
-		"language" : "Punjabi",
+		"Name" : "India",
+		"Language" : "Punjabi",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "IND"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "India",
+		"Language" : "Tamil",
 		"isOfficial" : false,
-		"percentage" : 6.3,
-		"countrycode" : "IND"
+		"Percentage" : 6.3
 	},
 	{
-		"language" : "Telugu",
+		"Name" : "India",
+		"Language" : "Telugu",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "IND"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Urdu",
+		"Name" : "India",
+		"Language" : "Urdu",
 		"isOfficial" : false,
-		"percentage" : 5.1,
-		"countrycode" : "IND"
+		"Percentage" : 5.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Ireland",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 98.4,
-		"countrycode" : "IRL"
+		"Percentage" : 98.4
 	},
 	{
-		"language" : "Irish",
+		"Name" : "Ireland",
+		"Language" : "Irish",
 		"isOfficial" : true,
-		"percentage" : 1.6,
-		"countrycode" : "IRL"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Iran",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "IRN"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Azerbaijani",
+		"Name" : "Iran",
+		"Language" : "Azerbaijani",
 		"isOfficial" : false,
-		"percentage" : 16.8,
-		"countrycode" : "IRN"
+		"Percentage" : 16.8
 	},
 	{
-		"language" : "Bakhtyari",
+		"Name" : "Iran",
+		"Language" : "Bakhtyari",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "IRN"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Balochi",
+		"Name" : "Iran",
+		"Language" : "Balochi",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "IRN"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Gilaki",
+		"Name" : "Iran",
+		"Language" : "Gilaki",
 		"isOfficial" : false,
-		"percentage" : 5.3,
-		"countrycode" : "IRN"
+		"Percentage" : 5.3
 	},
 	{
-		"language" : "Kurdish",
+		"Name" : "Iran",
+		"Language" : "Kurdish",
 		"isOfficial" : false,
-		"percentage" : 9.1,
-		"countrycode" : "IRN"
+		"Percentage" : 9.1
 	},
 	{
-		"language" : "Luri",
+		"Name" : "Iran",
+		"Language" : "Luri",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "IRN"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Mazandarani",
+		"Name" : "Iran",
+		"Language" : "Mazandarani",
 		"isOfficial" : false,
-		"percentage" : 3.6,
-		"countrycode" : "IRN"
+		"Percentage" : 3.6
 	},
 	{
-		"language" : "Persian",
+		"Name" : "Iran",
+		"Language" : "Persian",
 		"isOfficial" : true,
-		"percentage" : 45.7,
-		"countrycode" : "IRN"
+		"Percentage" : 45.7
 	},
 	{
-		"language" : "Turkmenian",
+		"Name" : "Iran",
+		"Language" : "Turkmenian",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "IRN"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Iraq",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 77.2,
-		"countrycode" : "IRQ"
+		"Percentage" : 77.2
 	},
 	{
-		"language" : "Assyrian",
+		"Name" : "Iraq",
+		"Language" : "Assyrian",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "IRQ"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Azerbaijani",
+		"Name" : "Iraq",
+		"Language" : "Azerbaijani",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "IRQ"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Kurdish",
+		"Name" : "Iraq",
+		"Language" : "Kurdish",
 		"isOfficial" : false,
-		"percentage" : 19.0,
-		"countrycode" : "IRQ"
+		"Percentage" : 19.0
 	},
 	{
-		"language" : "Persian",
+		"Name" : "Iraq",
+		"Language" : "Persian",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "IRQ"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "English",
+		"Name" : "Iceland",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "ISL"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Icelandic",
+		"Name" : "Iceland",
+		"Language" : "Icelandic",
 		"isOfficial" : true,
-		"percentage" : 95.7,
-		"countrycode" : "ISL"
+		"Percentage" : 95.7
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Israel",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 18.0,
-		"countrycode" : "ISR"
+		"Percentage" : 18.0
 	},
 	{
-		"language" : "Hebrew",
+		"Name" : "Israel",
+		"Language" : "Hebrew",
 		"isOfficial" : true,
-		"percentage" : 63.1,
-		"countrycode" : "ISR"
+		"Percentage" : 63.1
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Israel",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 8.9,
-		"countrycode" : "ISR"
+		"Percentage" : 8.9
 	},
 	{
-		"language" : "Albaniana",
+		"Name" : "Italy",
+		"Language" : "Albaniana",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "ITA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "French",
+		"Name" : "Italy",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "ITA"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Friuli",
+		"Name" : "Italy",
+		"Language" : "Friuli",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "ITA"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Italy",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "ITA"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Italy",
+		"Language" : "Italian",
 		"isOfficial" : true,
-		"percentage" : 94.1,
-		"countrycode" : "ITA"
+		"Percentage" : 94.1
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Italy",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "ITA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Sardinian",
+		"Name" : "Italy",
+		"Language" : "Sardinian",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "ITA"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Slovene",
+		"Name" : "Italy",
+		"Language" : "Slovene",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "ITA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Jamaica",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 94.2,
-		"countrycode" : "JAM"
+		"Percentage" : 94.2
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Jamaica",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "JAM"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Jordan",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 97.9,
-		"countrycode" : "JOR"
+		"Percentage" : 97.9
 	},
 	{
-		"language" : "Armenian",
+		"Name" : "Jordan",
+		"Language" : "Armenian",
 		"isOfficial" : false,
-		"percentage" : 1.0,
-		"countrycode" : "JOR"
+		"Percentage" : 1.0
 	},
 	{
-		"language" : "Circassian",
+		"Name" : "Jordan",
+		"Language" : "Circassian",
 		"isOfficial" : false,
-		"percentage" : 1.0,
-		"countrycode" : "JOR"
+		"Percentage" : 1.0
 	},
 	{
-		"language" : "Ainu",
+		"Name" : "Japan",
+		"Language" : "Ainu",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "JPN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Japan",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "JPN"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "English",
+		"Name" : "Japan",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "JPN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Japanese",
+		"Name" : "Japan",
+		"Language" : "Japanese",
 		"isOfficial" : true,
-		"percentage" : 99.1,
-		"countrycode" : "JPN"
+		"Percentage" : 99.1
 	},
 	{
-		"language" : "Korean",
+		"Name" : "Japan",
+		"Language" : "Korean",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "JPN"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Philippene Languages",
+		"Name" : "Japan",
+		"Language" : "Philippene Languages",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "JPN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "German",
+		"Name" : "Kazakstan",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "KAZ"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Kazakstan",
+		"Language" : "Kazakh",
 		"isOfficial" : true,
-		"percentage" : 46.0,
-		"countrycode" : "KAZ"
+		"Percentage" : 46.0
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Kazakstan",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 34.7,
-		"countrycode" : "KAZ"
+		"Percentage" : 34.7
 	},
 	{
-		"language" : "Tatar",
+		"Name" : "Kazakstan",
+		"Language" : "Tatar",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "KAZ"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Kazakstan",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 5.0,
-		"countrycode" : "KAZ"
+		"Percentage" : 5.0
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Kazakstan",
+		"Language" : "Uzbek",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "KAZ"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Gusii",
+		"Name" : "Kenya",
+		"Language" : "Gusii",
 		"isOfficial" : false,
-		"percentage" : 6.1,
-		"countrycode" : "KEN"
+		"Percentage" : 6.1
 	},
 	{
-		"language" : "Kalenjin",
+		"Name" : "Kenya",
+		"Language" : "Kalenjin",
 		"isOfficial" : false,
-		"percentage" : 10.8,
-		"countrycode" : "KEN"
+		"Percentage" : 10.8
 	},
 	{
-		"language" : "Kamba",
+		"Name" : "Kenya",
+		"Language" : "Kamba",
 		"isOfficial" : false,
-		"percentage" : 11.2,
-		"countrycode" : "KEN"
+		"Percentage" : 11.2
 	},
 	{
-		"language" : "Kikuyu",
+		"Name" : "Kenya",
+		"Language" : "Kikuyu",
 		"isOfficial" : false,
-		"percentage" : 20.9,
-		"countrycode" : "KEN"
+		"Percentage" : 20.9
 	},
 	{
-		"language" : "Luhya",
+		"Name" : "Kenya",
+		"Language" : "Luhya",
 		"isOfficial" : false,
-		"percentage" : 13.8,
-		"countrycode" : "KEN"
+		"Percentage" : 13.8
 	},
 	{
-		"language" : "Luo",
+		"Name" : "Kenya",
+		"Language" : "Luo",
 		"isOfficial" : false,
-		"percentage" : 12.8,
-		"countrycode" : "KEN"
+		"Percentage" : 12.8
 	},
 	{
-		"language" : "Masai",
+		"Name" : "Kenya",
+		"Language" : "Masai",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "KEN"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Meru",
+		"Name" : "Kenya",
+		"Language" : "Meru",
 		"isOfficial" : false,
-		"percentage" : 5.5,
-		"countrycode" : "KEN"
+		"Percentage" : 5.5
 	},
 	{
-		"language" : "Nyika",
+		"Name" : "Kenya",
+		"Language" : "Nyika",
 		"isOfficial" : false,
-		"percentage" : 4.8,
-		"countrycode" : "KEN"
+		"Percentage" : 4.8
 	},
 	{
-		"language" : "Turkana",
+		"Name" : "Kenya",
+		"Language" : "Turkana",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "KEN"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Kazakh",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "KGZ"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Kirgiz",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Kirgiz",
 		"isOfficial" : true,
-		"percentage" : 59.7,
-		"countrycode" : "KGZ"
+		"Percentage" : 59.7
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Russian",
 		"isOfficial" : true,
-		"percentage" : 16.2,
-		"countrycode" : "KGZ"
+		"Percentage" : 16.2
 	},
 	{
-		"language" : "Tadzhik",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Tadzhik",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "KGZ"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Tatar",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Tatar",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "KGZ"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "KGZ"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Kyrgyzstan",
+		"Language" : "Uzbek",
 		"isOfficial" : false,
-		"percentage" : 14.1,
-		"countrycode" : "KGZ"
+		"Percentage" : 14.1
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Cambodia",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 3.1,
-		"countrycode" : "KHM"
+		"Percentage" : 3.1
 	},
 	{
-		"language" : "Khmer",
+		"Name" : "Cambodia",
+		"Language" : "Khmer",
 		"isOfficial" : true,
-		"percentage" : 88.6,
-		"countrycode" : "KHM"
+		"Percentage" : 88.6
 	},
 	{
-		"language" : "Tšam",
+		"Name" : "Cambodia",
+		"Language" : "Tšam",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "KHM"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Vietnamese",
+		"Name" : "Cambodia",
+		"Language" : "Vietnamese",
 		"isOfficial" : false,
-		"percentage" : 5.5,
-		"countrycode" : "KHM"
+		"Percentage" : 5.5
 	},
 	{
-		"language" : "Kiribati",
+		"Name" : "Kiribati",
+		"Language" : "Kiribati",
 		"isOfficial" : true,
-		"percentage" : 98.9,
-		"countrycode" : "KIR"
+		"Percentage" : 98.9
 	},
 	{
-		"language" : "Tuvalu",
+		"Name" : "Kiribati",
+		"Language" : "Tuvalu",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "KIR"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Saint Kitts and Nevis",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 100.0,
-		"countrycode" : "KNA"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Saint Kitts and Nevis",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "KNA"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "South Korea",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "KOR"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Korean",
+		"Name" : "South Korea",
+		"Language" : "Korean",
 		"isOfficial" : true,
-		"percentage" : 99.9,
-		"countrycode" : "KOR"
+		"Percentage" : 99.9
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Kuwait",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 78.1,
-		"countrycode" : "KWT"
+		"Percentage" : 78.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Kuwait",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "KWT"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Lao",
+		"Name" : "Laos",
+		"Language" : "Lao",
 		"isOfficial" : true,
-		"percentage" : 67.2,
-		"countrycode" : "LAO"
+		"Percentage" : 67.2
 	},
 	{
-		"language" : "Lao-Soung",
+		"Name" : "Laos",
+		"Language" : "Lao-Soung",
 		"isOfficial" : false,
-		"percentage" : 5.2,
-		"countrycode" : "LAO"
+		"Percentage" : 5.2
 	},
 	{
-		"language" : "Mon-khmer",
+		"Name" : "Laos",
+		"Language" : "Mon-khmer",
 		"isOfficial" : false,
-		"percentage" : 16.5,
-		"countrycode" : "LAO"
+		"Percentage" : 16.5
 	},
 	{
-		"language" : "Thai",
+		"Name" : "Laos",
+		"Language" : "Thai",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "LAO"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Lebanon",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 93.0,
-		"countrycode" : "LBN"
+		"Percentage" : 93.0
 	},
 	{
-		"language" : "Armenian",
+		"Name" : "Lebanon",
+		"Language" : "Armenian",
 		"isOfficial" : false,
-		"percentage" : 5.9,
-		"countrycode" : "LBN"
+		"Percentage" : 5.9
 	},
 	{
-		"language" : "French",
+		"Name" : "Lebanon",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "LBN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Bassa",
+		"Name" : "Liberia",
+		"Language" : "Bassa",
 		"isOfficial" : false,
-		"percentage" : 13.7,
-		"countrycode" : "LBR"
+		"Percentage" : 13.7
 	},
 	{
-		"language" : "Gio",
+		"Name" : "Liberia",
+		"Language" : "Gio",
 		"isOfficial" : false,
-		"percentage" : 7.9,
-		"countrycode" : "LBR"
+		"Percentage" : 7.9
 	},
 	{
-		"language" : "Grebo",
+		"Name" : "Liberia",
+		"Language" : "Grebo",
 		"isOfficial" : false,
-		"percentage" : 8.9,
-		"countrycode" : "LBR"
+		"Percentage" : 8.9
 	},
 	{
-		"language" : "Kpelle",
+		"Name" : "Liberia",
+		"Language" : "Kpelle",
 		"isOfficial" : false,
-		"percentage" : 19.5,
-		"countrycode" : "LBR"
+		"Percentage" : 19.5
 	},
 	{
-		"language" : "Kru",
+		"Name" : "Liberia",
+		"Language" : "Kru",
 		"isOfficial" : false,
-		"percentage" : 7.2,
-		"countrycode" : "LBR"
+		"Percentage" : 7.2
 	},
 	{
-		"language" : "Loma",
+		"Name" : "Liberia",
+		"Language" : "Loma",
 		"isOfficial" : false,
-		"percentage" : 5.8,
-		"countrycode" : "LBR"
+		"Percentage" : 5.8
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Liberia",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 5.1,
-		"countrycode" : "LBR"
+		"Percentage" : 5.1
 	},
 	{
-		"language" : "Mano",
+		"Name" : "Liberia",
+		"Language" : "Mano",
 		"isOfficial" : false,
-		"percentage" : 7.2,
-		"countrycode" : "LBR"
+		"Percentage" : 7.2
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Libyan Arab Jamahiriya",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 96.0,
-		"countrycode" : "LBY"
+		"Percentage" : 96.0
 	},
 	{
-		"language" : "Berberi",
+		"Name" : "Libyan Arab Jamahiriya",
+		"Language" : "Berberi",
 		"isOfficial" : false,
-		"percentage" : 1.0,
-		"countrycode" : "LBY"
+		"Percentage" : 1.0
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Saint Lucia",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 80.0,
-		"countrycode" : "LCA"
+		"Percentage" : 80.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Saint Lucia",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 20.0,
-		"countrycode" : "LCA"
+		"Percentage" : 20.0
 	},
 	{
-		"language" : "German",
+		"Name" : "Liechtenstein",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 89.0,
-		"countrycode" : "LIE"
+		"Percentage" : 89.0
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Liechtenstein",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "LIE"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Liechtenstein",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "LIE"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Mixed Languages",
+		"Name" : "Sri Lanka",
+		"Language" : "Mixed Languages",
 		"isOfficial" : false,
-		"percentage" : 19.6,
-		"countrycode" : "LKA"
+		"Percentage" : 19.6
 	},
 	{
-		"language" : "Singali",
+		"Name" : "Sri Lanka",
+		"Language" : "Singali",
 		"isOfficial" : true,
-		"percentage" : 60.3,
-		"countrycode" : "LKA"
+		"Percentage" : 60.3
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "Sri Lanka",
+		"Language" : "Tamil",
 		"isOfficial" : true,
-		"percentage" : 19.6,
-		"countrycode" : "LKA"
+		"Percentage" : 19.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Lesotho",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "LSO"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Sotho",
+		"Name" : "Lesotho",
+		"Language" : "Sotho",
 		"isOfficial" : true,
-		"percentage" : 85.0,
-		"countrycode" : "LSO"
+		"Percentage" : 85.0
 	},
 	{
-		"language" : "Zulu",
+		"Name" : "Lesotho",
+		"Language" : "Zulu",
 		"isOfficial" : false,
-		"percentage" : 15.0,
-		"countrycode" : "LSO"
+		"Percentage" : 15.0
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Lithuania",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "LTU"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Lithuanian",
+		"Name" : "Lithuania",
+		"Language" : "Lithuanian",
 		"isOfficial" : true,
-		"percentage" : 81.6,
-		"countrycode" : "LTU"
+		"Percentage" : 81.6
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Lithuania",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 7.0,
-		"countrycode" : "LTU"
+		"Percentage" : 7.0
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Lithuania",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 8.1,
-		"countrycode" : "LTU"
+		"Percentage" : 8.1
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Lithuania",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "LTU"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "French",
+		"Name" : "Luxembourg",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 4.2,
-		"countrycode" : "LUX"
+		"Percentage" : 4.2
 	},
 	{
-		"language" : "German",
+		"Name" : "Luxembourg",
+		"Language" : "German",
 		"isOfficial" : true,
-		"percentage" : 2.3,
-		"countrycode" : "LUX"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Luxembourg",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 4.6,
-		"countrycode" : "LUX"
+		"Percentage" : 4.6
 	},
 	{
-		"language" : "Luxembourgish",
+		"Name" : "Luxembourg",
+		"Language" : "Luxembourgish",
 		"isOfficial" : true,
-		"percentage" : 64.4,
-		"countrycode" : "LUX"
+		"Percentage" : 64.4
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Luxembourg",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 13.0,
-		"countrycode" : "LUX"
+		"Percentage" : 13.0
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Latvia",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 4.1,
-		"countrycode" : "LVA"
+		"Percentage" : 4.1
 	},
 	{
-		"language" : "Latvian",
+		"Name" : "Latvia",
+		"Language" : "Latvian",
 		"isOfficial" : true,
-		"percentage" : 55.1,
-		"countrycode" : "LVA"
+		"Percentage" : 55.1
 	},
 	{
-		"language" : "Lithuanian",
+		"Name" : "Latvia",
+		"Language" : "Lithuanian",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "LVA"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Latvia",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 2.1,
-		"countrycode" : "LVA"
+		"Percentage" : 2.1
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Latvia",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 32.5,
-		"countrycode" : "LVA"
+		"Percentage" : 32.5
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Latvia",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 2.9,
-		"countrycode" : "LVA"
+		"Percentage" : 2.9
 	},
 	{
-		"language" : "Canton Chinese",
+		"Name" : "Macao",
+		"Language" : "Canton Chinese",
 		"isOfficial" : false,
-		"percentage" : 85.6,
-		"countrycode" : "MAC"
+		"Percentage" : 85.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Macao",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "MAC"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Mandarin Chinese",
+		"Name" : "Macao",
+		"Language" : "Mandarin Chinese",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "MAC"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Macao",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 2.3,
-		"countrycode" : "MAC"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Morocco",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 65.0,
-		"countrycode" : "MAR"
+		"Percentage" : 65.0
 	},
 	{
-		"language" : "Berberi",
+		"Name" : "Morocco",
+		"Language" : "Berberi",
 		"isOfficial" : false,
-		"percentage" : 33.0,
-		"countrycode" : "MAR"
+		"Percentage" : 33.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Monaco",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 6.5,
-		"countrycode" : "MCO"
+		"Percentage" : 6.5
 	},
 	{
-		"language" : "French",
+		"Name" : "Monaco",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 41.9,
-		"countrycode" : "MCO"
+		"Percentage" : 41.9
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Monaco",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 16.1,
-		"countrycode" : "MCO"
+		"Percentage" : 16.1
 	},
 	{
-		"language" : "Monegasque",
+		"Name" : "Monaco",
+		"Language" : "Monegasque",
 		"isOfficial" : false,
-		"percentage" : 16.1,
-		"countrycode" : "MCO"
+		"Percentage" : 16.1
 	},
 	{
-		"language" : "Bulgariana",
+		"Name" : "Moldova",
+		"Language" : "Bulgariana",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "MDA"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Gagauzi",
+		"Name" : "Moldova",
+		"Language" : "Gagauzi",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "MDA"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Romanian",
+		"Name" : "Moldova",
+		"Language" : "Romanian",
 		"isOfficial" : true,
-		"percentage" : 61.9,
-		"countrycode" : "MDA"
+		"Percentage" : 61.9
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Moldova",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 23.2,
-		"countrycode" : "MDA"
+		"Percentage" : 23.2
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Moldova",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 8.6,
-		"countrycode" : "MDA"
+		"Percentage" : 8.6
 	},
 	{
-		"language" : "French",
+		"Name" : "Madagascar",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "MDG"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Malagasy",
+		"Name" : "Madagascar",
+		"Language" : "Malagasy",
 		"isOfficial" : true,
-		"percentage" : 98.9,
-		"countrycode" : "MDG"
+		"Percentage" : 98.9
 	},
 	{
-		"language" : "Dhivehi",
+		"Name" : "Maldives",
+		"Language" : "Dhivehi",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "MDV"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Maldives",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "MDV"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Mixtec",
+		"Name" : "Mexico",
+		"Language" : "Mixtec",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "MEX"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Náhuatl",
+		"Name" : "Mexico",
+		"Language" : "Náhuatl",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "MEX"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Otomí",
+		"Name" : "Mexico",
+		"Language" : "Otomí",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "MEX"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Mexico",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 92.1,
-		"countrycode" : "MEX"
+		"Percentage" : 92.1
 	},
 	{
-		"language" : "Yucatec",
+		"Name" : "Mexico",
+		"Language" : "Yucatec",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "MEX"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "Zapotec",
+		"Name" : "Mexico",
+		"Language" : "Zapotec",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "MEX"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Marshall Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "MHL"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Marshallese",
+		"Name" : "Marshall Islands",
+		"Language" : "Marshallese",
 		"isOfficial" : true,
-		"percentage" : 96.8,
-		"countrycode" : "MHL"
+		"Percentage" : 96.8
 	},
 	{
-		"language" : "Albaniana",
+		"Name" : "Macedonia",
+		"Language" : "Albaniana",
 		"isOfficial" : false,
-		"percentage" : 22.9,
-		"countrycode" : "MKD"
+		"Percentage" : 22.9
 	},
 	{
-		"language" : "Macedonian",
+		"Name" : "Macedonia",
+		"Language" : "Macedonian",
 		"isOfficial" : true,
-		"percentage" : 66.5,
-		"countrycode" : "MKD"
+		"Percentage" : 66.5
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Macedonia",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "MKD"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Macedonia",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "MKD"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Macedonia",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 4.0,
-		"countrycode" : "MKD"
+		"Percentage" : 4.0
 	},
 	{
-		"language" : "Bambara",
+		"Name" : "Mali",
+		"Language" : "Bambara",
 		"isOfficial" : false,
-		"percentage" : 31.8,
-		"countrycode" : "MLI"
+		"Percentage" : 31.8
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Mali",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 13.9,
-		"countrycode" : "MLI"
+		"Percentage" : 13.9
 	},
 	{
-		"language" : "Senufo and Minianka",
+		"Name" : "Mali",
+		"Language" : "Senufo and Minianka",
 		"isOfficial" : false,
-		"percentage" : 12.0,
-		"countrycode" : "MLI"
+		"Percentage" : 12.0
 	},
 	{
-		"language" : "Songhai",
+		"Name" : "Mali",
+		"Language" : "Songhai",
 		"isOfficial" : false,
-		"percentage" : 6.9,
-		"countrycode" : "MLI"
+		"Percentage" : 6.9
 	},
 	{
-		"language" : "Soninke",
+		"Name" : "Mali",
+		"Language" : "Soninke",
 		"isOfficial" : false,
-		"percentage" : 8.7,
-		"countrycode" : "MLI"
+		"Percentage" : 8.7
 	},
 	{
-		"language" : "Tamashek",
+		"Name" : "Mali",
+		"Language" : "Tamashek",
 		"isOfficial" : false,
-		"percentage" : 7.3,
-		"countrycode" : "MLI"
+		"Percentage" : 7.3
 	},
 	{
-		"language" : "English",
+		"Name" : "Malta",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 2.1,
-		"countrycode" : "MLT"
+		"Percentage" : 2.1
 	},
 	{
-		"language" : "Maltese",
+		"Name" : "Malta",
+		"Language" : "Maltese",
 		"isOfficial" : true,
-		"percentage" : 95.8,
-		"countrycode" : "MLT"
+		"Percentage" : 95.8
 	},
 	{
-		"language" : "Burmese",
+		"Name" : "Myanmar",
+		"Language" : "Burmese",
 		"isOfficial" : true,
-		"percentage" : 69.0,
-		"countrycode" : "MMR"
+		"Percentage" : 69.0
 	},
 	{
-		"language" : "Chin",
+		"Name" : "Myanmar",
+		"Language" : "Chin",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "MMR"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Kachin",
+		"Name" : "Myanmar",
+		"Language" : "Kachin",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "MMR"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Karen",
+		"Name" : "Myanmar",
+		"Language" : "Karen",
 		"isOfficial" : false,
-		"percentage" : 6.2,
-		"countrycode" : "MMR"
+		"Percentage" : 6.2
 	},
 	{
-		"language" : "Kayah",
+		"Name" : "Myanmar",
+		"Language" : "Kayah",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "MMR"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Mon",
+		"Name" : "Myanmar",
+		"Language" : "Mon",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "MMR"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Rakhine",
+		"Name" : "Myanmar",
+		"Language" : "Rakhine",
 		"isOfficial" : false,
-		"percentage" : 4.5,
-		"countrycode" : "MMR"
+		"Percentage" : 4.5
 	},
 	{
-		"language" : "Shan",
+		"Name" : "Myanmar",
+		"Language" : "Shan",
 		"isOfficial" : false,
-		"percentage" : 8.5,
-		"countrycode" : "MMR"
+		"Percentage" : 8.5
 	},
 	{
-		"language" : "Bajad",
+		"Name" : "Mongolia",
+		"Language" : "Bajad",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "MNG"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "Buryat",
+		"Name" : "Mongolia",
+		"Language" : "Buryat",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "MNG"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Dariganga",
+		"Name" : "Mongolia",
+		"Language" : "Dariganga",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "MNG"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Dorbet",
+		"Name" : "Mongolia",
+		"Language" : "Dorbet",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "MNG"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Mongolia",
+		"Language" : "Kazakh",
 		"isOfficial" : false,
-		"percentage" : 5.9,
-		"countrycode" : "MNG"
+		"Percentage" : 5.9
 	},
 	{
-		"language" : "Mongolian",
+		"Name" : "Mongolia",
+		"Language" : "Mongolian",
 		"isOfficial" : true,
-		"percentage" : 78.8,
-		"countrycode" : "MNG"
+		"Percentage" : 78.8
 	},
 	{
-		"language" : "Carolinian",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "Carolinian",
 		"isOfficial" : false,
-		"percentage" : 4.8,
-		"countrycode" : "MNP"
+		"Percentage" : 4.8
 	},
 	{
-		"language" : "Chamorro",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "Chamorro",
 		"isOfficial" : false,
-		"percentage" : 30.0,
-		"countrycode" : "MNP"
+		"Percentage" : 30.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 7.1,
-		"countrycode" : "MNP"
+		"Percentage" : 7.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 4.8,
-		"countrycode" : "MNP"
+		"Percentage" : 4.8
 	},
 	{
-		"language" : "Korean",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "Korean",
 		"isOfficial" : false,
-		"percentage" : 6.5,
-		"countrycode" : "MNP"
+		"Percentage" : 6.5
 	},
 	{
-		"language" : "Philippene Languages",
+		"Name" : "Northern Mariana Islands",
+		"Language" : "Philippene Languages",
 		"isOfficial" : false,
-		"percentage" : 34.1,
-		"countrycode" : "MNP"
+		"Percentage" : 34.1
 	},
 	{
-		"language" : "Chuabo",
+		"Name" : "Mozambique",
+		"Language" : "Chuabo",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "MOZ"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Lomwe",
+		"Name" : "Mozambique",
+		"Language" : "Lomwe",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "MOZ"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Makua",
+		"Name" : "Mozambique",
+		"Language" : "Makua",
 		"isOfficial" : false,
-		"percentage" : 27.8,
-		"countrycode" : "MOZ"
+		"Percentage" : 27.8
 	},
 	{
-		"language" : "Marendje",
+		"Name" : "Mozambique",
+		"Language" : "Marendje",
 		"isOfficial" : false,
-		"percentage" : 3.5,
-		"countrycode" : "MOZ"
+		"Percentage" : 3.5
 	},
 	{
-		"language" : "Nyanja",
+		"Name" : "Mozambique",
+		"Language" : "Nyanja",
 		"isOfficial" : false,
-		"percentage" : 3.3,
-		"countrycode" : "MOZ"
+		"Percentage" : 3.3
 	},
 	{
-		"language" : "Ronga",
+		"Name" : "Mozambique",
+		"Language" : "Ronga",
 		"isOfficial" : false,
-		"percentage" : 3.7,
-		"countrycode" : "MOZ"
+		"Percentage" : 3.7
 	},
 	{
-		"language" : "Sena",
+		"Name" : "Mozambique",
+		"Language" : "Sena",
 		"isOfficial" : false,
-		"percentage" : 9.4,
-		"countrycode" : "MOZ"
+		"Percentage" : 9.4
 	},
 	{
-		"language" : "Shona",
+		"Name" : "Mozambique",
+		"Language" : "Shona",
 		"isOfficial" : false,
-		"percentage" : 6.5,
-		"countrycode" : "MOZ"
+		"Percentage" : 6.5
 	},
 	{
-		"language" : "Tsonga",
+		"Name" : "Mozambique",
+		"Language" : "Tsonga",
 		"isOfficial" : false,
-		"percentage" : 12.4,
-		"countrycode" : "MOZ"
+		"Percentage" : 12.4
 	},
 	{
-		"language" : "Tswa",
+		"Name" : "Mozambique",
+		"Language" : "Tswa",
 		"isOfficial" : false,
-		"percentage" : 6.0,
-		"countrycode" : "MOZ"
+		"Percentage" : 6.0
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Mauritania",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "MRT"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Hassaniya",
+		"Name" : "Mauritania",
+		"Language" : "Hassaniya",
 		"isOfficial" : false,
-		"percentage" : 81.7,
-		"countrycode" : "MRT"
+		"Percentage" : 81.7
 	},
 	{
-		"language" : "Soninke",
+		"Name" : "Mauritania",
+		"Language" : "Soninke",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "MRT"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Tukulor",
+		"Name" : "Mauritania",
+		"Language" : "Tukulor",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "MRT"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Wolof",
+		"Name" : "Mauritania",
+		"Language" : "Wolof",
 		"isOfficial" : false,
-		"percentage" : 6.6,
-		"countrycode" : "MRT"
+		"Percentage" : 6.6
 	},
 	{
-		"language" : "Zenaga",
+		"Name" : "Mauritania",
+		"Language" : "Zenaga",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "MRT"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "English",
+		"Name" : "Montserrat",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "MSR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Martinique",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 96.6,
-		"countrycode" : "MTQ"
+		"Percentage" : 96.6
 	},
 	{
-		"language" : "French",
+		"Name" : "Martinique",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "MTQ"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Bhojpuri",
+		"Name" : "Mauritius",
+		"Language" : "Bhojpuri",
 		"isOfficial" : false,
-		"percentage" : 21.1,
-		"countrycode" : "MUS"
+		"Percentage" : 21.1
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Mauritius",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 70.6,
-		"countrycode" : "MUS"
+		"Percentage" : 70.6
 	},
 	{
-		"language" : "French",
+		"Name" : "Mauritius",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "MUS"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Mauritius",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "MUS"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Marathi",
+		"Name" : "Mauritius",
+		"Language" : "Marathi",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "MUS"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "Mauritius",
+		"Language" : "Tamil",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "MUS"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Chichewa",
+		"Name" : "Malawi",
+		"Language" : "Chichewa",
 		"isOfficial" : true,
-		"percentage" : 58.3,
-		"countrycode" : "MWI"
+		"Percentage" : 58.3
 	},
 	{
-		"language" : "Lomwe",
+		"Name" : "Malawi",
+		"Language" : "Lomwe",
 		"isOfficial" : false,
-		"percentage" : 18.4,
-		"countrycode" : "MWI"
+		"Percentage" : 18.4
 	},
 	{
-		"language" : "Ngoni",
+		"Name" : "Malawi",
+		"Language" : "Ngoni",
 		"isOfficial" : false,
-		"percentage" : 6.7,
-		"countrycode" : "MWI"
+		"Percentage" : 6.7
 	},
 	{
-		"language" : "Yao",
+		"Name" : "Malawi",
+		"Language" : "Yao",
 		"isOfficial" : false,
-		"percentage" : 13.2,
-		"countrycode" : "MWI"
+		"Percentage" : 13.2
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Malaysia",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 9.0,
-		"countrycode" : "MYS"
+		"Percentage" : 9.0
 	},
 	{
-		"language" : "Dusun",
+		"Name" : "Malaysia",
+		"Language" : "Dusun",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "MYS"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Malaysia",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "MYS"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Iban",
+		"Name" : "Malaysia",
+		"Language" : "Iban",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "MYS"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Malaysia",
+		"Language" : "Malay",
 		"isOfficial" : true,
-		"percentage" : 58.4,
-		"countrycode" : "MYS"
+		"Percentage" : 58.4
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "Malaysia",
+		"Language" : "Tamil",
 		"isOfficial" : false,
-		"percentage" : 3.9,
-		"countrycode" : "MYS"
+		"Percentage" : 3.9
 	},
 	{
-		"language" : "French",
+		"Name" : "Mayotte",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 20.3,
-		"countrycode" : "MYT"
+		"Percentage" : 20.3
 	},
 	{
-		"language" : "Mahoré",
+		"Name" : "Mayotte",
+		"Language" : "Mahoré",
 		"isOfficial" : false,
-		"percentage" : 41.9,
-		"countrycode" : "MYT"
+		"Percentage" : 41.9
 	},
 	{
-		"language" : "Malagasy",
+		"Name" : "Mayotte",
+		"Language" : "Malagasy",
 		"isOfficial" : false,
-		"percentage" : 16.1,
-		"countrycode" : "MYT"
+		"Percentage" : 16.1
 	},
 	{
-		"language" : "Afrikaans",
+		"Name" : "Namibia",
+		"Language" : "Afrikaans",
 		"isOfficial" : false,
-		"percentage" : 9.5,
-		"countrycode" : "NAM"
+		"Percentage" : 9.5
 	},
 	{
-		"language" : "Caprivi",
+		"Name" : "Namibia",
+		"Language" : "Caprivi",
 		"isOfficial" : false,
-		"percentage" : 4.7,
-		"countrycode" : "NAM"
+		"Percentage" : 4.7
 	},
 	{
-		"language" : "German",
+		"Name" : "Namibia",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "NAM"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Herero",
+		"Name" : "Namibia",
+		"Language" : "Herero",
 		"isOfficial" : false,
-		"percentage" : 8.0,
-		"countrycode" : "NAM"
+		"Percentage" : 8.0
 	},
 	{
-		"language" : "Kavango",
+		"Name" : "Namibia",
+		"Language" : "Kavango",
 		"isOfficial" : false,
-		"percentage" : 9.7,
-		"countrycode" : "NAM"
+		"Percentage" : 9.7
 	},
 	{
-		"language" : "Nama",
+		"Name" : "Namibia",
+		"Language" : "Nama",
 		"isOfficial" : false,
-		"percentage" : 12.4,
-		"countrycode" : "NAM"
+		"Percentage" : 12.4
 	},
 	{
-		"language" : "Ovambo",
+		"Name" : "Namibia",
+		"Language" : "Ovambo",
 		"isOfficial" : false,
-		"percentage" : 50.7,
-		"countrycode" : "NAM"
+		"Percentage" : 50.7
 	},
 	{
-		"language" : "San",
+		"Name" : "Namibia",
+		"Language" : "San",
 		"isOfficial" : false,
-		"percentage" : 1.9,
-		"countrycode" : "NAM"
+		"Percentage" : 1.9
 	},
 	{
-		"language" : "French",
+		"Name" : "New Caledonia",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 34.3,
-		"countrycode" : "NCL"
+		"Percentage" : 34.3
 	},
 	{
-		"language" : "Malenasian Languages",
+		"Name" : "New Caledonia",
+		"Language" : "Malenasian Languages",
 		"isOfficial" : false,
-		"percentage" : 45.4,
-		"countrycode" : "NCL"
+		"Percentage" : 45.4
 	},
 	{
-		"language" : "Polynesian Languages",
+		"Name" : "New Caledonia",
+		"Language" : "Polynesian Languages",
 		"isOfficial" : false,
-		"percentage" : 11.6,
-		"countrycode" : "NCL"
+		"Percentage" : 11.6
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Niger",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 9.7,
-		"countrycode" : "NER"
+		"Percentage" : 9.7
 	},
 	{
-		"language" : "Hausa",
+		"Name" : "Niger",
+		"Language" : "Hausa",
 		"isOfficial" : false,
-		"percentage" : 53.1,
-		"countrycode" : "NER"
+		"Percentage" : 53.1
 	},
 	{
-		"language" : "Kanuri",
+		"Name" : "Niger",
+		"Language" : "Kanuri",
 		"isOfficial" : false,
-		"percentage" : 4.4,
-		"countrycode" : "NER"
+		"Percentage" : 4.4
 	},
 	{
-		"language" : "Songhai-zerma",
+		"Name" : "Niger",
+		"Language" : "Songhai-zerma",
 		"isOfficial" : false,
-		"percentage" : 21.2,
-		"countrycode" : "NER"
+		"Percentage" : 21.2
 	},
 	{
-		"language" : "Tamashek",
+		"Name" : "Niger",
+		"Language" : "Tamashek",
 		"isOfficial" : false,
-		"percentage" : 10.4,
-		"countrycode" : "NER"
+		"Percentage" : 10.4
 	},
 	{
-		"language" : "English",
+		"Name" : "Norfolk Island",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "NFK"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Bura",
+		"Name" : "Nigeria",
+		"Language" : "Bura",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "NGA"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Edo",
+		"Name" : "Nigeria",
+		"Language" : "Edo",
 		"isOfficial" : false,
-		"percentage" : 3.3,
-		"countrycode" : "NGA"
+		"Percentage" : 3.3
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Nigeria",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 11.3,
-		"countrycode" : "NGA"
+		"Percentage" : 11.3
 	},
 	{
-		"language" : "Hausa",
+		"Name" : "Nigeria",
+		"Language" : "Hausa",
 		"isOfficial" : false,
-		"percentage" : 21.1,
-		"countrycode" : "NGA"
+		"Percentage" : 21.1
 	},
 	{
-		"language" : "Ibibio",
+		"Name" : "Nigeria",
+		"Language" : "Ibibio",
 		"isOfficial" : false,
-		"percentage" : 5.6,
-		"countrycode" : "NGA"
+		"Percentage" : 5.6
 	},
 	{
-		"language" : "Ibo",
+		"Name" : "Nigeria",
+		"Language" : "Ibo",
 		"isOfficial" : false,
-		"percentage" : 18.1,
-		"countrycode" : "NGA"
+		"Percentage" : 18.1
 	},
 	{
-		"language" : "Ijo",
+		"Name" : "Nigeria",
+		"Language" : "Ijo",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "NGA"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Joruba",
+		"Name" : "Nigeria",
+		"Language" : "Joruba",
 		"isOfficial" : false,
-		"percentage" : 21.4,
-		"countrycode" : "NGA"
+		"Percentage" : 21.4
 	},
 	{
-		"language" : "Kanuri",
+		"Name" : "Nigeria",
+		"Language" : "Kanuri",
 		"isOfficial" : false,
-		"percentage" : 4.1,
-		"countrycode" : "NGA"
+		"Percentage" : 4.1
 	},
 	{
-		"language" : "Tiv",
+		"Name" : "Nigeria",
+		"Language" : "Tiv",
 		"isOfficial" : false,
-		"percentage" : 2.3,
-		"countrycode" : "NGA"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Nicaragua",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "NIC"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Miskito",
+		"Name" : "Nicaragua",
+		"Language" : "Miskito",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "NIC"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Nicaragua",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 97.6,
-		"countrycode" : "NIC"
+		"Percentage" : 97.6
 	},
 	{
-		"language" : "Sumo",
+		"Name" : "Nicaragua",
+		"Language" : "Sumo",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "NIC"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "English",
+		"Name" : "Niue",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "NIU"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Niue",
+		"Name" : "Niue",
+		"Language" : "Niue",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "NIU"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Netherlands",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "NLD"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Dutch",
+		"Name" : "Netherlands",
+		"Language" : "Dutch",
 		"isOfficial" : true,
-		"percentage" : 95.6,
-		"countrycode" : "NLD"
+		"Percentage" : 95.6
 	},
 	{
-		"language" : "Fries",
+		"Name" : "Netherlands",
+		"Language" : "Fries",
 		"isOfficial" : false,
-		"percentage" : 3.7,
-		"countrycode" : "NLD"
+		"Percentage" : 3.7
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Netherlands",
+		"Language" : "Turkish",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "NLD"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Danish",
+		"Name" : "Norway",
+		"Language" : "Danish",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "NOR"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "English",
+		"Name" : "Norway",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "NOR"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Norwegian",
+		"Name" : "Norway",
+		"Language" : "Norwegian",
 		"isOfficial" : true,
-		"percentage" : 96.6,
-		"countrycode" : "NOR"
+		"Percentage" : 96.6
 	},
 	{
-		"language" : "Saame",
+		"Name" : "Norway",
+		"Language" : "Saame",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "NOR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Swedish",
+		"Name" : "Norway",
+		"Language" : "Swedish",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "NOR"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Bhojpuri",
+		"Name" : "Nepal",
+		"Language" : "Bhojpuri",
 		"isOfficial" : false,
-		"percentage" : 7.5,
-		"countrycode" : "NPL"
+		"Percentage" : 7.5
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Nepal",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "NPL"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "Maithili",
+		"Name" : "Nepal",
+		"Language" : "Maithili",
 		"isOfficial" : false,
-		"percentage" : 11.9,
-		"countrycode" : "NPL"
+		"Percentage" : 11.9
 	},
 	{
-		"language" : "Nepali",
+		"Name" : "Nepal",
+		"Language" : "Nepali",
 		"isOfficial" : true,
-		"percentage" : 50.4,
-		"countrycode" : "NPL"
+		"Percentage" : 50.4
 	},
 	{
-		"language" : "Newari",
+		"Name" : "Nepal",
+		"Language" : "Newari",
 		"isOfficial" : false,
-		"percentage" : 3.7,
-		"countrycode" : "NPL"
+		"Percentage" : 3.7
 	},
 	{
-		"language" : "Tamang",
+		"Name" : "Nepal",
+		"Language" : "Tamang",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "NPL"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Tharu",
+		"Name" : "Nepal",
+		"Language" : "Tharu",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "NPL"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Nauru",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 8.5,
-		"countrycode" : "NRU"
+		"Percentage" : 8.5
 	},
 	{
-		"language" : "English",
+		"Name" : "Nauru",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 7.5,
-		"countrycode" : "NRU"
+		"Percentage" : 7.5
 	},
 	{
-		"language" : "Kiribati",
+		"Name" : "Nauru",
+		"Language" : "Kiribati",
 		"isOfficial" : false,
-		"percentage" : 17.9,
-		"countrycode" : "NRU"
+		"Percentage" : 17.9
 	},
 	{
-		"language" : "Nauru",
+		"Name" : "Nauru",
+		"Language" : "Nauru",
 		"isOfficial" : true,
-		"percentage" : 57.5,
-		"countrycode" : "NRU"
+		"Percentage" : 57.5
 	},
 	{
-		"language" : "Tuvalu",
+		"Name" : "Nauru",
+		"Language" : "Tuvalu",
 		"isOfficial" : false,
-		"percentage" : 8.5,
-		"countrycode" : "NRU"
+		"Percentage" : 8.5
 	},
 	{
-		"language" : "English",
+		"Name" : "New Zealand",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 87.0,
-		"countrycode" : "NZL"
+		"Percentage" : 87.0
 	},
 	{
-		"language" : "Maori",
+		"Name" : "New Zealand",
+		"Language" : "Maori",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "NZL"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Oman",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 76.7,
-		"countrycode" : "OMN"
+		"Percentage" : 76.7
 	},
 	{
-		"language" : "Balochi",
+		"Name" : "Oman",
+		"Language" : "Balochi",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "OMN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Balochi",
+		"Name" : "Pakistan",
+		"Language" : "Balochi",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "PAK"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "Brahui",
+		"Name" : "Pakistan",
+		"Language" : "Brahui",
 		"isOfficial" : false,
-		"percentage" : 1.2,
-		"countrycode" : "PAK"
+		"Percentage" : 1.2
 	},
 	{
-		"language" : "Hindko",
+		"Name" : "Pakistan",
+		"Language" : "Hindko",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "PAK"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Pashto",
+		"Name" : "Pakistan",
+		"Language" : "Pashto",
 		"isOfficial" : false,
-		"percentage" : 13.1,
-		"countrycode" : "PAK"
+		"Percentage" : 13.1
 	},
 	{
-		"language" : "Punjabi",
+		"Name" : "Pakistan",
+		"Language" : "Punjabi",
 		"isOfficial" : false,
-		"percentage" : 48.2,
-		"countrycode" : "PAK"
+		"Percentage" : 48.2
 	},
 	{
-		"language" : "Saraiki",
+		"Name" : "Pakistan",
+		"Language" : "Saraiki",
 		"isOfficial" : false,
-		"percentage" : 9.8,
-		"countrycode" : "PAK"
+		"Percentage" : 9.8
 	},
 	{
-		"language" : "Sindhi",
+		"Name" : "Pakistan",
+		"Language" : "Sindhi",
 		"isOfficial" : false,
-		"percentage" : 11.8,
-		"countrycode" : "PAK"
+		"Percentage" : 11.8
 	},
 	{
-		"language" : "Urdu",
+		"Name" : "Pakistan",
+		"Language" : "Urdu",
 		"isOfficial" : true,
-		"percentage" : 7.6,
-		"countrycode" : "PAK"
+		"Percentage" : 7.6
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Panama",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "PAN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Panama",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 14.0,
-		"countrycode" : "PAN"
+		"Percentage" : 14.0
 	},
 	{
-		"language" : "Cuna",
+		"Name" : "Panama",
+		"Language" : "Cuna",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "PAN"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Embera",
+		"Name" : "Panama",
+		"Language" : "Embera",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "PAN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Guaymí",
+		"Name" : "Panama",
+		"Language" : "Guaymí",
 		"isOfficial" : false,
-		"percentage" : 5.3,
-		"countrycode" : "PAN"
+		"Percentage" : 5.3
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Panama",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 76.8,
-		"countrycode" : "PAN"
+		"Percentage" : 76.8
 	},
 	{
-		"language" : "Pitcairnese",
+		"Name" : "Pitcairn",
+		"Language" : "Pitcairnese",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "PCN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Aimará",
+		"Name" : "Peru",
+		"Language" : "Aimará",
 		"isOfficial" : true,
-		"percentage" : 2.3,
-		"countrycode" : "PER"
+		"Percentage" : 2.3
 	},
 	{
-		"language" : "Ketšua",
+		"Name" : "Peru",
+		"Language" : "Ketšua",
 		"isOfficial" : true,
-		"percentage" : 16.4,
-		"countrycode" : "PER"
+		"Percentage" : 16.4
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Peru",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 79.8,
-		"countrycode" : "PER"
+		"Percentage" : 79.8
 	},
 	{
-		"language" : "Bicol",
+		"Name" : "Philippines",
+		"Language" : "Bicol",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "PHL"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Cebuano",
+		"Name" : "Philippines",
+		"Language" : "Cebuano",
 		"isOfficial" : false,
-		"percentage" : 23.3,
-		"countrycode" : "PHL"
+		"Percentage" : 23.3
 	},
 	{
-		"language" : "Hiligaynon",
+		"Name" : "Philippines",
+		"Language" : "Hiligaynon",
 		"isOfficial" : false,
-		"percentage" : 9.1,
-		"countrycode" : "PHL"
+		"Percentage" : 9.1
 	},
 	{
-		"language" : "Ilocano",
+		"Name" : "Philippines",
+		"Language" : "Ilocano",
 		"isOfficial" : false,
-		"percentage" : 9.3,
-		"countrycode" : "PHL"
+		"Percentage" : 9.3
 	},
 	{
-		"language" : "Maguindanao",
+		"Name" : "Philippines",
+		"Language" : "Maguindanao",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "PHL"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Maranao",
+		"Name" : "Philippines",
+		"Language" : "Maranao",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "PHL"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Pampango",
+		"Name" : "Philippines",
+		"Language" : "Pampango",
 		"isOfficial" : false,
-		"percentage" : 3.0,
-		"countrycode" : "PHL"
+		"Percentage" : 3.0
 	},
 	{
-		"language" : "Pangasinan",
+		"Name" : "Philippines",
+		"Language" : "Pangasinan",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "PHL"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Pilipino",
+		"Name" : "Philippines",
+		"Language" : "Pilipino",
 		"isOfficial" : true,
-		"percentage" : 29.3,
-		"countrycode" : "PHL"
+		"Percentage" : 29.3
 	},
 	{
-		"language" : "Waray-waray",
+		"Name" : "Philippines",
+		"Language" : "Waray-waray",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "PHL"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Palau",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "PLW"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Palau",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 3.2,
-		"countrycode" : "PLW"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Palau",
+		"Name" : "Palau",
+		"Language" : "Palau",
 		"isOfficial" : true,
-		"percentage" : 82.2,
-		"countrycode" : "PLW"
+		"Percentage" : 82.2
 	},
 	{
-		"language" : "Philippene Languages",
+		"Name" : "Palau",
+		"Language" : "Philippene Languages",
 		"isOfficial" : false,
-		"percentage" : 9.2,
-		"countrycode" : "PLW"
+		"Percentage" : 9.2
 	},
 	{
-		"language" : "Malenasian Languages",
+		"Name" : "Papua New Guinea",
+		"Language" : "Malenasian Languages",
 		"isOfficial" : false,
-		"percentage" : 20.0,
-		"countrycode" : "PNG"
+		"Percentage" : 20.0
 	},
 	{
-		"language" : "Papuan Languages",
+		"Name" : "Papua New Guinea",
+		"Language" : "Papuan Languages",
 		"isOfficial" : false,
-		"percentage" : 78.1,
-		"countrycode" : "PNG"
+		"Percentage" : 78.1
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Poland",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "POL"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "German",
+		"Name" : "Poland",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "POL"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Poland",
+		"Language" : "Polish",
 		"isOfficial" : true,
-		"percentage" : 97.6,
-		"countrycode" : "POL"
+		"Percentage" : 97.6
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Poland",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "POL"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Puerto Rico",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 47.4,
-		"countrycode" : "PRI"
+		"Percentage" : 47.4
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Puerto Rico",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 51.3,
-		"countrycode" : "PRI"
+		"Percentage" : 51.3
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "North Korea",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "PRK"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Korean",
+		"Name" : "North Korea",
+		"Language" : "Korean",
 		"isOfficial" : true,
-		"percentage" : 99.9,
-		"countrycode" : "PRK"
+		"Percentage" : 99.9
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Portugal",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 99.0,
-		"countrycode" : "PRT"
+		"Percentage" : 99.0
 	},
 	{
-		"language" : "German",
+		"Name" : "Paraguay",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "PRY"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Guaraní",
+		"Name" : "Paraguay",
+		"Language" : "Guaraní",
 		"isOfficial" : true,
-		"percentage" : 40.1,
-		"countrycode" : "PRY"
+		"Percentage" : 40.1
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "Paraguay",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "PRY"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Paraguay",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 55.1,
-		"countrycode" : "PRY"
+		"Percentage" : 55.1
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Palestine",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 95.9,
-		"countrycode" : "PSE"
+		"Percentage" : 95.9
 	},
 	{
-		"language" : "Hebrew",
+		"Name" : "Palestine",
+		"Language" : "Hebrew",
 		"isOfficial" : false,
-		"percentage" : 4.1,
-		"countrycode" : "PSE"
+		"Percentage" : 4.1
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "French Polynesia",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 2.9,
-		"countrycode" : "PYF"
+		"Percentage" : 2.9
 	},
 	{
-		"language" : "French",
+		"Name" : "French Polynesia",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 40.8,
-		"countrycode" : "PYF"
+		"Percentage" : 40.8
 	},
 	{
-		"language" : "Tahitian",
+		"Name" : "French Polynesia",
+		"Language" : "Tahitian",
 		"isOfficial" : false,
-		"percentage" : 46.4,
-		"countrycode" : "PYF"
+		"Percentage" : 46.4
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Qatar",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 40.7,
-		"countrycode" : "QAT"
+		"Percentage" : 40.7
 	},
 	{
-		"language" : "Urdu",
+		"Name" : "Qatar",
+		"Language" : "Urdu",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "QAT"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Réunion",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "REU"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Comorian",
+		"Name" : "Réunion",
+		"Language" : "Comorian",
 		"isOfficial" : false,
-		"percentage" : 2.8,
-		"countrycode" : "REU"
+		"Percentage" : 2.8
 	},
 	{
-		"language" : "Creole French",
+		"Name" : "Réunion",
+		"Language" : "Creole French",
 		"isOfficial" : false,
-		"percentage" : 91.5,
-		"countrycode" : "REU"
+		"Percentage" : 91.5
 	},
 	{
-		"language" : "Malagasy",
+		"Name" : "Réunion",
+		"Language" : "Malagasy",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "REU"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "Réunion",
+		"Language" : "Tamil",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "REU"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "German",
+		"Name" : "Romania",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "ROM"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Romania",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 7.2,
-		"countrycode" : "ROM"
+		"Percentage" : 7.2
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Romania",
+		"Language" : "Romani",
 		"isOfficial" : true,
-		"percentage" : 0.7,
-		"countrycode" : "ROM"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Romanian",
+		"Name" : "Romania",
+		"Language" : "Romanian",
 		"isOfficial" : true,
-		"percentage" : 90.7,
-		"countrycode" : "ROM"
+		"Percentage" : 90.7
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Romania",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "ROM"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Romania",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "ROM"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Avarian",
+		"Name" : "Russian Federation",
+		"Language" : "Avarian",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "RUS"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Bashkir",
+		"Name" : "Russian Federation",
+		"Language" : "Bashkir",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "RUS"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Russian Federation",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "RUS"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Chechen",
+		"Name" : "Russian Federation",
+		"Language" : "Chechen",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "RUS"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Chuvash",
+		"Name" : "Russian Federation",
+		"Language" : "Chuvash",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "RUS"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Russian Federation",
+		"Language" : "Kazakh",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "RUS"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Mari",
+		"Name" : "Russian Federation",
+		"Language" : "Mari",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "RUS"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Mordva",
+		"Name" : "Russian Federation",
+		"Language" : "Mordva",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "RUS"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Russian Federation",
+		"Language" : "Russian",
 		"isOfficial" : true,
-		"percentage" : 86.6,
-		"countrycode" : "RUS"
+		"Percentage" : 86.6
 	},
 	{
-		"language" : "Tatar",
+		"Name" : "Russian Federation",
+		"Language" : "Tatar",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "RUS"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Udmur",
+		"Name" : "Russian Federation",
+		"Language" : "Udmur",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "RUS"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Russian Federation",
+		"Language" : "Ukrainian",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "RUS"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "French",
+		"Name" : "Rwanda",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "RWA"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Rwanda",
+		"Name" : "Rwanda",
+		"Language" : "Rwanda",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "RWA"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Saudi Arabia",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 95.0,
-		"countrycode" : "SAU"
+		"Percentage" : 95.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Sudan",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 49.4,
-		"countrycode" : "SDN"
+		"Percentage" : 49.4
 	},
 	{
-		"language" : "Bari",
+		"Name" : "Sudan",
+		"Language" : "Bari",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "SDN"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Beja",
+		"Name" : "Sudan",
+		"Language" : "Beja",
 		"isOfficial" : false,
-		"percentage" : 6.4,
-		"countrycode" : "SDN"
+		"Percentage" : 6.4
 	},
 	{
-		"language" : "Chilluk",
+		"Name" : "Sudan",
+		"Language" : "Chilluk",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "SDN"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Dinka",
+		"Name" : "Sudan",
+		"Language" : "Dinka",
 		"isOfficial" : false,
-		"percentage" : 11.5,
-		"countrycode" : "SDN"
+		"Percentage" : 11.5
 	},
 	{
-		"language" : "Fur",
+		"Name" : "Sudan",
+		"Language" : "Fur",
 		"isOfficial" : false,
-		"percentage" : 2.1,
-		"countrycode" : "SDN"
+		"Percentage" : 2.1
 	},
 	{
-		"language" : "Lotuko",
+		"Name" : "Sudan",
+		"Language" : "Lotuko",
 		"isOfficial" : false,
-		"percentage" : 1.5,
-		"countrycode" : "SDN"
+		"Percentage" : 1.5
 	},
 	{
-		"language" : "Nubian Languages",
+		"Name" : "Sudan",
+		"Language" : "Nubian Languages",
 		"isOfficial" : false,
-		"percentage" : 8.1,
-		"countrycode" : "SDN"
+		"Percentage" : 8.1
 	},
 	{
-		"language" : "Nuer",
+		"Name" : "Sudan",
+		"Language" : "Nuer",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "SDN"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Zande",
+		"Name" : "Sudan",
+		"Language" : "Zande",
 		"isOfficial" : false,
-		"percentage" : 2.7,
-		"countrycode" : "SDN"
+		"Percentage" : 2.7
 	},
 	{
-		"language" : "Diola",
+		"Name" : "Senegal",
+		"Language" : "Diola",
 		"isOfficial" : false,
-		"percentage" : 5.0,
-		"countrycode" : "SEN"
+		"Percentage" : 5.0
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Senegal",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 21.7,
-		"countrycode" : "SEN"
+		"Percentage" : 21.7
 	},
 	{
-		"language" : "Malinke",
+		"Name" : "Senegal",
+		"Language" : "Malinke",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "SEN"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Serer",
+		"Name" : "Senegal",
+		"Language" : "Serer",
 		"isOfficial" : false,
-		"percentage" : 12.5,
-		"countrycode" : "SEN"
+		"Percentage" : 12.5
 	},
 	{
-		"language" : "Soninke",
+		"Name" : "Senegal",
+		"Language" : "Soninke",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "SEN"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Wolof",
+		"Name" : "Senegal",
+		"Language" : "Wolof",
 		"isOfficial" : true,
-		"percentage" : 48.1,
-		"countrycode" : "SEN"
+		"Percentage" : 48.1
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Singapore",
+		"Language" : "Chinese",
 		"isOfficial" : true,
-		"percentage" : 77.1,
-		"countrycode" : "SGP"
+		"Percentage" : 77.1
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Singapore",
+		"Language" : "Malay",
 		"isOfficial" : true,
-		"percentage" : 14.1,
-		"countrycode" : "SGP"
+		"Percentage" : 14.1
 	},
 	{
-		"language" : "Tamil",
+		"Name" : "Singapore",
+		"Language" : "Tamil",
 		"isOfficial" : true,
-		"percentage" : 7.4,
-		"countrycode" : "SGP"
+		"Percentage" : 7.4
 	},
 	{
-		"language" : "English",
+		"Name" : "Saint Helena",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "SHN"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Norwegian",
+		"Name" : "Svalbard and Jan Mayen",
+		"Language" : "Norwegian",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "SJM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Svalbard and Jan Mayen",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "SJM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Malenasian Languages",
+		"Name" : "Solomon Islands",
+		"Language" : "Malenasian Languages",
 		"isOfficial" : false,
-		"percentage" : 85.6,
-		"countrycode" : "SLB"
+		"Percentage" : 85.6
 	},
 	{
-		"language" : "Papuan Languages",
+		"Name" : "Solomon Islands",
+		"Language" : "Papuan Languages",
 		"isOfficial" : false,
-		"percentage" : 8.6,
-		"countrycode" : "SLB"
+		"Percentage" : 8.6
 	},
 	{
-		"language" : "Polynesian Languages",
+		"Name" : "Solomon Islands",
+		"Language" : "Polynesian Languages",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "SLB"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Bullom-sherbro",
+		"Name" : "Sierra Leone",
+		"Language" : "Bullom-sherbro",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "SLE"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Ful",
+		"Name" : "Sierra Leone",
+		"Language" : "Ful",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "SLE"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Kono-vai",
+		"Name" : "Sierra Leone",
+		"Language" : "Kono-vai",
 		"isOfficial" : false,
-		"percentage" : 5.1,
-		"countrycode" : "SLE"
+		"Percentage" : 5.1
 	},
 	{
-		"language" : "Kuranko",
+		"Name" : "Sierra Leone",
+		"Language" : "Kuranko",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "SLE"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Limba",
+		"Name" : "Sierra Leone",
+		"Language" : "Limba",
 		"isOfficial" : false,
-		"percentage" : 8.3,
-		"countrycode" : "SLE"
+		"Percentage" : 8.3
 	},
 	{
-		"language" : "Mende",
+		"Name" : "Sierra Leone",
+		"Language" : "Mende",
 		"isOfficial" : false,
-		"percentage" : 34.8,
-		"countrycode" : "SLE"
+		"Percentage" : 34.8
 	},
 	{
-		"language" : "Temne",
+		"Name" : "Sierra Leone",
+		"Language" : "Temne",
 		"isOfficial" : false,
-		"percentage" : 31.8,
-		"countrycode" : "SLE"
+		"Percentage" : 31.8
 	},
 	{
-		"language" : "Yalunka",
+		"Name" : "Sierra Leone",
+		"Language" : "Yalunka",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "SLE"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Nahua",
+		"Name" : "El Salvador",
+		"Language" : "Nahua",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "SLV"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "El Salvador",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "SLV"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Italian",
+		"Name" : "San Marino",
+		"Language" : "Italian",
 		"isOfficial" : true,
-		"percentage" : 100.0,
-		"countrycode" : "SMR"
+		"Percentage" : 100.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Somalia",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "SOM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Somali",
+		"Name" : "Somalia",
+		"Language" : "Somali",
 		"isOfficial" : true,
-		"percentage" : 98.3,
-		"countrycode" : "SOM"
+		"Percentage" : 98.3
 	},
 	{
-		"language" : "French",
+		"Name" : "Saint Pierre and Miquelon",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "SPM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Crioulo",
+		"Name" : "Sao Tome and Principe",
+		"Language" : "Crioulo",
 		"isOfficial" : false,
-		"percentage" : 86.3,
-		"countrycode" : "STP"
+		"Percentage" : 86.3
 	},
 	{
-		"language" : "French",
+		"Name" : "Sao Tome and Principe",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "STP"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Suriname",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "SUR"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Sranantonga",
+		"Name" : "Suriname",
+		"Language" : "Sranantonga",
 		"isOfficial" : false,
-		"percentage" : 81.0,
-		"countrycode" : "SUR"
+		"Percentage" : 81.0
 	},
 	{
-		"language" : "Czech and Moravian",
+		"Name" : "Slovakia",
+		"Language" : "Czech and Moravian",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "SVK"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Slovakia",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 10.5,
-		"countrycode" : "SVK"
+		"Percentage" : 10.5
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Slovakia",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 1.7,
-		"countrycode" : "SVK"
+		"Percentage" : 1.7
 	},
 	{
-		"language" : "Slovak",
+		"Name" : "Slovakia",
+		"Language" : "Slovak",
 		"isOfficial" : true,
-		"percentage" : 85.6,
-		"countrycode" : "SVK"
+		"Percentage" : 85.6
 	},
 	{
-		"language" : "Ukrainian and Russian",
+		"Name" : "Slovakia",
+		"Language" : "Ukrainian and Russian",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "SVK"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Slovenia",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "SVN"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Slovenia",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : false,
-		"percentage" : 7.9,
-		"countrycode" : "SVN"
+		"Percentage" : 7.9
 	},
 	{
-		"language" : "Slovene",
+		"Name" : "Slovenia",
+		"Language" : "Slovene",
 		"isOfficial" : true,
-		"percentage" : 87.9,
-		"countrycode" : "SVN"
+		"Percentage" : 87.9
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Sweden",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 0.8,
-		"countrycode" : "SWE"
+		"Percentage" : 0.8
 	},
 	{
-		"language" : "Finnish",
+		"Name" : "Sweden",
+		"Language" : "Finnish",
 		"isOfficial" : false,
-		"percentage" : 2.4,
-		"countrycode" : "SWE"
+		"Percentage" : 2.4
 	},
 	{
-		"language" : "Norwegian",
+		"Name" : "Sweden",
+		"Language" : "Norwegian",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "SWE"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Southern Slavic Languages",
+		"Name" : "Sweden",
+		"Language" : "Southern Slavic Languages",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "SWE"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Sweden",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "SWE"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Swedish",
+		"Name" : "Sweden",
+		"Language" : "Swedish",
 		"isOfficial" : true,
-		"percentage" : 89.5,
-		"countrycode" : "SWE"
+		"Percentage" : 89.5
 	},
 	{
-		"language" : "Swazi",
+		"Name" : "Swaziland",
+		"Language" : "Swazi",
 		"isOfficial" : true,
-		"percentage" : 89.9,
-		"countrycode" : "SWZ"
+		"Percentage" : 89.9
 	},
 	{
-		"language" : "Zulu",
+		"Name" : "Swaziland",
+		"Language" : "Zulu",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "SWZ"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Seychelles",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 3.8,
-		"countrycode" : "SYC"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "French",
+		"Name" : "Seychelles",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 1.3,
-		"countrycode" : "SYC"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Seselwa",
+		"Name" : "Seychelles",
+		"Language" : "Seselwa",
 		"isOfficial" : false,
-		"percentage" : 91.3,
-		"countrycode" : "SYC"
+		"Percentage" : 91.3
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Syria",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 90.0,
-		"countrycode" : "SYR"
+		"Percentage" : 90.0
 	},
 	{
-		"language" : "Kurdish",
+		"Name" : "Syria",
+		"Language" : "Kurdish",
 		"isOfficial" : false,
-		"percentage" : 9.0,
-		"countrycode" : "SYR"
+		"Percentage" : 9.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Turks and Caicos Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "TCA"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Chad",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 12.3,
-		"countrycode" : "TCD"
+		"Percentage" : 12.3
 	},
 	{
-		"language" : "Gorane",
+		"Name" : "Chad",
+		"Language" : "Gorane",
 		"isOfficial" : false,
-		"percentage" : 6.2,
-		"countrycode" : "TCD"
+		"Percentage" : 6.2
 	},
 	{
-		"language" : "Hadjarai",
+		"Name" : "Chad",
+		"Language" : "Hadjarai",
 		"isOfficial" : false,
-		"percentage" : 6.7,
-		"countrycode" : "TCD"
+		"Percentage" : 6.7
 	},
 	{
-		"language" : "Kanem-bornu",
+		"Name" : "Chad",
+		"Language" : "Kanem-bornu",
 		"isOfficial" : false,
-		"percentage" : 9.0,
-		"countrycode" : "TCD"
+		"Percentage" : 9.0
 	},
 	{
-		"language" : "Mayo-kebbi",
+		"Name" : "Chad",
+		"Language" : "Mayo-kebbi",
 		"isOfficial" : false,
-		"percentage" : 11.5,
-		"countrycode" : "TCD"
+		"Percentage" : 11.5
 	},
 	{
-		"language" : "Ouaddai",
+		"Name" : "Chad",
+		"Language" : "Ouaddai",
 		"isOfficial" : false,
-		"percentage" : 8.7,
-		"countrycode" : "TCD"
+		"Percentage" : 8.7
 	},
 	{
-		"language" : "Sara",
+		"Name" : "Chad",
+		"Language" : "Sara",
 		"isOfficial" : false,
-		"percentage" : 27.7,
-		"countrycode" : "TCD"
+		"Percentage" : 27.7
 	},
 	{
-		"language" : "Tandjile",
+		"Name" : "Chad",
+		"Language" : "Tandjile",
 		"isOfficial" : false,
-		"percentage" : 6.5,
-		"countrycode" : "TCD"
+		"Percentage" : 6.5
 	},
 	{
-		"language" : "Ane",
+		"Name" : "Togo",
+		"Language" : "Ane",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "TGO"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Ewe",
+		"Name" : "Togo",
+		"Language" : "Ewe",
 		"isOfficial" : true,
-		"percentage" : 23.2,
-		"countrycode" : "TGO"
+		"Percentage" : 23.2
 	},
 	{
-		"language" : "Gurma",
+		"Name" : "Togo",
+		"Language" : "Gurma",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "TGO"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Kabyé",
+		"Name" : "Togo",
+		"Language" : "Kabyé",
 		"isOfficial" : true,
-		"percentage" : 13.8,
-		"countrycode" : "TGO"
+		"Percentage" : 13.8
 	},
 	{
-		"language" : "Kotokoli",
+		"Name" : "Togo",
+		"Language" : "Kotokoli",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "TGO"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Moba",
+		"Name" : "Togo",
+		"Language" : "Moba",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "TGO"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Naudemba",
+		"Name" : "Togo",
+		"Language" : "Naudemba",
 		"isOfficial" : false,
-		"percentage" : 4.1,
-		"countrycode" : "TGO"
+		"Percentage" : 4.1
 	},
 	{
-		"language" : "Watyi",
+		"Name" : "Togo",
+		"Language" : "Watyi",
 		"isOfficial" : false,
-		"percentage" : 10.3,
-		"countrycode" : "TGO"
+		"Percentage" : 10.3
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Thailand",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 12.1,
-		"countrycode" : "THA"
+		"Percentage" : 12.1
 	},
 	{
-		"language" : "Khmer",
+		"Name" : "Thailand",
+		"Language" : "Khmer",
 		"isOfficial" : false,
-		"percentage" : 1.3,
-		"countrycode" : "THA"
+		"Percentage" : 1.3
 	},
 	{
-		"language" : "Kuy",
+		"Name" : "Thailand",
+		"Language" : "Kuy",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "THA"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "Lao",
+		"Name" : "Thailand",
+		"Language" : "Lao",
 		"isOfficial" : false,
-		"percentage" : 26.9,
-		"countrycode" : "THA"
+		"Percentage" : 26.9
 	},
 	{
-		"language" : "Malay",
+		"Name" : "Thailand",
+		"Language" : "Malay",
 		"isOfficial" : false,
-		"percentage" : 3.6,
-		"countrycode" : "THA"
+		"Percentage" : 3.6
 	},
 	{
-		"language" : "Thai",
+		"Name" : "Thailand",
+		"Language" : "Thai",
 		"isOfficial" : true,
-		"percentage" : 52.6,
-		"countrycode" : "THA"
+		"Percentage" : 52.6
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Tajikistan",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 9.7,
-		"countrycode" : "TJK"
+		"Percentage" : 9.7
 	},
 	{
-		"language" : "Tadzhik",
+		"Name" : "Tajikistan",
+		"Language" : "Tadzhik",
 		"isOfficial" : true,
-		"percentage" : 62.2,
-		"countrycode" : "TJK"
+		"Percentage" : 62.2
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Tajikistan",
+		"Language" : "Uzbek",
 		"isOfficial" : false,
-		"percentage" : 23.2,
-		"countrycode" : "TJK"
+		"Percentage" : 23.2
 	},
 	{
-		"language" : "English",
+		"Name" : "Tokelau",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "TKL"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Tokelau",
+		"Name" : "Tokelau",
+		"Language" : "Tokelau",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "TKL"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Turkmenistan",
+		"Language" : "Kazakh",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "TKM"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Turkmenistan",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 6.7,
-		"countrycode" : "TKM"
+		"Percentage" : 6.7
 	},
 	{
-		"language" : "Turkmenian",
+		"Name" : "Turkmenistan",
+		"Language" : "Turkmenian",
 		"isOfficial" : true,
-		"percentage" : 76.7,
-		"countrycode" : "TKM"
+		"Percentage" : 76.7
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Turkmenistan",
+		"Language" : "Uzbek",
 		"isOfficial" : false,
-		"percentage" : 9.2,
-		"countrycode" : "TKM"
+		"Percentage" : 9.2
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "East Timor",
+		"Language" : "Portuguese",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "TMP"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Sunda",
+		"Name" : "East Timor",
+		"Language" : "Sunda",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "TMP"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Tonga",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "TON"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Tongan",
+		"Name" : "Tonga",
+		"Language" : "Tongan",
 		"isOfficial" : true,
-		"percentage" : 98.3,
-		"countrycode" : "TON"
+		"Percentage" : 98.3
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Trinidad and Tobago",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 2.9,
-		"countrycode" : "TTO"
+		"Percentage" : 2.9
 	},
 	{
-		"language" : "English",
+		"Name" : "Trinidad and Tobago",
+		"Language" : "English",
 		"isOfficial" : false,
-		"percentage" : 93.5,
-		"countrycode" : "TTO"
+		"Percentage" : 93.5
 	},
 	{
-		"language" : "Hindi",
+		"Name" : "Trinidad and Tobago",
+		"Language" : "Hindi",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "TTO"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Tunisia",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 69.9,
-		"countrycode" : "TUN"
+		"Percentage" : 69.9
 	},
 	{
-		"language" : "Arabic-French",
+		"Name" : "Tunisia",
+		"Language" : "Arabic-French",
 		"isOfficial" : false,
-		"percentage" : 26.3,
-		"countrycode" : "TUN"
+		"Percentage" : 26.3
 	},
 	{
-		"language" : "Arabic-French-English",
+		"Name" : "Tunisia",
+		"Language" : "Arabic-French-English",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "TUN"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Turkey",
+		"Language" : "Arabic",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "TUR"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Kurdish",
+		"Name" : "Turkey",
+		"Language" : "Kurdish",
 		"isOfficial" : false,
-		"percentage" : 10.6,
-		"countrycode" : "TUR"
+		"Percentage" : 10.6
 	},
 	{
-		"language" : "Turkish",
+		"Name" : "Turkey",
+		"Language" : "Turkish",
 		"isOfficial" : true,
-		"percentage" : 87.6,
-		"countrycode" : "TUR"
+		"Percentage" : 87.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Tuvalu",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "TUV"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Kiribati",
+		"Name" : "Tuvalu",
+		"Language" : "Kiribati",
 		"isOfficial" : false,
-		"percentage" : 7.5,
-		"countrycode" : "TUV"
+		"Percentage" : 7.5
 	},
 	{
-		"language" : "Tuvalu",
+		"Name" : "Tuvalu",
+		"Language" : "Tuvalu",
 		"isOfficial" : true,
-		"percentage" : 92.5,
-		"countrycode" : "TUV"
+		"Percentage" : 92.5
 	},
 	{
-		"language" : "Ami",
+		"Name" : "Taiwan",
+		"Language" : "Ami",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "TWN"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Atayal",
+		"Name" : "Taiwan",
+		"Language" : "Atayal",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "TWN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Hakka",
+		"Name" : "Taiwan",
+		"Language" : "Hakka",
 		"isOfficial" : false,
-		"percentage" : 11.0,
-		"countrycode" : "TWN"
+		"Percentage" : 11.0
 	},
 	{
-		"language" : "Mandarin Chinese",
+		"Name" : "Taiwan",
+		"Language" : "Mandarin Chinese",
 		"isOfficial" : true,
-		"percentage" : 20.1,
-		"countrycode" : "TWN"
+		"Percentage" : 20.1
 	},
 	{
-		"language" : "Min",
+		"Name" : "Taiwan",
+		"Language" : "Min",
 		"isOfficial" : false,
-		"percentage" : 66.7,
-		"countrycode" : "TWN"
+		"Percentage" : 66.7
 	},
 	{
-		"language" : "Paiwan",
+		"Name" : "Taiwan",
+		"Language" : "Paiwan",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "TWN"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Chaga and Pare",
+		"Name" : "Tanzania",
+		"Language" : "Chaga and Pare",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "TZA"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Gogo",
+		"Name" : "Tanzania",
+		"Language" : "Gogo",
 		"isOfficial" : false,
-		"percentage" : 3.9,
-		"countrycode" : "TZA"
+		"Percentage" : 3.9
 	},
 	{
-		"language" : "Ha",
+		"Name" : "Tanzania",
+		"Language" : "Ha",
 		"isOfficial" : false,
-		"percentage" : 3.5,
-		"countrycode" : "TZA"
+		"Percentage" : 3.5
 	},
 	{
-		"language" : "Haya",
+		"Name" : "Tanzania",
+		"Language" : "Haya",
 		"isOfficial" : false,
-		"percentage" : 5.9,
-		"countrycode" : "TZA"
+		"Percentage" : 5.9
 	},
 	{
-		"language" : "Hehet",
+		"Name" : "Tanzania",
+		"Language" : "Hehet",
 		"isOfficial" : false,
-		"percentage" : 6.9,
-		"countrycode" : "TZA"
+		"Percentage" : 6.9
 	},
 	{
-		"language" : "Luguru",
+		"Name" : "Tanzania",
+		"Language" : "Luguru",
 		"isOfficial" : false,
-		"percentage" : 4.9,
-		"countrycode" : "TZA"
+		"Percentage" : 4.9
 	},
 	{
-		"language" : "Makonde",
+		"Name" : "Tanzania",
+		"Language" : "Makonde",
 		"isOfficial" : false,
-		"percentage" : 5.9,
-		"countrycode" : "TZA"
+		"Percentage" : 5.9
 	},
 	{
-		"language" : "Nyakusa",
+		"Name" : "Tanzania",
+		"Language" : "Nyakusa",
 		"isOfficial" : false,
-		"percentage" : 5.4,
-		"countrycode" : "TZA"
+		"Percentage" : 5.4
 	},
 	{
-		"language" : "Nyamwesi",
+		"Name" : "Tanzania",
+		"Language" : "Nyamwesi",
 		"isOfficial" : false,
-		"percentage" : 21.1,
-		"countrycode" : "TZA"
+		"Percentage" : 21.1
 	},
 	{
-		"language" : "Shambala",
+		"Name" : "Tanzania",
+		"Language" : "Shambala",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "TZA"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Swahili",
+		"Name" : "Tanzania",
+		"Language" : "Swahili",
 		"isOfficial" : true,
-		"percentage" : 8.8,
-		"countrycode" : "TZA"
+		"Percentage" : 8.8
 	},
 	{
-		"language" : "Acholi",
+		"Name" : "Uganda",
+		"Language" : "Acholi",
 		"isOfficial" : false,
-		"percentage" : 4.4,
-		"countrycode" : "UGA"
+		"Percentage" : 4.4
 	},
 	{
-		"language" : "Ganda",
+		"Name" : "Uganda",
+		"Language" : "Ganda",
 		"isOfficial" : false,
-		"percentage" : 18.1,
-		"countrycode" : "UGA"
+		"Percentage" : 18.1
 	},
 	{
-		"language" : "Gisu",
+		"Name" : "Uganda",
+		"Language" : "Gisu",
 		"isOfficial" : false,
-		"percentage" : 4.5,
-		"countrycode" : "UGA"
+		"Percentage" : 4.5
 	},
 	{
-		"language" : "Kiga",
+		"Name" : "Uganda",
+		"Language" : "Kiga",
 		"isOfficial" : false,
-		"percentage" : 8.3,
-		"countrycode" : "UGA"
+		"Percentage" : 8.3
 	},
 	{
-		"language" : "Lango",
+		"Name" : "Uganda",
+		"Language" : "Lango",
 		"isOfficial" : false,
-		"percentage" : 5.9,
-		"countrycode" : "UGA"
+		"Percentage" : 5.9
 	},
 	{
-		"language" : "Lugbara",
+		"Name" : "Uganda",
+		"Language" : "Lugbara",
 		"isOfficial" : false,
-		"percentage" : 4.7,
-		"countrycode" : "UGA"
+		"Percentage" : 4.7
 	},
 	{
-		"language" : "Nkole",
+		"Name" : "Uganda",
+		"Language" : "Nkole",
 		"isOfficial" : false,
-		"percentage" : 10.7,
-		"countrycode" : "UGA"
+		"Percentage" : 10.7
 	},
 	{
-		"language" : "Rwanda",
+		"Name" : "Uganda",
+		"Language" : "Rwanda",
 		"isOfficial" : false,
-		"percentage" : 3.2,
-		"countrycode" : "UGA"
+		"Percentage" : 3.2
 	},
 	{
-		"language" : "Soga",
+		"Name" : "Uganda",
+		"Language" : "Soga",
 		"isOfficial" : false,
-		"percentage" : 8.2,
-		"countrycode" : "UGA"
+		"Percentage" : 8.2
 	},
 	{
-		"language" : "Teso",
+		"Name" : "Uganda",
+		"Language" : "Teso",
 		"isOfficial" : false,
-		"percentage" : 6.0,
-		"countrycode" : "UGA"
+		"Percentage" : 6.0
 	},
 	{
-		"language" : "Belorussian",
+		"Name" : "Ukraine",
+		"Language" : "Belorussian",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "UKR"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Bulgariana",
+		"Name" : "Ukraine",
+		"Language" : "Bulgariana",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "UKR"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Ukraine",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "UKR"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Polish",
+		"Name" : "Ukraine",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "UKR"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "Romanian",
+		"Name" : "Ukraine",
+		"Language" : "Romanian",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "UKR"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Ukraine",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 32.9,
-		"countrycode" : "UKR"
+		"Percentage" : 32.9
 	},
 	{
-		"language" : "Ukrainian",
+		"Name" : "Ukraine",
+		"Language" : "Ukrainian",
 		"isOfficial" : true,
-		"percentage" : 64.7,
-		"countrycode" : "UKR"
+		"Percentage" : 64.7
 	},
 	{
-		"language" : "English",
+		"Name" : "United States Minor Outlying Islands",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "UMI"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Uruguay",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 95.7,
-		"countrycode" : "URY"
+		"Percentage" : 95.7
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "United States",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "USA"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "English",
+		"Name" : "United States",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 86.2,
-		"countrycode" : "USA"
+		"Percentage" : 86.2
 	},
 	{
-		"language" : "French",
+		"Name" : "United States",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "USA"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "German",
+		"Name" : "United States",
+		"Language" : "German",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "USA"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Italian",
+		"Name" : "United States",
+		"Language" : "Italian",
 		"isOfficial" : false,
-		"percentage" : 0.6,
-		"countrycode" : "USA"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Japanese",
+		"Name" : "United States",
+		"Language" : "Japanese",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "USA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Korean",
+		"Name" : "United States",
+		"Language" : "Korean",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "USA"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Polish",
+		"Name" : "United States",
+		"Language" : "Polish",
 		"isOfficial" : false,
-		"percentage" : 0.3,
-		"countrycode" : "USA"
+		"Percentage" : 0.3
 	},
 	{
-		"language" : "Portuguese",
+		"Name" : "United States",
+		"Language" : "Portuguese",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "USA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "United States",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 7.5,
-		"countrycode" : "USA"
+		"Percentage" : 7.5
 	},
 	{
-		"language" : "Tagalog",
+		"Name" : "United States",
+		"Language" : "Tagalog",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "USA"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Vietnamese",
+		"Name" : "United States",
+		"Language" : "Vietnamese",
 		"isOfficial" : false,
-		"percentage" : 0.2,
-		"countrycode" : "USA"
+		"Percentage" : 0.2
 	},
 	{
-		"language" : "Karakalpak",
+		"Name" : "Uzbekistan",
+		"Language" : "Karakalpak",
 		"isOfficial" : false,
-		"percentage" : 2.0,
-		"countrycode" : "UZB"
+		"Percentage" : 2.0
 	},
 	{
-		"language" : "Kazakh",
+		"Name" : "Uzbekistan",
+		"Language" : "Kazakh",
 		"isOfficial" : false,
-		"percentage" : 3.8,
-		"countrycode" : "UZB"
+		"Percentage" : 3.8
 	},
 	{
-		"language" : "Russian",
+		"Name" : "Uzbekistan",
+		"Language" : "Russian",
 		"isOfficial" : false,
-		"percentage" : 10.9,
-		"countrycode" : "UZB"
+		"Percentage" : 10.9
 	},
 	{
-		"language" : "Tadzhik",
+		"Name" : "Uzbekistan",
+		"Language" : "Tadzhik",
 		"isOfficial" : false,
-		"percentage" : 4.4,
-		"countrycode" : "UZB"
+		"Percentage" : 4.4
 	},
 	{
-		"language" : "Tatar",
+		"Name" : "Uzbekistan",
+		"Language" : "Tatar",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "UZB"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Uzbek",
+		"Name" : "Uzbekistan",
+		"Language" : "Uzbek",
 		"isOfficial" : true,
-		"percentage" : 72.6,
-		"countrycode" : "UZB"
+		"Percentage" : 72.6
 	},
 	{
-		"language" : "Italian",
+		"Name" : "Holy See (Vatican City State)",
+		"Language" : "Italian",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "VAT"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Creole English",
+		"Name" : "Saint Vincent and the Grenadines",
+		"Language" : "Creole English",
 		"isOfficial" : false,
-		"percentage" : 99.1,
-		"countrycode" : "VCT"
+		"Percentage" : 99.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Saint Vincent and the Grenadines",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "VCT"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Goajiro",
+		"Name" : "Venezuela",
+		"Language" : "Goajiro",
 		"isOfficial" : false,
-		"percentage" : 0.4,
-		"countrycode" : "VEN"
+		"Percentage" : 0.4
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Venezuela",
+		"Language" : "Spanish",
 		"isOfficial" : true,
-		"percentage" : 96.9,
-		"countrycode" : "VEN"
+		"Percentage" : 96.9
 	},
 	{
-		"language" : "Warrau",
+		"Name" : "Venezuela",
+		"Language" : "Warrau",
 		"isOfficial" : false,
-		"percentage" : 0.1,
-		"countrycode" : "VEN"
+		"Percentage" : 0.1
 	},
 	{
-		"language" : "English",
+		"Name" : "Virgin Islands, British",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.0,
-		"countrycode" : "VGB"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Virgin Islands, U.S.",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 81.7,
-		"countrycode" : "VIR"
+		"Percentage" : 81.7
 	},
 	{
-		"language" : "French",
+		"Name" : "Virgin Islands, U.S.",
+		"Language" : "French",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "VIR"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Spanish",
+		"Name" : "Virgin Islands, U.S.",
+		"Language" : "Spanish",
 		"isOfficial" : false,
-		"percentage" : 13.3,
-		"countrycode" : "VIR"
+		"Percentage" : 13.3
 	},
 	{
-		"language" : "Chinese",
+		"Name" : "Vietnam",
+		"Language" : "Chinese",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "VNM"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Khmer",
+		"Name" : "Vietnam",
+		"Language" : "Khmer",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "VNM"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Man",
+		"Name" : "Vietnam",
+		"Language" : "Man",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "VNM"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Miao",
+		"Name" : "Vietnam",
+		"Language" : "Miao",
 		"isOfficial" : false,
-		"percentage" : 0.9,
-		"countrycode" : "VNM"
+		"Percentage" : 0.9
 	},
 	{
-		"language" : "Muong",
+		"Name" : "Vietnam",
+		"Language" : "Muong",
 		"isOfficial" : false,
-		"percentage" : 1.5,
-		"countrycode" : "VNM"
+		"Percentage" : 1.5
 	},
 	{
-		"language" : "Nung",
+		"Name" : "Vietnam",
+		"Language" : "Nung",
 		"isOfficial" : false,
-		"percentage" : 1.1,
-		"countrycode" : "VNM"
+		"Percentage" : 1.1
 	},
 	{
-		"language" : "Thai",
+		"Name" : "Vietnam",
+		"Language" : "Thai",
 		"isOfficial" : false,
-		"percentage" : 1.6,
-		"countrycode" : "VNM"
+		"Percentage" : 1.6
 	},
 	{
-		"language" : "Tho",
+		"Name" : "Vietnam",
+		"Language" : "Tho",
 		"isOfficial" : false,
-		"percentage" : 1.8,
-		"countrycode" : "VNM"
+		"Percentage" : 1.8
 	},
 	{
-		"language" : "Vietnamese",
+		"Name" : "Vietnam",
+		"Language" : "Vietnamese",
 		"isOfficial" : true,
-		"percentage" : 86.8,
-		"countrycode" : "VNM"
+		"Percentage" : 86.8
 	},
 	{
-		"language" : "Bislama",
+		"Name" : "Vanuatu",
+		"Language" : "Bislama",
 		"isOfficial" : true,
-		"percentage" : 56.6,
-		"countrycode" : "VUT"
+		"Percentage" : 56.6
 	},
 	{
-		"language" : "English",
+		"Name" : "Vanuatu",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 28.3,
-		"countrycode" : "VUT"
+		"Percentage" : 28.3
 	},
 	{
-		"language" : "French",
+		"Name" : "Vanuatu",
+		"Language" : "French",
 		"isOfficial" : true,
-		"percentage" : 14.2,
-		"countrycode" : "VUT"
+		"Percentage" : 14.2
 	},
 	{
-		"language" : "Futuna",
+		"Name" : "Wallis and Futuna",
+		"Language" : "Futuna",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "WLF"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Wallis",
+		"Name" : "Wallis and Futuna",
+		"Language" : "Wallis",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "WLF"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Samoa",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 0.6,
-		"countrycode" : "WSM"
+		"Percentage" : 0.6
 	},
 	{
-		"language" : "Samoan",
+		"Name" : "Samoa",
+		"Language" : "Samoan",
 		"isOfficial" : true,
-		"percentage" : 47.5,
-		"countrycode" : "WSM"
+		"Percentage" : 47.5
 	},
 	{
-		"language" : "Samoan-English",
+		"Name" : "Samoa",
+		"Language" : "Samoan-English",
 		"isOfficial" : false,
-		"percentage" : 52.0,
-		"countrycode" : "WSM"
+		"Percentage" : 52.0
 	},
 	{
-		"language" : "Arabic",
+		"Name" : "Yemen",
+		"Language" : "Arabic",
 		"isOfficial" : true,
-		"percentage" : 99.6,
-		"countrycode" : "YEM"
+		"Percentage" : 99.6
 	},
 	{
-		"language" : "Soqutri",
+		"Name" : "Yemen",
+		"Language" : "Soqutri",
 		"isOfficial" : false,
-		"percentage" : 0.0,
-		"countrycode" : "YEM"
+		"Percentage" : 0.0
 	},
 	{
-		"language" : "Albaniana",
+		"Name" : "Yugoslavia",
+		"Language" : "Albaniana",
 		"isOfficial" : false,
-		"percentage" : 16.5,
-		"countrycode" : "YUG"
+		"Percentage" : 16.5
 	},
 	{
-		"language" : "Hungarian",
+		"Name" : "Yugoslavia",
+		"Language" : "Hungarian",
 		"isOfficial" : false,
-		"percentage" : 3.4,
-		"countrycode" : "YUG"
+		"Percentage" : 3.4
 	},
 	{
-		"language" : "Macedonian",
+		"Name" : "Yugoslavia",
+		"Language" : "Macedonian",
 		"isOfficial" : false,
-		"percentage" : 0.5,
-		"countrycode" : "YUG"
+		"Percentage" : 0.5
 	},
 	{
-		"language" : "Romani",
+		"Name" : "Yugoslavia",
+		"Language" : "Romani",
 		"isOfficial" : false,
-		"percentage" : 1.4,
-		"countrycode" : "YUG"
+		"Percentage" : 1.4
 	},
 	{
-		"language" : "Serbo-Croatian",
+		"Name" : "Yugoslavia",
+		"Language" : "Serbo-Croatian",
 		"isOfficial" : true,
-		"percentage" : 75.2,
-		"countrycode" : "YUG"
+		"Percentage" : 75.2
 	},
 	{
-		"language" : "Slovak",
+		"Name" : "Yugoslavia",
+		"Language" : "Slovak",
 		"isOfficial" : false,
-		"percentage" : 0.7,
-		"countrycode" : "YUG"
+		"Percentage" : 0.7
 	},
 	{
-		"language" : "Afrikaans",
+		"Name" : "South Africa",
+		"Language" : "Afrikaans",
 		"isOfficial" : true,
-		"percentage" : 14.3,
-		"countrycode" : "ZAF"
+		"Percentage" : 14.3
 	},
 	{
-		"language" : "English",
+		"Name" : "South Africa",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 8.5,
-		"countrycode" : "ZAF"
+		"Percentage" : 8.5
 	},
 	{
-		"language" : "Ndebele",
+		"Name" : "South Africa",
+		"Language" : "Ndebele",
 		"isOfficial" : false,
-		"percentage" : 1.5,
-		"countrycode" : "ZAF"
+		"Percentage" : 1.5
 	},
 	{
-		"language" : "Northsotho",
+		"Name" : "South Africa",
+		"Language" : "Northsotho",
 		"isOfficial" : false,
-		"percentage" : 9.1,
-		"countrycode" : "ZAF"
+		"Percentage" : 9.1
 	},
 	{
-		"language" : "Southsotho",
+		"Name" : "South Africa",
+		"Language" : "Southsotho",
 		"isOfficial" : false,
-		"percentage" : 7.6,
-		"countrycode" : "ZAF"
+		"Percentage" : 7.6
 	},
 	{
-		"language" : "Swazi",
+		"Name" : "South Africa",
+		"Language" : "Swazi",
 		"isOfficial" : false,
-		"percentage" : 2.5,
-		"countrycode" : "ZAF"
+		"Percentage" : 2.5
 	},
 	{
-		"language" : "Tsonga",
+		"Name" : "South Africa",
+		"Language" : "Tsonga",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "ZAF"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Tswana",
+		"Name" : "South Africa",
+		"Language" : "Tswana",
 		"isOfficial" : false,
-		"percentage" : 8.1,
-		"countrycode" : "ZAF"
+		"Percentage" : 8.1
 	},
 	{
-		"language" : "Venda",
+		"Name" : "South Africa",
+		"Language" : "Venda",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "ZAF"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Xhosa",
+		"Name" : "South Africa",
+		"Language" : "Xhosa",
 		"isOfficial" : true,
-		"percentage" : 17.7,
-		"countrycode" : "ZAF"
+		"Percentage" : 17.7
 	},
 	{
-		"language" : "Zulu",
+		"Name" : "South Africa",
+		"Language" : "Zulu",
 		"isOfficial" : true,
-		"percentage" : 22.7,
-		"countrycode" : "ZAF"
+		"Percentage" : 22.7
 	},
 	{
-		"language" : "Bemba",
+		"Name" : "Zambia",
+		"Language" : "Bemba",
 		"isOfficial" : false,
-		"percentage" : 29.7,
-		"countrycode" : "ZMB"
+		"Percentage" : 29.7
 	},
 	{
-		"language" : "Chewa",
+		"Name" : "Zambia",
+		"Language" : "Chewa",
 		"isOfficial" : false,
-		"percentage" : 5.7,
-		"countrycode" : "ZMB"
+		"Percentage" : 5.7
 	},
 	{
-		"language" : "Lozi",
+		"Name" : "Zambia",
+		"Language" : "Lozi",
 		"isOfficial" : false,
-		"percentage" : 6.4,
-		"countrycode" : "ZMB"
+		"Percentage" : 6.4
 	},
 	{
-		"language" : "Nsenga",
+		"Name" : "Zambia",
+		"Language" : "Nsenga",
 		"isOfficial" : false,
-		"percentage" : 4.3,
-		"countrycode" : "ZMB"
+		"Percentage" : 4.3
 	},
 	{
-		"language" : "Nyanja",
+		"Name" : "Zambia",
+		"Language" : "Nyanja",
 		"isOfficial" : false,
-		"percentage" : 7.8,
-		"countrycode" : "ZMB"
+		"Percentage" : 7.8
 	},
 	{
-		"language" : "Tongan",
+		"Name" : "Zambia",
+		"Language" : "Tongan",
 		"isOfficial" : false,
-		"percentage" : 11.0,
-		"countrycode" : "ZMB"
+		"Percentage" : 11.0
 	},
 	{
-		"language" : "English",
+		"Name" : "Zimbabwe",
+		"Language" : "English",
 		"isOfficial" : true,
-		"percentage" : 2.2,
-		"countrycode" : "ZWE"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Ndebele",
+		"Name" : "Zimbabwe",
+		"Language" : "Ndebele",
 		"isOfficial" : false,
-		"percentage" : 16.2,
-		"countrycode" : "ZWE"
+		"Percentage" : 16.2
 	},
 	{
-		"language" : "Nyanja",
+		"Name" : "Zimbabwe",
+		"Language" : "Nyanja",
 		"isOfficial" : false,
-		"percentage" : 2.2,
-		"countrycode" : "ZWE"
+		"Percentage" : 2.2
 	},
 	{
-		"language" : "Shona",
+		"Name" : "Zimbabwe",
+		"Language" : "Shona",
 		"isOfficial" : false,
-		"percentage" : 72.1,
-		"countrycode" : "ZWE"
+		"Percentage" : 72.1
 	}
 ]
