@@ -1,0 +1,6002 @@
+[
+	{
+		"name" : "Kabul",
+		"Countrycode" : "AFG",
+		"State" : "Kabol",
+		"population" : 1780000
+	},
+	{
+		"name" : "Qandahar",
+		"Countrycode" : "AFG",
+		"State" : "Qandahar",
+		"population" : 237500
+	},
+	{
+		"name" : "Herat",
+		"Countrycode" : "AFG",
+		"State" : "Herat",
+		"population" : 186800
+	},
+	{
+		"name" : "Mazar-e-Sharif",
+		"Countrycode" : "AFG",
+		"State" : "Balkh",
+		"population" : 127800
+	},
+	{
+		"name" : "Amsterdam",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Holland",
+		"population" : 731200
+	},
+	{
+		"name" : "Rotterdam",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 593321
+	},
+	{
+		"name" : "Haag",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 440900
+	},
+	{
+		"name" : "Utrecht",
+		"Countrycode" : "NLD",
+		"State" : "Utrecht",
+		"population" : 234323
+	},
+	{
+		"name" : "Eindhoven",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Brabant",
+		"population" : 201843
+	},
+	{
+		"name" : "Tilburg",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Brabant",
+		"population" : 193238
+	},
+	{
+		"name" : "Groningen",
+		"Countrycode" : "NLD",
+		"State" : "Groningen",
+		"population" : 172701
+	},
+	{
+		"name" : "Breda",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Brabant",
+		"population" : 160398
+	},
+	{
+		"name" : "Apeldoorn",
+		"Countrycode" : "NLD",
+		"State" : "Gelderland",
+		"population" : 153491
+	},
+	{
+		"name" : "Nijmegen",
+		"Countrycode" : "NLD",
+		"State" : "Gelderland",
+		"population" : 152463
+	},
+	{
+		"name" : "Enschede",
+		"Countrycode" : "NLD",
+		"State" : "Overijssel",
+		"population" : 149544
+	},
+	{
+		"name" : "Haarlem",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Holland",
+		"population" : 148772
+	},
+	{
+		"name" : "Almere",
+		"Countrycode" : "NLD",
+		"State" : "Flevoland",
+		"population" : 142465
+	},
+	{
+		"name" : "Arnhem",
+		"Countrycode" : "NLD",
+		"State" : "Gelderland",
+		"population" : 138020
+	},
+	{
+		"name" : "Zaanstad",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Holland",
+		"population" : 135621
+	},
+	{
+		"name" : "´s-Hertogenbosch",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Brabant",
+		"population" : 129170
+	},
+	{
+		"name" : "Amersfoort",
+		"Countrycode" : "NLD",
+		"State" : "Utrecht",
+		"population" : 126270
+	},
+	{
+		"name" : "Maastricht",
+		"Countrycode" : "NLD",
+		"State" : "Limburg",
+		"population" : 122087
+	},
+	{
+		"name" : "Dordrecht",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 119811
+	},
+	{
+		"name" : "Leiden",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 117196
+	},
+	{
+		"name" : "Haarlemmermeer",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Holland",
+		"population" : 110722
+	},
+	{
+		"name" : "Zoetermeer",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 110214
+	},
+	{
+		"name" : "Emmen",
+		"Countrycode" : "NLD",
+		"State" : "Drenthe",
+		"population" : 105853
+	},
+	{
+		"name" : "Zwolle",
+		"Countrycode" : "NLD",
+		"State" : "Overijssel",
+		"population" : 105819
+	},
+	{
+		"name" : "Ede",
+		"Countrycode" : "NLD",
+		"State" : "Gelderland",
+		"population" : 101574
+	},
+	{
+		"name" : "Delft",
+		"Countrycode" : "NLD",
+		"State" : "Zuid-Holland",
+		"population" : 95268
+	},
+	{
+		"name" : "Heerlen",
+		"Countrycode" : "NLD",
+		"State" : "Limburg",
+		"population" : 95052
+	},
+	{
+		"name" : "Alkmaar",
+		"Countrycode" : "NLD",
+		"State" : "Noord-Holland",
+		"population" : 92713
+	},
+	{
+		"name" : "Willemstad",
+		"Countrycode" : "ANT",
+		"State" : "Curaçao",
+		"population" : 2345
+	},
+	{
+		"name" : "Tirana",
+		"Countrycode" : "ALB",
+		"State" : "Tirana",
+		"population" : 270000
+	},
+	{
+		"name" : "Alger",
+		"Countrycode" : "DZA",
+		"State" : "Alger",
+		"population" : 2168000
+	},
+	{
+		"name" : "Oran",
+		"Countrycode" : "DZA",
+		"State" : "Oran",
+		"population" : 609823
+	},
+	{
+		"name" : "Constantine",
+		"Countrycode" : "DZA",
+		"State" : "Constantine",
+		"population" : 443727
+	},
+	{
+		"name" : "Annaba",
+		"Countrycode" : "DZA",
+		"State" : "Annaba",
+		"population" : 222518
+	},
+	{
+		"name" : "Batna",
+		"Countrycode" : "DZA",
+		"State" : "Batna",
+		"population" : 183377
+	},
+	{
+		"name" : "Sétif",
+		"Countrycode" : "DZA",
+		"State" : "Sétif",
+		"population" : 179055
+	},
+	{
+		"name" : "Sidi Bel Abbès",
+		"Countrycode" : "DZA",
+		"State" : "Sidi Bel Abbès",
+		"population" : 153106
+	},
+	{
+		"name" : "Skikda",
+		"Countrycode" : "DZA",
+		"State" : "Skikda",
+		"population" : 128747
+	},
+	{
+		"name" : "Biskra",
+		"Countrycode" : "DZA",
+		"State" : "Biskra",
+		"population" : 128281
+	},
+	{
+		"name" : "Blida (el-Boulaida)",
+		"Countrycode" : "DZA",
+		"State" : "Blida",
+		"population" : 127284
+	},
+	{
+		"name" : "Béjaïa",
+		"Countrycode" : "DZA",
+		"State" : "Béjaïa",
+		"population" : 117162
+	},
+	{
+		"name" : "Mostaganem",
+		"Countrycode" : "DZA",
+		"State" : "Mostaganem",
+		"population" : 115212
+	},
+	{
+		"name" : "Tébessa",
+		"Countrycode" : "DZA",
+		"State" : "Tébessa",
+		"population" : 112007
+	},
+	{
+		"name" : "Tlemcen (Tilimsen)",
+		"Countrycode" : "DZA",
+		"State" : "Tlemcen",
+		"population" : 110242
+	},
+	{
+		"name" : "Béchar",
+		"Countrycode" : "DZA",
+		"State" : "Béchar",
+		"population" : 107311
+	},
+	{
+		"name" : "Tiaret",
+		"Countrycode" : "DZA",
+		"State" : "Tiaret",
+		"population" : 100118
+	},
+	{
+		"name" : "Ech-Chleff (el-Asnam)",
+		"Countrycode" : "DZA",
+		"State" : "Chlef",
+		"population" : 96794
+	},
+	{
+		"name" : "Ghardaïa",
+		"Countrycode" : "DZA",
+		"State" : "Ghardaïa",
+		"population" : 89415
+	},
+	{
+		"name" : "Tafuna",
+		"Countrycode" : "ASM",
+		"State" : "Tutuila",
+		"population" : 5200
+	},
+	{
+		"name" : "Fagatogo",
+		"Countrycode" : "ASM",
+		"State" : "Tutuila",
+		"population" : 2323
+	},
+	{
+		"name" : "Andorra la Vella",
+		"Countrycode" : "AND",
+		"State" : "Andorra la Vella",
+		"population" : 21189
+	},
+	{
+		"name" : "Luanda",
+		"Countrycode" : "AGO",
+		"State" : "Luanda",
+		"population" : 2022000
+	},
+	{
+		"name" : "Huambo",
+		"Countrycode" : "AGO",
+		"State" : "Huambo",
+		"population" : 163100
+	},
+	{
+		"name" : "Lobito",
+		"Countrycode" : "AGO",
+		"State" : "Benguela",
+		"population" : 130000
+	},
+	{
+		"name" : "Benguela",
+		"Countrycode" : "AGO",
+		"State" : "Benguela",
+		"population" : 128300
+	},
+	{
+		"name" : "Namibe",
+		"Countrycode" : "AGO",
+		"State" : "Namibe",
+		"population" : 118200
+	},
+	{
+		"name" : "South Hill",
+		"Countrycode" : "AIA",
+		"State" : "–",
+		"population" : 961
+	},
+	{
+		"name" : "The Valley",
+		"Countrycode" : "AIA",
+		"State" : "–",
+		"population" : 595
+	},
+	{
+		"name" : "Saint John´s",
+		"Countrycode" : "ATG",
+		"State" : "St John",
+		"population" : 24000
+	},
+	{
+		"name" : "Dubai",
+		"Countrycode" : "ARE",
+		"State" : "Dubai",
+		"population" : 669181
+	},
+	{
+		"name" : "Abu Dhabi",
+		"Countrycode" : "ARE",
+		"State" : "Abu Dhabi",
+		"population" : 398695
+	},
+	{
+		"name" : "Sharja",
+		"Countrycode" : "ARE",
+		"State" : "Sharja",
+		"population" : 320095
+	},
+	{
+		"name" : "al-Ayn",
+		"Countrycode" : "ARE",
+		"State" : "Abu Dhabi",
+		"population" : 225970
+	},
+	{
+		"name" : "Ajman",
+		"Countrycode" : "ARE",
+		"State" : "Ajman",
+		"population" : 114395
+	},
+	{
+		"name" : "Buenos Aires",
+		"Countrycode" : "ARG",
+		"State" : "Distrito Federal",
+		"population" : 2982146
+	},
+	{
+		"name" : "La Matanza",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 1266461
+	},
+	{
+		"name" : "Córdoba",
+		"Countrycode" : "ARG",
+		"State" : "Córdoba",
+		"population" : 1157507
+	},
+	{
+		"name" : "Rosario",
+		"Countrycode" : "ARG",
+		"State" : "Santa Fé",
+		"population" : 907718
+	},
+	{
+		"name" : "Lomas de Zamora",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 622013
+	},
+	{
+		"name" : "Quilmes",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 559249
+	},
+	{
+		"name" : "Almirante Brown",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 538918
+	},
+	{
+		"name" : "La Plata",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 521936
+	},
+	{
+		"name" : "Mar del Plata",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 512880
+	},
+	{
+		"name" : "San Miguel de Tucumán",
+		"Countrycode" : "ARG",
+		"State" : "Tucumán",
+		"population" : 470809
+	},
+	{
+		"name" : "Lanús",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 469735
+	},
+	{
+		"name" : "Merlo",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 463846
+	},
+	{
+		"name" : "General San Martín",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 422542
+	},
+	{
+		"name" : "Salta",
+		"Countrycode" : "ARG",
+		"State" : "Salta",
+		"population" : 367550
+	},
+	{
+		"name" : "Moreno",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 356993
+	},
+	{
+		"name" : "Santa Fé",
+		"Countrycode" : "ARG",
+		"State" : "Santa Fé",
+		"population" : 353063
+	},
+	{
+		"name" : "Avellaneda",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 353046
+	},
+	{
+		"name" : "Tres de Febrero",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 352311
+	},
+	{
+		"name" : "Morón",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 349246
+	},
+	{
+		"name" : "Florencio Varela",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 315432
+	},
+	{
+		"name" : "San Isidro",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 306341
+	},
+	{
+		"name" : "Tigre",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 296226
+	},
+	{
+		"name" : "Malvinas Argentinas",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 290335
+	},
+	{
+		"name" : "Vicente López",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 288341
+	},
+	{
+		"name" : "Berazategui",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 276916
+	},
+	{
+		"name" : "Corrientes",
+		"Countrycode" : "ARG",
+		"State" : "Corrientes",
+		"population" : 258103
+	},
+	{
+		"name" : "San Miguel",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 248700
+	},
+	{
+		"name" : "Bahía Blanca",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 239810
+	},
+	{
+		"name" : "Esteban Echeverría",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 235760
+	},
+	{
+		"name" : "Resistencia",
+		"Countrycode" : "ARG",
+		"State" : "Chaco",
+		"population" : 229212
+	},
+	{
+		"name" : "José C. Paz",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 221754
+	},
+	{
+		"name" : "Paraná",
+		"Countrycode" : "ARG",
+		"State" : "Entre Rios",
+		"population" : 207041
+	},
+	{
+		"name" : "Godoy Cruz",
+		"Countrycode" : "ARG",
+		"State" : "Mendoza",
+		"population" : 206998
+	},
+	{
+		"name" : "Posadas",
+		"Countrycode" : "ARG",
+		"State" : "Misiones",
+		"population" : 201273
+	},
+	{
+		"name" : "Guaymallén",
+		"Countrycode" : "ARG",
+		"State" : "Mendoza",
+		"population" : 200595
+	},
+	{
+		"name" : "Santiago del Estero",
+		"Countrycode" : "ARG",
+		"State" : "Santiago del Estero",
+		"population" : 189947
+	},
+	{
+		"name" : "San Salvador de Jujuy",
+		"Countrycode" : "ARG",
+		"State" : "Jujuy",
+		"population" : 178748
+	},
+	{
+		"name" : "Hurlingham",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 170028
+	},
+	{
+		"name" : "Neuquén",
+		"Countrycode" : "ARG",
+		"State" : "Neuquén",
+		"population" : 167296
+	},
+	{
+		"name" : "Ituzaingó",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 158197
+	},
+	{
+		"name" : "San Fernando",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 153036
+	},
+	{
+		"name" : "Formosa",
+		"Countrycode" : "ARG",
+		"State" : "Formosa",
+		"population" : 147636
+	},
+	{
+		"name" : "Las Heras",
+		"Countrycode" : "ARG",
+		"State" : "Mendoza",
+		"population" : 145823
+	},
+	{
+		"name" : "La Rioja",
+		"Countrycode" : "ARG",
+		"State" : "La Rioja",
+		"population" : 138117
+	},
+	{
+		"name" : "San Fernando del Valle de Cata",
+		"Countrycode" : "ARG",
+		"State" : "Catamarca",
+		"population" : 134935
+	},
+	{
+		"name" : "Río Cuarto",
+		"Countrycode" : "ARG",
+		"State" : "Córdoba",
+		"population" : 134355
+	},
+	{
+		"name" : "Comodoro Rivadavia",
+		"Countrycode" : "ARG",
+		"State" : "Chubut",
+		"population" : 124104
+	},
+	{
+		"name" : "Mendoza",
+		"Countrycode" : "ARG",
+		"State" : "Mendoza",
+		"population" : 123027
+	},
+	{
+		"name" : "San Nicolás de los Arroyos",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 119302
+	},
+	{
+		"name" : "San Juan",
+		"Countrycode" : "ARG",
+		"State" : "San Juan",
+		"population" : 119152
+	},
+	{
+		"name" : "Escobar",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 116675
+	},
+	{
+		"name" : "Concordia",
+		"Countrycode" : "ARG",
+		"State" : "Entre Rios",
+		"population" : 116485
+	},
+	{
+		"name" : "Pilar",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 113428
+	},
+	{
+		"name" : "San Luis",
+		"Countrycode" : "ARG",
+		"State" : "San Luis",
+		"population" : 110136
+	},
+	{
+		"name" : "Ezeiza",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 99578
+	},
+	{
+		"name" : "San Rafael",
+		"Countrycode" : "ARG",
+		"State" : "Mendoza",
+		"population" : 94651
+	},
+	{
+		"name" : "Tandil",
+		"Countrycode" : "ARG",
+		"State" : "Buenos Aires",
+		"population" : 91101
+	},
+	{
+		"name" : "Yerevan",
+		"Countrycode" : "ARM",
+		"State" : "Yerevan",
+		"population" : 1248700
+	},
+	{
+		"name" : "Gjumri",
+		"Countrycode" : "ARM",
+		"State" : "Širak",
+		"population" : 211700
+	},
+	{
+		"name" : "Vanadzor",
+		"Countrycode" : "ARM",
+		"State" : "Lori",
+		"population" : 172700
+	},
+	{
+		"name" : "Oranjestad",
+		"Countrycode" : "ABW",
+		"State" : "–",
+		"population" : 29034
+	},
+	{
+		"name" : "Sydney",
+		"Countrycode" : "AUS",
+		"State" : "New South Wales",
+		"population" : 3276207
+	},
+	{
+		"name" : "Melbourne",
+		"Countrycode" : "AUS",
+		"State" : "Victoria",
+		"population" : 2865329
+	},
+	{
+		"name" : "Brisbane",
+		"Countrycode" : "AUS",
+		"State" : "Queensland",
+		"population" : 1291117
+	},
+	{
+		"name" : "Perth",
+		"Countrycode" : "AUS",
+		"State" : "West Australia",
+		"population" : 1096829
+	},
+	{
+		"name" : "Adelaide",
+		"Countrycode" : "AUS",
+		"State" : "South Australia",
+		"population" : 978100
+	},
+	{
+		"name" : "Canberra",
+		"Countrycode" : "AUS",
+		"State" : "Capital Region",
+		"population" : 322723
+	},
+	{
+		"name" : "Gold Coast",
+		"Countrycode" : "AUS",
+		"State" : "Queensland",
+		"population" : 311932
+	},
+	{
+		"name" : "Newcastle",
+		"Countrycode" : "AUS",
+		"State" : "New South Wales",
+		"population" : 270324
+	},
+	{
+		"name" : "Central Coast",
+		"Countrycode" : "AUS",
+		"State" : "New South Wales",
+		"population" : 227657
+	},
+	{
+		"name" : "Wollongong",
+		"Countrycode" : "AUS",
+		"State" : "New South Wales",
+		"population" : 219761
+	},
+	{
+		"name" : "Hobart",
+		"Countrycode" : "AUS",
+		"State" : "Tasmania",
+		"population" : 126118
+	},
+	{
+		"name" : "Geelong",
+		"Countrycode" : "AUS",
+		"State" : "Victoria",
+		"population" : 125382
+	},
+	{
+		"name" : "Townsville",
+		"Countrycode" : "AUS",
+		"State" : "Queensland",
+		"population" : 109914
+	},
+	{
+		"name" : "Cairns",
+		"Countrycode" : "AUS",
+		"State" : "Queensland",
+		"population" : 92273
+	},
+	{
+		"name" : "Baku",
+		"Countrycode" : "AZE",
+		"State" : "Baki",
+		"population" : 1787800
+	},
+	{
+		"name" : "Gäncä",
+		"Countrycode" : "AZE",
+		"State" : "Gäncä",
+		"population" : 299300
+	},
+	{
+		"name" : "Sumqayit",
+		"Countrycode" : "AZE",
+		"State" : "Sumqayit",
+		"population" : 283000
+	},
+	{
+		"name" : "Mingäçevir",
+		"Countrycode" : "AZE",
+		"State" : "Mingäçevir",
+		"population" : 93900
+	},
+	{
+		"name" : "Nassau",
+		"Countrycode" : "BHS",
+		"State" : "New Providence",
+		"population" : 172000
+	},
+	{
+		"name" : "al-Manama",
+		"Countrycode" : "BHR",
+		"State" : "al-Manama",
+		"population" : 148000
+	},
+	{
+		"name" : "Dhaka",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 3612850
+	},
+	{
+		"name" : "Chittagong",
+		"Countrycode" : "BGD",
+		"State" : "Chittagong",
+		"population" : 1392860
+	},
+	{
+		"name" : "Khulna",
+		"Countrycode" : "BGD",
+		"State" : "Khulna",
+		"population" : 663340
+	},
+	{
+		"name" : "Rajshahi",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 294056
+	},
+	{
+		"name" : "Narayanganj",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 202134
+	},
+	{
+		"name" : "Rangpur",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 191398
+	},
+	{
+		"name" : "Mymensingh",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 188713
+	},
+	{
+		"name" : "Barisal",
+		"Countrycode" : "BGD",
+		"State" : "Barisal",
+		"population" : 170232
+	},
+	{
+		"name" : "Tungi",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 168702
+	},
+	{
+		"name" : "Jessore",
+		"Countrycode" : "BGD",
+		"State" : "Khulna",
+		"population" : 139710
+	},
+	{
+		"name" : "Comilla",
+		"Countrycode" : "BGD",
+		"State" : "Chittagong",
+		"population" : 135313
+	},
+	{
+		"name" : "Nawabganj",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 130577
+	},
+	{
+		"name" : "Dinajpur",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 127815
+	},
+	{
+		"name" : "Bogra",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 120170
+	},
+	{
+		"name" : "Sylhet",
+		"Countrycode" : "BGD",
+		"State" : "Sylhet",
+		"population" : 117396
+	},
+	{
+		"name" : "Brahmanbaria",
+		"Countrycode" : "BGD",
+		"State" : "Chittagong",
+		"population" : 109032
+	},
+	{
+		"name" : "Tangail",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 106004
+	},
+	{
+		"name" : "Jamalpur",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 103556
+	},
+	{
+		"name" : "Pabna",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 103277
+	},
+	{
+		"name" : "Naogaon",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 101266
+	},
+	{
+		"name" : "Sirajganj",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 99669
+	},
+	{
+		"name" : "Narsinghdi",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 98342
+	},
+	{
+		"name" : "Saidpur",
+		"Countrycode" : "BGD",
+		"State" : "Rajshahi",
+		"population" : 96777
+	},
+	{
+		"name" : "Gazipur",
+		"Countrycode" : "BGD",
+		"State" : "Dhaka",
+		"population" : 96717
+	},
+	{
+		"name" : "Bridgetown",
+		"Countrycode" : "BRB",
+		"State" : "St Michael",
+		"population" : 6070
+	},
+	{
+		"name" : "Antwerpen",
+		"Countrycode" : "BEL",
+		"State" : "Antwerpen",
+		"population" : 446525
+	},
+	{
+		"name" : "Gent",
+		"Countrycode" : "BEL",
+		"State" : "East Flanderi",
+		"population" : 224180
+	},
+	{
+		"name" : "Charleroi",
+		"Countrycode" : "BEL",
+		"State" : "Hainaut",
+		"population" : 200827
+	},
+	{
+		"name" : "Liège",
+		"Countrycode" : "BEL",
+		"State" : "Liège",
+		"population" : 185639
+	},
+	{
+		"name" : "Bruxelles [Brussel]",
+		"Countrycode" : "BEL",
+		"State" : "Bryssel",
+		"population" : 133859
+	},
+	{
+		"name" : "Brugge",
+		"Countrycode" : "BEL",
+		"State" : "West Flanderi",
+		"population" : 116246
+	},
+	{
+		"name" : "Schaerbeek",
+		"Countrycode" : "BEL",
+		"State" : "Bryssel",
+		"population" : 105692
+	},
+	{
+		"name" : "Namur",
+		"Countrycode" : "BEL",
+		"State" : "Namur",
+		"population" : 105419
+	},
+	{
+		"name" : "Mons",
+		"Countrycode" : "BEL",
+		"State" : "Hainaut",
+		"population" : 90935
+	},
+	{
+		"name" : "Belize City",
+		"Countrycode" : "BLZ",
+		"State" : "Belize City",
+		"population" : 55810
+	},
+	{
+		"name" : "Belmopan",
+		"Countrycode" : "BLZ",
+		"State" : "Cayo",
+		"population" : 7105
+	},
+	{
+		"name" : "Cotonou",
+		"Countrycode" : "BEN",
+		"State" : "Atlantique",
+		"population" : 536827
+	},
+	{
+		"name" : "Porto-Novo",
+		"Countrycode" : "BEN",
+		"State" : "Ouémé",
+		"population" : 194000
+	},
+	{
+		"name" : "Djougou",
+		"Countrycode" : "BEN",
+		"State" : "Atacora",
+		"population" : 134099
+	},
+	{
+		"name" : "Parakou",
+		"Countrycode" : "BEN",
+		"State" : "Borgou",
+		"population" : 103577
+	},
+	{
+		"name" : "Saint George",
+		"Countrycode" : "BMU",
+		"State" : "Saint George´s",
+		"population" : 1800
+	},
+	{
+		"name" : "Hamilton",
+		"Countrycode" : "BMU",
+		"State" : "Hamilton",
+		"population" : 1200
+	},
+	{
+		"name" : "Thimphu",
+		"Countrycode" : "BTN",
+		"State" : "Thimphu",
+		"population" : 22000
+	},
+	{
+		"name" : "Santa Cruz de la Sierra",
+		"Countrycode" : "BOL",
+		"State" : "Santa Cruz",
+		"population" : 935361
+	},
+	{
+		"name" : "La Paz",
+		"Countrycode" : "BOL",
+		"State" : "La Paz",
+		"population" : 758141
+	},
+	{
+		"name" : "El Alto",
+		"Countrycode" : "BOL",
+		"State" : "La Paz",
+		"population" : 534466
+	},
+	{
+		"name" : "Cochabamba",
+		"Countrycode" : "BOL",
+		"State" : "Cochabamba",
+		"population" : 482800
+	},
+	{
+		"name" : "Oruro",
+		"Countrycode" : "BOL",
+		"State" : "Oruro",
+		"population" : 223553
+	},
+	{
+		"name" : "Sucre",
+		"Countrycode" : "BOL",
+		"State" : "Chuquisaca",
+		"population" : 178426
+	},
+	{
+		"name" : "Potosí",
+		"Countrycode" : "BOL",
+		"State" : "Potosí",
+		"population" : 140642
+	},
+	{
+		"name" : "Tarija",
+		"Countrycode" : "BOL",
+		"State" : "Tarija",
+		"population" : 125255
+	},
+	{
+		"name" : "Sarajevo",
+		"Countrycode" : "BIH",
+		"State" : "Federaatio",
+		"population" : 360000
+	},
+	{
+		"name" : "Banja Luka",
+		"Countrycode" : "BIH",
+		"State" : "Republika Srpska",
+		"population" : 143079
+	},
+	{
+		"name" : "Zenica",
+		"Countrycode" : "BIH",
+		"State" : "Federaatio",
+		"population" : 96027
+	},
+	{
+		"name" : "Gaborone",
+		"Countrycode" : "BWA",
+		"State" : "Gaborone",
+		"population" : 213017
+	},
+	{
+		"name" : "Francistown",
+		"Countrycode" : "BWA",
+		"State" : "Francistown",
+		"population" : 101805
+	},
+	{
+		"name" : "São Paulo",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 9968485
+	},
+	{
+		"name" : "Rio de Janeiro",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 5598953
+	},
+	{
+		"name" : "Salvador",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 2302832
+	},
+	{
+		"name" : "Belo Horizonte",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 2139125
+	},
+	{
+		"name" : "Fortaleza",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 2097757
+	},
+	{
+		"name" : "Brasília",
+		"Countrycode" : "BRA",
+		"State" : "Distrito Federal",
+		"population" : 1969868
+	},
+	{
+		"name" : "Curitiba",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 1584232
+	},
+	{
+		"name" : "Recife",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 1378087
+	},
+	{
+		"name" : "Porto Alegre",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 1314032
+	},
+	{
+		"name" : "Manaus",
+		"Countrycode" : "BRA",
+		"State" : "Amazonas",
+		"population" : 1255049
+	},
+	{
+		"name" : "Belém",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 1186926
+	},
+	{
+		"name" : "Guarulhos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 1095874
+	},
+	{
+		"name" : "Goiânia",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 1056330
+	},
+	{
+		"name" : "Campinas",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 950043
+	},
+	{
+		"name" : "São Gonçalo",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 869254
+	},
+	{
+		"name" : "Nova Iguaçu",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 862225
+	},
+	{
+		"name" : "São Luís",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 837588
+	},
+	{
+		"name" : "Maceió",
+		"Countrycode" : "BRA",
+		"State" : "Alagoas",
+		"population" : 786288
+	},
+	{
+		"name" : "Duque de Caxias",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 746758
+	},
+	{
+		"name" : "São Bernardo do Campo",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 723132
+	},
+	{
+		"name" : "Teresina",
+		"Countrycode" : "BRA",
+		"State" : "Piauí",
+		"population" : 691942
+	},
+	{
+		"name" : "Natal",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Norte",
+		"population" : 688955
+	},
+	{
+		"name" : "Osasco",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 659604
+	},
+	{
+		"name" : "Campo Grande",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso do Sul",
+		"population" : 649593
+	},
+	{
+		"name" : "Santo André",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 630073
+	},
+	{
+		"name" : "João Pessoa",
+		"Countrycode" : "BRA",
+		"State" : "Paraíba",
+		"population" : 584029
+	},
+	{
+		"name" : "Jaboatão dos Guararapes",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 558680
+	},
+	{
+		"name" : "Contagem",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 520801
+	},
+	{
+		"name" : "São José dos Campos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 515553
+	},
+	{
+		"name" : "Uberlândia",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 487222
+	},
+	{
+		"name" : "Feira de Santana",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 479992
+	},
+	{
+		"name" : "Ribeirão Preto",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 473276
+	},
+	{
+		"name" : "Sorocaba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 466823
+	},
+	{
+		"name" : "Niterói",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 459884
+	},
+	{
+		"name" : "Cuiabá",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso",
+		"population" : 453813
+	},
+	{
+		"name" : "Juiz de Fora",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 450288
+	},
+	{
+		"name" : "Aracaju",
+		"Countrycode" : "BRA",
+		"State" : "Sergipe",
+		"population" : 445555
+	},
+	{
+		"name" : "São João de Meriti",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 440052
+	},
+	{
+		"name" : "Londrina",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 432257
+	},
+	{
+		"name" : "Joinville",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 428011
+	},
+	{
+		"name" : "Belford Roxo",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 425194
+	},
+	{
+		"name" : "Santos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 408748
+	},
+	{
+		"name" : "Ananindeua",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 400940
+	},
+	{
+		"name" : "Campos dos Goytacazes",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 398418
+	},
+	{
+		"name" : "Mauá",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 375055
+	},
+	{
+		"name" : "Carapicuíba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 357552
+	},
+	{
+		"name" : "Olinda",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 354732
+	},
+	{
+		"name" : "Campina Grande",
+		"Countrycode" : "BRA",
+		"State" : "Paraíba",
+		"population" : 352497
+	},
+	{
+		"name" : "São José do Rio Preto",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 351944
+	},
+	{
+		"name" : "Caxias do Sul",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 349581
+	},
+	{
+		"name" : "Moji das Cruzes",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 339194
+	},
+	{
+		"name" : "Diadema",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 335078
+	},
+	{
+		"name" : "Aparecida de Goiânia",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 324662
+	},
+	{
+		"name" : "Piracicaba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 319104
+	},
+	{
+		"name" : "Cariacica",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 319033
+	},
+	{
+		"name" : "Vila Velha",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 318758
+	},
+	{
+		"name" : "Pelotas",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 315415
+	},
+	{
+		"name" : "Bauru",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 313670
+	},
+	{
+		"name" : "Porto Velho",
+		"Countrycode" : "BRA",
+		"State" : "Rondônia",
+		"population" : 309750
+	},
+	{
+		"name" : "Serra",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 302666
+	},
+	{
+		"name" : "Betim",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 302108
+	},
+	{
+		"name" : "Jundíaí",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 296127
+	},
+	{
+		"name" : "Canoas",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 294125
+	},
+	{
+		"name" : "Franca",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 290139
+	},
+	{
+		"name" : "São Vicente",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 286848
+	},
+	{
+		"name" : "Maringá",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 286461
+	},
+	{
+		"name" : "Montes Claros",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 286058
+	},
+	{
+		"name" : "Anápolis",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 282197
+	},
+	{
+		"name" : "Florianópolis",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 281928
+	},
+	{
+		"name" : "Petrópolis",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 279183
+	},
+	{
+		"name" : "Itaquaquecetuba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 270874
+	},
+	{
+		"name" : "Vitória",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 270626
+	},
+	{
+		"name" : "Ponta Grossa",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 268013
+	},
+	{
+		"name" : "Rio Branco",
+		"Countrycode" : "BRA",
+		"State" : "Acre",
+		"population" : 259537
+	},
+	{
+		"name" : "Foz do Iguaçu",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 259425
+	},
+	{
+		"name" : "Macapá",
+		"Countrycode" : "BRA",
+		"State" : "Amapá",
+		"population" : 256033
+	},
+	{
+		"name" : "Ilhéus",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 254970
+	},
+	{
+		"name" : "Vitória da Conquista",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 253587
+	},
+	{
+		"name" : "Uberaba",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 249225
+	},
+	{
+		"name" : "Paulista",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 248473
+	},
+	{
+		"name" : "Limeira",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 245497
+	},
+	{
+		"name" : "Blumenau",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 244379
+	},
+	{
+		"name" : "Caruaru",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 244247
+	},
+	{
+		"name" : "Santarém",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 241771
+	},
+	{
+		"name" : "Volta Redonda",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 240315
+	},
+	{
+		"name" : "Novo Hamburgo",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 239940
+	},
+	{
+		"name" : "Caucaia",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 238738
+	},
+	{
+		"name" : "Santa Maria",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 238473
+	},
+	{
+		"name" : "Cascavel",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 237510
+	},
+	{
+		"name" : "Guarujá",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 237206
+	},
+	{
+		"name" : "Ribeirão das Neves",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 232685
+	},
+	{
+		"name" : "Governador Valadares",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 231724
+	},
+	{
+		"name" : "Taubaté",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 229130
+	},
+	{
+		"name" : "Imperatriz",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 224564
+	},
+	{
+		"name" : "Gravataí",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 223011
+	},
+	{
+		"name" : "Embu",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 222223
+	},
+	{
+		"name" : "Mossoró",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Norte",
+		"population" : 214901
+	},
+	{
+		"name" : "Várzea Grande",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso",
+		"population" : 214435
+	},
+	{
+		"name" : "Petrolina",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 210540
+	},
+	{
+		"name" : "Barueri",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 208426
+	},
+	{
+		"name" : "Viamão",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 207557
+	},
+	{
+		"name" : "Ipatinga",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 206338
+	},
+	{
+		"name" : "Juazeiro",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 201073
+	},
+	{
+		"name" : "Juazeiro do Norte",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 199636
+	},
+	{
+		"name" : "Taboão da Serra",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 197550
+	},
+	{
+		"name" : "São José dos Pinhais",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 196884
+	},
+	{
+		"name" : "Magé",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 196147
+	},
+	{
+		"name" : "Suzano",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 195434
+	},
+	{
+		"name" : "São Leopoldo",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 189258
+	},
+	{
+		"name" : "Marília",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 188691
+	},
+	{
+		"name" : "São Carlos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 187122
+	},
+	{
+		"name" : "Sumaré",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 186205
+	},
+	{
+		"name" : "Presidente Prudente",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 185340
+	},
+	{
+		"name" : "Divinópolis",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 185047
+	},
+	{
+		"name" : "Sete Lagoas",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 182984
+	},
+	{
+		"name" : "Rio Grande",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 182222
+	},
+	{
+		"name" : "Itabuna",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 182148
+	},
+	{
+		"name" : "Jequié",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 179128
+	},
+	{
+		"name" : "Arapiraca",
+		"Countrycode" : "BRA",
+		"State" : "Alagoas",
+		"population" : 178988
+	},
+	{
+		"name" : "Colombo",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 177764
+	},
+	{
+		"name" : "Americana",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 177409
+	},
+	{
+		"name" : "Alvorada",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 175574
+	},
+	{
+		"name" : "Araraquara",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 174381
+	},
+	{
+		"name" : "Itaboraí",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 173977
+	},
+	{
+		"name" : "Santa Bárbara d´Oeste",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 171657
+	},
+	{
+		"name" : "Nova Friburgo",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 170697
+	},
+	{
+		"name" : "Jacareí",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 170356
+	},
+	{
+		"name" : "Araçatuba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 169303
+	},
+	{
+		"name" : "Barra Mansa",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 168953
+	},
+	{
+		"name" : "Praia Grande",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 168434
+	},
+	{
+		"name" : "Marabá",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 167795
+	},
+	{
+		"name" : "Criciúma",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 167661
+	},
+	{
+		"name" : "Boa Vista",
+		"Countrycode" : "BRA",
+		"State" : "Roraima",
+		"population" : 167185
+	},
+	{
+		"name" : "Passo Fundo",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 166343
+	},
+	{
+		"name" : "Dourados",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso do Sul",
+		"population" : 164716
+	},
+	{
+		"name" : "Santa Luzia",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 164704
+	},
+	{
+		"name" : "Rio Claro",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 163551
+	},
+	{
+		"name" : "Maracanaú",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 162022
+	},
+	{
+		"name" : "Guarapuava",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 160510
+	},
+	{
+		"name" : "Rondonópolis",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso",
+		"population" : 155115
+	},
+	{
+		"name" : "São José",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 155105
+	},
+	{
+		"name" : "Cachoeiro de Itapemirim",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 155024
+	},
+	{
+		"name" : "Nilópolis",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 153383
+	},
+	{
+		"name" : "Itapevi",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 150664
+	},
+	{
+		"name" : "Cabo de Santo Agostinho",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 149964
+	},
+	{
+		"name" : "Camaçari",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 149146
+	},
+	{
+		"name" : "Sobral",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 146005
+	},
+	{
+		"name" : "Itajaí",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 145197
+	},
+	{
+		"name" : "Chapecó",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 144158
+	},
+	{
+		"name" : "Cotia",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 140042
+	},
+	{
+		"name" : "Lages",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 139570
+	},
+	{
+		"name" : "Ferraz de Vasconcelos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 139283
+	},
+	{
+		"name" : "Indaiatuba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 135968
+	},
+	{
+		"name" : "Hortolândia",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 135755
+	},
+	{
+		"name" : "Caxias",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 133980
+	},
+	{
+		"name" : "São Caetano do Sul",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 133321
+	},
+	{
+		"name" : "Itu",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 132736
+	},
+	{
+		"name" : "Nossa Senhora do Socorro",
+		"Countrycode" : "BRA",
+		"State" : "Sergipe",
+		"population" : 131351
+	},
+	{
+		"name" : "Parnaíba",
+		"Countrycode" : "BRA",
+		"State" : "Piauí",
+		"population" : 129756
+	},
+	{
+		"name" : "Poços de Caldas",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 129683
+	},
+	{
+		"name" : "Teresópolis",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 128079
+	},
+	{
+		"name" : "Barreiras",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 127801
+	},
+	{
+		"name" : "Castanhal",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 127634
+	},
+	{
+		"name" : "Alagoinhas",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 126820
+	},
+	{
+		"name" : "Itapecerica da Serra",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 126672
+	},
+	{
+		"name" : "Uruguaiana",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 126305
+	},
+	{
+		"name" : "Paranaguá",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 126076
+	},
+	{
+		"name" : "Ibirité",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 125982
+	},
+	{
+		"name" : "Timon",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 125812
+	},
+	{
+		"name" : "Luziânia",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 125597
+	},
+	{
+		"name" : "Macaé",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 125597
+	},
+	{
+		"name" : "Teófilo Otoni",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 124489
+	},
+	{
+		"name" : "Moji-Guaçu",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 123782
+	},
+	{
+		"name" : "Palmas",
+		"Countrycode" : "BRA",
+		"State" : "Tocantins",
+		"population" : 121919
+	},
+	{
+		"name" : "Pindamonhangaba",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 121904
+	},
+	{
+		"name" : "Francisco Morato",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 121197
+	},
+	{
+		"name" : "Bagé",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 120793
+	},
+	{
+		"name" : "Sapucaia do Sul",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 120217
+	},
+	{
+		"name" : "Cabo Frio",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 119503
+	},
+	{
+		"name" : "Itapetininga",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 119391
+	},
+	{
+		"name" : "Patos de Minas",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 119262
+	},
+	{
+		"name" : "Camaragibe",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 118968
+	},
+	{
+		"name" : "Bragança Paulista",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 116929
+	},
+	{
+		"name" : "Queimados",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 115020
+	},
+	{
+		"name" : "Araguaína",
+		"Countrycode" : "BRA",
+		"State" : "Tocantins",
+		"population" : 114948
+	},
+	{
+		"name" : "Garanhuns",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 114603
+	},
+	{
+		"name" : "Vitória de Santo Antão",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 113595
+	},
+	{
+		"name" : "Santa Rita",
+		"Countrycode" : "BRA",
+		"State" : "Paraíba",
+		"population" : 113135
+	},
+	{
+		"name" : "Barbacena",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 113079
+	},
+	{
+		"name" : "Abaetetuba",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 111258
+	},
+	{
+		"name" : "Jaú",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 109965
+	},
+	{
+		"name" : "Lauro de Freitas",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 109236
+	},
+	{
+		"name" : "Franco da Rocha",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 108964
+	},
+	{
+		"name" : "Teixeira de Freitas",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 108441
+	},
+	{
+		"name" : "Varginha",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 108314
+	},
+	{
+		"name" : "Ribeirão Pires",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 108121
+	},
+	{
+		"name" : "Sabará",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 107781
+	},
+	{
+		"name" : "Catanduva",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 107761
+	},
+	{
+		"name" : "Rio Verde",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 107755
+	},
+	{
+		"name" : "Botucatu",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 107663
+	},
+	{
+		"name" : "Colatina",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 107354
+	},
+	{
+		"name" : "Santa Cruz do Sul",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 106734
+	},
+	{
+		"name" : "Linhares",
+		"Countrycode" : "BRA",
+		"State" : "Espírito Santo",
+		"population" : 106278
+	},
+	{
+		"name" : "Apucarana",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 105114
+	},
+	{
+		"name" : "Barretos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 104156
+	},
+	{
+		"name" : "Guaratinguetá",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 103433
+	},
+	{
+		"name" : "Cachoeirinha",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 103240
+	},
+	{
+		"name" : "Codó",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 103153
+	},
+	{
+		"name" : "Jaraguá do Sul",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 102580
+	},
+	{
+		"name" : "Cubatão",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 102372
+	},
+	{
+		"name" : "Itabira",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 102217
+	},
+	{
+		"name" : "Itaituba",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 101320
+	},
+	{
+		"name" : "Araras",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 101046
+	},
+	{
+		"name" : "Resende",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 100627
+	},
+	{
+		"name" : "Atibaia",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 100356
+	},
+	{
+		"name" : "Pouso Alegre",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 100028
+	},
+	{
+		"name" : "Toledo",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 99387
+	},
+	{
+		"name" : "Crato",
+		"Countrycode" : "BRA",
+		"State" : "Ceará",
+		"population" : 98965
+	},
+	{
+		"name" : "Passos",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 98570
+	},
+	{
+		"name" : "Araguari",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 98399
+	},
+	{
+		"name" : "São José de Ribamar",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 98318
+	},
+	{
+		"name" : "Pinhais",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 98198
+	},
+	{
+		"name" : "Sertãozinho",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 98140
+	},
+	{
+		"name" : "Conselheiro Lafaiete",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 97507
+	},
+	{
+		"name" : "Paulo Afonso",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 97291
+	},
+	{
+		"name" : "Angra dos Reis",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 96864
+	},
+	{
+		"name" : "Eunápolis",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 96610
+	},
+	{
+		"name" : "Salto",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 96348
+	},
+	{
+		"name" : "Ourinhos",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 96291
+	},
+	{
+		"name" : "Parnamirim",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Norte",
+		"population" : 96210
+	},
+	{
+		"name" : "Jacobina",
+		"Countrycode" : "BRA",
+		"State" : "Bahia",
+		"population" : 96131
+	},
+	{
+		"name" : "Coronel Fabriciano",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 95933
+	},
+	{
+		"name" : "Birigui",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 94685
+	},
+	{
+		"name" : "Tatuí",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 93897
+	},
+	{
+		"name" : "Ji-Paraná",
+		"Countrycode" : "BRA",
+		"State" : "Rondônia",
+		"population" : 93346
+	},
+	{
+		"name" : "Bacabal",
+		"Countrycode" : "BRA",
+		"State" : "Maranhão",
+		"population" : 93121
+	},
+	{
+		"name" : "Cametá",
+		"Countrycode" : "BRA",
+		"State" : "Pará",
+		"population" : 92779
+	},
+	{
+		"name" : "Guaíba",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 92224
+	},
+	{
+		"name" : "São Lourenço da Mata",
+		"Countrycode" : "BRA",
+		"State" : "Pernambuco",
+		"population" : 91999
+	},
+	{
+		"name" : "Santana do Livramento",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 91779
+	},
+	{
+		"name" : "Votorantim",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 91777
+	},
+	{
+		"name" : "Campo Largo",
+		"Countrycode" : "BRA",
+		"State" : "Paraná",
+		"population" : 91203
+	},
+	{
+		"name" : "Patos",
+		"Countrycode" : "BRA",
+		"State" : "Paraíba",
+		"population" : 90519
+	},
+	{
+		"name" : "Ituiutaba",
+		"Countrycode" : "BRA",
+		"State" : "Minas Gerais",
+		"population" : 90507
+	},
+	{
+		"name" : "Corumbá",
+		"Countrycode" : "BRA",
+		"State" : "Mato Grosso do Sul",
+		"population" : 90111
+	},
+	{
+		"name" : "Palhoça",
+		"Countrycode" : "BRA",
+		"State" : "Santa Catarina",
+		"population" : 89465
+	},
+	{
+		"name" : "Barra do Piraí",
+		"Countrycode" : "BRA",
+		"State" : "Rio de Janeiro",
+		"population" : 89388
+	},
+	{
+		"name" : "Bento Gonçalves",
+		"Countrycode" : "BRA",
+		"State" : "Rio Grande do Sul",
+		"population" : 89254
+	},
+	{
+		"name" : "Poá",
+		"Countrycode" : "BRA",
+		"State" : "São Paulo",
+		"population" : 89236
+	},
+	{
+		"name" : "Águas Lindas de Goiás",
+		"Countrycode" : "BRA",
+		"State" : "Goiás",
+		"population" : 89200
+	},
+	{
+		"name" : "London",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 7285000
+	},
+	{
+		"name" : "Birmingham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 1013000
+	},
+	{
+		"name" : "Glasgow",
+		"Countrycode" : "GBR",
+		"State" : "Scotland",
+		"population" : 619680
+	},
+	{
+		"name" : "Liverpool",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 461000
+	},
+	{
+		"name" : "Edinburgh",
+		"Countrycode" : "GBR",
+		"State" : "Scotland",
+		"population" : 450180
+	},
+	{
+		"name" : "Sheffield",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 431607
+	},
+	{
+		"name" : "Manchester",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 430000
+	},
+	{
+		"name" : "Leeds",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 424194
+	},
+	{
+		"name" : "Bristol",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 402000
+	},
+	{
+		"name" : "Cardiff",
+		"Countrycode" : "GBR",
+		"State" : "Wales",
+		"population" : 321000
+	},
+	{
+		"name" : "Coventry",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 304000
+	},
+	{
+		"name" : "Leicester",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 294000
+	},
+	{
+		"name" : "Bradford",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 289376
+	},
+	{
+		"name" : "Belfast",
+		"Countrycode" : "GBR",
+		"State" : "North Ireland",
+		"population" : 287500
+	},
+	{
+		"name" : "Nottingham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 287000
+	},
+	{
+		"name" : "Kingston upon Hull",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 262000
+	},
+	{
+		"name" : "Plymouth",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 253000
+	},
+	{
+		"name" : "Stoke-on-Trent",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 252000
+	},
+	{
+		"name" : "Wolverhampton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 242000
+	},
+	{
+		"name" : "Derby",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 236000
+	},
+	{
+		"name" : "Swansea",
+		"Countrycode" : "GBR",
+		"State" : "Wales",
+		"population" : 230000
+	},
+	{
+		"name" : "Southampton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 216000
+	},
+	{
+		"name" : "Aberdeen",
+		"Countrycode" : "GBR",
+		"State" : "Scotland",
+		"population" : 213070
+	},
+	{
+		"name" : "Northampton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 196000
+	},
+	{
+		"name" : "Dudley",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 192171
+	},
+	{
+		"name" : "Portsmouth",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 190000
+	},
+	{
+		"name" : "Newcastle upon Tyne",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 189150
+	},
+	{
+		"name" : "Sunderland",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 183310
+	},
+	{
+		"name" : "Luton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 183000
+	},
+	{
+		"name" : "Swindon",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 180000
+	},
+	{
+		"name" : "Southend-on-Sea",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 176000
+	},
+	{
+		"name" : "Walsall",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 174739
+	},
+	{
+		"name" : "Bournemouth",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 162000
+	},
+	{
+		"name" : "Peterborough",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 156000
+	},
+	{
+		"name" : "Brighton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 156124
+	},
+	{
+		"name" : "Blackpool",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 151000
+	},
+	{
+		"name" : "Dundee",
+		"Countrycode" : "GBR",
+		"State" : "Scotland",
+		"population" : 146690
+	},
+	{
+		"name" : "West Bromwich",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 146386
+	},
+	{
+		"name" : "Reading",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 148000
+	},
+	{
+		"name" : "Oldbury/Smethwick (Warley)",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 145542
+	},
+	{
+		"name" : "Middlesbrough",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 145000
+	},
+	{
+		"name" : "Huddersfield",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 143726
+	},
+	{
+		"name" : "Oxford",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 144000
+	},
+	{
+		"name" : "Poole",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 141000
+	},
+	{
+		"name" : "Bolton",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 139020
+	},
+	{
+		"name" : "Blackburn",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 140000
+	},
+	{
+		"name" : "Newport",
+		"Countrycode" : "GBR",
+		"State" : "Wales",
+		"population" : 139000
+	},
+	{
+		"name" : "Preston",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 135000
+	},
+	{
+		"name" : "Stockport",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 132813
+	},
+	{
+		"name" : "Norwich",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 124000
+	},
+	{
+		"name" : "Rotherham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 121380
+	},
+	{
+		"name" : "Cambridge",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 121000
+	},
+	{
+		"name" : "Watford",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 113080
+	},
+	{
+		"name" : "Ipswich",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 114000
+	},
+	{
+		"name" : "Slough",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 112000
+	},
+	{
+		"name" : "Exeter",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 111000
+	},
+	{
+		"name" : "Cheltenham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 106000
+	},
+	{
+		"name" : "Gloucester",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 107000
+	},
+	{
+		"name" : "Saint Helens",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 106293
+	},
+	{
+		"name" : "Sutton Coldfield",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 106001
+	},
+	{
+		"name" : "York",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 104425
+	},
+	{
+		"name" : "Oldham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 103931
+	},
+	{
+		"name" : "Basildon",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 100924
+	},
+	{
+		"name" : "Worthing",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 100000
+	},
+	{
+		"name" : "Chelmsford",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 97451
+	},
+	{
+		"name" : "Colchester",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 96063
+	},
+	{
+		"name" : "Crawley",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 97000
+	},
+	{
+		"name" : "Gillingham",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 92000
+	},
+	{
+		"name" : "Solihull",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 94531
+	},
+	{
+		"name" : "Rochdale",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 94313
+	},
+	{
+		"name" : "Birkenhead",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 93087
+	},
+	{
+		"name" : "Worcester",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 95000
+	},
+	{
+		"name" : "Hartlepool",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 92000
+	},
+	{
+		"name" : "Halifax",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 91069
+	},
+	{
+		"name" : "Woking/Byfleet",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 92000
+	},
+	{
+		"name" : "Southport",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 90959
+	},
+	{
+		"name" : "Maidstone",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 90878
+	},
+	{
+		"name" : "Eastbourne",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 90000
+	},
+	{
+		"name" : "Grimsby",
+		"Countrycode" : "GBR",
+		"State" : "England",
+		"population" : 89000
+	},
+	{
+		"name" : "Saint Helier",
+		"Countrycode" : "GBR",
+		"State" : "Jersey",
+		"population" : 27523
+	},
+	{
+		"name" : "Douglas",
+		"Countrycode" : "GBR",
+		"State" : "–",
+		"population" : 23487
+	},
+	{
+		"name" : "Road Town",
+		"Countrycode" : "VGB",
+		"State" : "Tortola",
+		"population" : 8000
+	},
+	{
+		"name" : "Bandar Seri Begawan",
+		"Countrycode" : "BRN",
+		"State" : "Brunei and Muara",
+		"population" : 21484
+	},
+	{
+		"name" : "Sofija",
+		"Countrycode" : "BGR",
+		"State" : "Grad Sofija",
+		"population" : 1122302
+	},
+	{
+		"name" : "Plovdiv",
+		"Countrycode" : "BGR",
+		"State" : "Plovdiv",
+		"population" : 342584
+	},
+	{
+		"name" : "Varna",
+		"Countrycode" : "BGR",
+		"State" : "Varna",
+		"population" : 299801
+	},
+	{
+		"name" : "Burgas",
+		"Countrycode" : "BGR",
+		"State" : "Burgas",
+		"population" : 195255
+	},
+	{
+		"name" : "Ruse",
+		"Countrycode" : "BGR",
+		"State" : "Ruse",
+		"population" : 166467
+	},
+	{
+		"name" : "Stara Zagora",
+		"Countrycode" : "BGR",
+		"State" : "Haskovo",
+		"population" : 147939
+	},
+	{
+		"name" : "Pleven",
+		"Countrycode" : "BGR",
+		"State" : "Lovec",
+		"population" : 121952
+	},
+	{
+		"name" : "Sliven",
+		"Countrycode" : "BGR",
+		"State" : "Burgas",
+		"population" : 105530
+	},
+	{
+		"name" : "Dobric",
+		"Countrycode" : "BGR",
+		"State" : "Varna",
+		"population" : 100399
+	},
+	{
+		"name" : "Šumen",
+		"Countrycode" : "BGR",
+		"State" : "Varna",
+		"population" : 94686
+	},
+	{
+		"name" : "Ouagadougou",
+		"Countrycode" : "BFA",
+		"State" : "Kadiogo",
+		"population" : 824000
+	},
+	{
+		"name" : "Bobo-Dioulasso",
+		"Countrycode" : "BFA",
+		"State" : "Houet",
+		"population" : 300000
+	},
+	{
+		"name" : "Koudougou",
+		"Countrycode" : "BFA",
+		"State" : "Boulkiemdé",
+		"population" : 105000
+	},
+	{
+		"name" : "Bujumbura",
+		"Countrycode" : "BDI",
+		"State" : "Bujumbura",
+		"population" : 300000
+	},
+	{
+		"name" : "George Town",
+		"Countrycode" : "CYM",
+		"State" : "Grand Cayman",
+		"population" : 19600
+	},
+	{
+		"name" : "Santiago de Chile",
+		"Countrycode" : "CHL",
+		"State" : "Santiago",
+		"population" : 4703954
+	},
+	{
+		"name" : "Puente Alto",
+		"Countrycode" : "CHL",
+		"State" : "Santiago",
+		"population" : 386236
+	},
+	{
+		"name" : "Viña del Mar",
+		"Countrycode" : "CHL",
+		"State" : "Valparaíso",
+		"population" : 312493
+	},
+	{
+		"name" : "Valparaíso",
+		"Countrycode" : "CHL",
+		"State" : "Valparaíso",
+		"population" : 293800
+	},
+	{
+		"name" : "Talcahuano",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 277752
+	},
+	{
+		"name" : "Antofagasta",
+		"Countrycode" : "CHL",
+		"State" : "Antofagasta",
+		"population" : 251429
+	},
+	{
+		"name" : "San Bernardo",
+		"Countrycode" : "CHL",
+		"State" : "Santiago",
+		"population" : 241910
+	},
+	{
+		"name" : "Temuco",
+		"Countrycode" : "CHL",
+		"State" : "La Araucanía",
+		"population" : 233041
+	},
+	{
+		"name" : "Concepción",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 217664
+	},
+	{
+		"name" : "Rancagua",
+		"Countrycode" : "CHL",
+		"State" : "O´Higgins",
+		"population" : 212977
+	},
+	{
+		"name" : "Arica",
+		"Countrycode" : "CHL",
+		"State" : "Tarapacá",
+		"population" : 189036
+	},
+	{
+		"name" : "Talca",
+		"Countrycode" : "CHL",
+		"State" : "Maule",
+		"population" : 187557
+	},
+	{
+		"name" : "Chillán",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 178182
+	},
+	{
+		"name" : "Iquique",
+		"Countrycode" : "CHL",
+		"State" : "Tarapacá",
+		"population" : 177892
+	},
+	{
+		"name" : "Los Angeles",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 158215
+	},
+	{
+		"name" : "Puerto Montt",
+		"Countrycode" : "CHL",
+		"State" : "Los Lagos",
+		"population" : 152194
+	},
+	{
+		"name" : "Coquimbo",
+		"Countrycode" : "CHL",
+		"State" : "Coquimbo",
+		"population" : 143353
+	},
+	{
+		"name" : "Osorno",
+		"Countrycode" : "CHL",
+		"State" : "Los Lagos",
+		"population" : 141468
+	},
+	{
+		"name" : "La Serena",
+		"Countrycode" : "CHL",
+		"State" : "Coquimbo",
+		"population" : 137409
+	},
+	{
+		"name" : "Calama",
+		"Countrycode" : "CHL",
+		"State" : "Antofagasta",
+		"population" : 137265
+	},
+	{
+		"name" : "Valdivia",
+		"Countrycode" : "CHL",
+		"State" : "Los Lagos",
+		"population" : 133106
+	},
+	{
+		"name" : "Punta Arenas",
+		"Countrycode" : "CHL",
+		"State" : "Magallanes",
+		"population" : 125631
+	},
+	{
+		"name" : "Copiapó",
+		"Countrycode" : "CHL",
+		"State" : "Atacama",
+		"population" : 120128
+	},
+	{
+		"name" : "Quilpué",
+		"Countrycode" : "CHL",
+		"State" : "Valparaíso",
+		"population" : 118857
+	},
+	{
+		"name" : "Curicó",
+		"Countrycode" : "CHL",
+		"State" : "Maule",
+		"population" : 115766
+	},
+	{
+		"name" : "Ovalle",
+		"Countrycode" : "CHL",
+		"State" : "Coquimbo",
+		"population" : 94854
+	},
+	{
+		"name" : "Coronel",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 93061
+	},
+	{
+		"name" : "San Pedro de la Paz",
+		"Countrycode" : "CHL",
+		"State" : "Bíobío",
+		"population" : 91684
+	},
+	{
+		"name" : "Melipilla",
+		"Countrycode" : "CHL",
+		"State" : "Santiago",
+		"population" : 91056
+	},
+	{
+		"name" : "Avarua",
+		"Countrycode" : "COK",
+		"State" : "Rarotonga",
+		"population" : 11900
+	},
+	{
+		"name" : "San José",
+		"Countrycode" : "CRI",
+		"State" : "San José",
+		"population" : 339131
+	},
+	{
+		"name" : "Djibouti",
+		"Countrycode" : "DJI",
+		"State" : "Djibouti",
+		"population" : 383000
+	},
+	{
+		"name" : "Roseau",
+		"Countrycode" : "DMA",
+		"State" : "St George",
+		"population" : 16243
+	},
+	{
+		"name" : "Santo Domingo de Guzmán",
+		"Countrycode" : "DOM",
+		"State" : "Distrito Nacional",
+		"population" : 1609966
+	},
+	{
+		"name" : "Santiago de los Caballeros",
+		"Countrycode" : "DOM",
+		"State" : "Santiago",
+		"population" : 365463
+	},
+	{
+		"name" : "La Romana",
+		"Countrycode" : "DOM",
+		"State" : "La Romana",
+		"population" : 140204
+	},
+	{
+		"name" : "San Pedro de Macorís",
+		"Countrycode" : "DOM",
+		"State" : "San Pedro de Macorís",
+		"population" : 124735
+	},
+	{
+		"name" : "San Francisco de Macorís",
+		"Countrycode" : "DOM",
+		"State" : "Duarte",
+		"population" : 108485
+	},
+	{
+		"name" : "San Felipe de Puerto Plata",
+		"Countrycode" : "DOM",
+		"State" : "Puerto Plata",
+		"population" : 89423
+	},
+	{
+		"name" : "Guayaquil",
+		"Countrycode" : "ECU",
+		"State" : "Guayas",
+		"population" : 2070040
+	},
+	{
+		"name" : "Quito",
+		"Countrycode" : "ECU",
+		"State" : "Pichincha",
+		"population" : 1573458
+	},
+	{
+		"name" : "Cuenca",
+		"Countrycode" : "ECU",
+		"State" : "Azuay",
+		"population" : 270353
+	},
+	{
+		"name" : "Machala",
+		"Countrycode" : "ECU",
+		"State" : "El Oro",
+		"population" : 210368
+	},
+	{
+		"name" : "Santo Domingo de los Colorados",
+		"Countrycode" : "ECU",
+		"State" : "Pichincha",
+		"population" : 202111
+	},
+	{
+		"name" : "Portoviejo",
+		"Countrycode" : "ECU",
+		"State" : "Manabí",
+		"population" : 176413
+	},
+	{
+		"name" : "Ambato",
+		"Countrycode" : "ECU",
+		"State" : "Tungurahua",
+		"population" : 169612
+	},
+	{
+		"name" : "Manta",
+		"Countrycode" : "ECU",
+		"State" : "Manabí",
+		"population" : 164739
+	},
+	{
+		"name" : "Duran [Eloy Alfaro]",
+		"Countrycode" : "ECU",
+		"State" : "Guayas",
+		"population" : 152514
+	},
+	{
+		"name" : "Ibarra",
+		"Countrycode" : "ECU",
+		"State" : "Imbabura",
+		"population" : 130643
+	},
+	{
+		"name" : "Quevedo",
+		"Countrycode" : "ECU",
+		"State" : "Los Ríos",
+		"population" : 129631
+	},
+	{
+		"name" : "Milagro",
+		"Countrycode" : "ECU",
+		"State" : "Guayas",
+		"population" : 124177
+	},
+	{
+		"name" : "Loja",
+		"Countrycode" : "ECU",
+		"State" : "Loja",
+		"population" : 123875
+	},
+	{
+		"name" : "Ríobamba",
+		"Countrycode" : "ECU",
+		"State" : "Chimborazo",
+		"population" : 123163
+	},
+	{
+		"name" : "Esmeraldas",
+		"Countrycode" : "ECU",
+		"State" : "Esmeraldas",
+		"population" : 123045
+	},
+	{
+		"name" : "Cairo",
+		"Countrycode" : "EGY",
+		"State" : "Kairo",
+		"population" : 6789479
+	},
+	{
+		"name" : "Alexandria",
+		"Countrycode" : "EGY",
+		"State" : "Aleksandria",
+		"population" : 3328196
+	},
+	{
+		"name" : "Giza",
+		"Countrycode" : "EGY",
+		"State" : "Giza",
+		"population" : 2221868
+	},
+	{
+		"name" : "Shubra al-Khayma",
+		"Countrycode" : "EGY",
+		"State" : "al-Qalyubiya",
+		"population" : 870716
+	},
+	{
+		"name" : "Port Said",
+		"Countrycode" : "EGY",
+		"State" : "Port Said",
+		"population" : 469533
+	},
+	{
+		"name" : "Suez",
+		"Countrycode" : "EGY",
+		"State" : "Suez",
+		"population" : 417610
+	},
+	{
+		"name" : "al-Mahallat al-Kubra",
+		"Countrycode" : "EGY",
+		"State" : "al-Gharbiya",
+		"population" : 395402
+	},
+	{
+		"name" : "Tanta",
+		"Countrycode" : "EGY",
+		"State" : "al-Gharbiya",
+		"population" : 371010
+	},
+	{
+		"name" : "al-Mansura",
+		"Countrycode" : "EGY",
+		"State" : "al-Daqahliya",
+		"population" : 369621
+	},
+	{
+		"name" : "Luxor",
+		"Countrycode" : "EGY",
+		"State" : "Luxor",
+		"population" : 360503
+	},
+	{
+		"name" : "Asyut",
+		"Countrycode" : "EGY",
+		"State" : "Asyut",
+		"population" : 343498
+	},
+	{
+		"name" : "Bahtim",
+		"Countrycode" : "EGY",
+		"State" : "al-Qalyubiya",
+		"population" : 275807
+	},
+	{
+		"name" : "Zagazig",
+		"Countrycode" : "EGY",
+		"State" : "al-Sharqiya",
+		"population" : 267351
+	},
+	{
+		"name" : "al-Faiyum",
+		"Countrycode" : "EGY",
+		"State" : "al-Faiyum",
+		"population" : 260964
+	},
+	{
+		"name" : "Ismailia",
+		"Countrycode" : "EGY",
+		"State" : "Ismailia",
+		"population" : 254477
+	},
+	{
+		"name" : "Kafr al-Dawwar",
+		"Countrycode" : "EGY",
+		"State" : "al-Buhayra",
+		"population" : 231978
+	},
+	{
+		"name" : "Assuan",
+		"Countrycode" : "EGY",
+		"State" : "Assuan",
+		"population" : 219017
+	},
+	{
+		"name" : "Damanhur",
+		"Countrycode" : "EGY",
+		"State" : "al-Buhayra",
+		"population" : 212203
+	},
+	{
+		"name" : "al-Minya",
+		"Countrycode" : "EGY",
+		"State" : "al-Minya",
+		"population" : 201360
+	},
+	{
+		"name" : "Bani Suwayf",
+		"Countrycode" : "EGY",
+		"State" : "Bani Suwayf",
+		"population" : 172032
+	},
+	{
+		"name" : "Qina",
+		"Countrycode" : "EGY",
+		"State" : "Qina",
+		"population" : 171275
+	},
+	{
+		"name" : "Sawhaj",
+		"Countrycode" : "EGY",
+		"State" : "Sawhaj",
+		"population" : 170125
+	},
+	{
+		"name" : "Shibin al-Kawm",
+		"Countrycode" : "EGY",
+		"State" : "al-Minufiya",
+		"population" : 159909
+	},
+	{
+		"name" : "Bulaq al-Dakrur",
+		"Countrycode" : "EGY",
+		"State" : "Giza",
+		"population" : 148787
+	},
+	{
+		"name" : "Banha",
+		"Countrycode" : "EGY",
+		"State" : "al-Qalyubiya",
+		"population" : 145792
+	},
+	{
+		"name" : "Warraq al-Arab",
+		"Countrycode" : "EGY",
+		"State" : "Giza",
+		"population" : 127108
+	},
+	{
+		"name" : "Kafr al-Shaykh",
+		"Countrycode" : "EGY",
+		"State" : "Kafr al-Shaykh",
+		"population" : 124819
+	},
+	{
+		"name" : "Mallawi",
+		"Countrycode" : "EGY",
+		"State" : "al-Minya",
+		"population" : 119283
+	},
+	{
+		"name" : "Bilbays",
+		"Countrycode" : "EGY",
+		"State" : "al-Sharqiya",
+		"population" : 113608
+	},
+	{
+		"name" : "Mit Ghamr",
+		"Countrycode" : "EGY",
+		"State" : "al-Daqahliya",
+		"population" : 101801
+	},
+	{
+		"name" : "al-Arish",
+		"Countrycode" : "EGY",
+		"State" : "Shamal Sina",
+		"population" : 100447
+	},
+	{
+		"name" : "Talkha",
+		"Countrycode" : "EGY",
+		"State" : "al-Daqahliya",
+		"population" : 97700
+	},
+	{
+		"name" : "Qalyub",
+		"Countrycode" : "EGY",
+		"State" : "al-Qalyubiya",
+		"population" : 97200
+	},
+	{
+		"name" : "Jirja",
+		"Countrycode" : "EGY",
+		"State" : "Sawhaj",
+		"population" : 95400
+	},
+	{
+		"name" : "Idfu",
+		"Countrycode" : "EGY",
+		"State" : "Qina",
+		"population" : 94200
+	},
+	{
+		"name" : "al-Hawamidiya",
+		"Countrycode" : "EGY",
+		"State" : "Giza",
+		"population" : 91700
+	},
+	{
+		"name" : "Disuq",
+		"Countrycode" : "EGY",
+		"State" : "Kafr al-Shaykh",
+		"population" : 91300
+	},
+	{
+		"name" : "San Salvador",
+		"Countrycode" : "SLV",
+		"State" : "San Salvador",
+		"population" : 415346
+	},
+	{
+		"name" : "Santa Ana",
+		"Countrycode" : "SLV",
+		"State" : "Santa Ana",
+		"population" : 139389
+	},
+	{
+		"name" : "Mejicanos",
+		"Countrycode" : "SLV",
+		"State" : "San Salvador",
+		"population" : 138800
+	},
+	{
+		"name" : "Soyapango",
+		"Countrycode" : "SLV",
+		"State" : "San Salvador",
+		"population" : 129800
+	},
+	{
+		"name" : "San Miguel",
+		"Countrycode" : "SLV",
+		"State" : "San Miguel",
+		"population" : 127696
+	},
+	{
+		"name" : "Nueva San Salvador",
+		"Countrycode" : "SLV",
+		"State" : "La Libertad",
+		"population" : 98400
+	},
+	{
+		"name" : "Apopa",
+		"Countrycode" : "SLV",
+		"State" : "San Salvador",
+		"population" : 88800
+	},
+	{
+		"name" : "Asmara",
+		"Countrycode" : "ERI",
+		"State" : "Maekel",
+		"population" : 431000
+	},
+	{
+		"name" : "Madrid",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 2879052
+	},
+	{
+		"name" : "Barcelona",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 1503451
+	},
+	{
+		"name" : "Valencia",
+		"Countrycode" : "ESP",
+		"State" : "Valencia",
+		"population" : 739412
+	},
+	{
+		"name" : "Sevilla",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 701927
+	},
+	{
+		"name" : "Zaragoza",
+		"Countrycode" : "ESP",
+		"State" : "Aragonia",
+		"population" : 603367
+	},
+	{
+		"name" : "Málaga",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 530553
+	},
+	{
+		"name" : "Bilbao",
+		"Countrycode" : "ESP",
+		"State" : "Baskimaa",
+		"population" : 357589
+	},
+	{
+		"name" : "Las Palmas de Gran Canaria",
+		"Countrycode" : "ESP",
+		"State" : "Canary Islands",
+		"population" : 354757
+	},
+	{
+		"name" : "Murcia",
+		"Countrycode" : "ESP",
+		"State" : "Murcia",
+		"population" : 353504
+	},
+	{
+		"name" : "Palma de Mallorca",
+		"Countrycode" : "ESP",
+		"State" : "Balears",
+		"population" : 326993
+	},
+	{
+		"name" : "Valladolid",
+		"Countrycode" : "ESP",
+		"State" : "Castilla and León",
+		"population" : 319998
+	},
+	{
+		"name" : "Córdoba",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 311708
+	},
+	{
+		"name" : "Vigo",
+		"Countrycode" : "ESP",
+		"State" : "Galicia",
+		"population" : 283670
+	},
+	{
+		"name" : "Alicante [Alacant]",
+		"Countrycode" : "ESP",
+		"State" : "Valencia",
+		"population" : 272432
+	},
+	{
+		"name" : "Gijón",
+		"Countrycode" : "ESP",
+		"State" : "Asturia",
+		"population" : 267980
+	},
+	{
+		"name" : "L´Hospitalet de Llobregat",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 247986
+	},
+	{
+		"name" : "Granada",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 244767
+	},
+	{
+		"name" : "A Coruña (La Coruña)",
+		"Countrycode" : "ESP",
+		"State" : "Galicia",
+		"population" : 243402
+	},
+	{
+		"name" : "Vitoria-Gasteiz",
+		"Countrycode" : "ESP",
+		"State" : "Baskimaa",
+		"population" : 217154
+	},
+	{
+		"name" : "Santa Cruz de Tenerife",
+		"Countrycode" : "ESP",
+		"State" : "Canary Islands",
+		"population" : 213050
+	},
+	{
+		"name" : "Badalona",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 209635
+	},
+	{
+		"name" : "Oviedo",
+		"Countrycode" : "ESP",
+		"State" : "Asturia",
+		"population" : 200453
+	},
+	{
+		"name" : "Móstoles",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 195351
+	},
+	{
+		"name" : "Elche [Elx]",
+		"Countrycode" : "ESP",
+		"State" : "Valencia",
+		"population" : 193174
+	},
+	{
+		"name" : "Sabadell",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 184859
+	},
+	{
+		"name" : "Santander",
+		"Countrycode" : "ESP",
+		"State" : "Cantabria",
+		"population" : 184165
+	},
+	{
+		"name" : "Jerez de la Frontera",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 182660
+	},
+	{
+		"name" : "Pamplona [Iruña]",
+		"Countrycode" : "ESP",
+		"State" : "Navarra",
+		"population" : 180483
+	},
+	{
+		"name" : "Donostia-San Sebastián",
+		"Countrycode" : "ESP",
+		"State" : "Baskimaa",
+		"population" : 179208
+	},
+	{
+		"name" : "Cartagena",
+		"Countrycode" : "ESP",
+		"State" : "Murcia",
+		"population" : 177709
+	},
+	{
+		"name" : "Leganés",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 173163
+	},
+	{
+		"name" : "Fuenlabrada",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 171173
+	},
+	{
+		"name" : "Almería",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 169027
+	},
+	{
+		"name" : "Terrassa",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 168695
+	},
+	{
+		"name" : "Alcalá de Henares",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 164463
+	},
+	{
+		"name" : "Burgos",
+		"Countrycode" : "ESP",
+		"State" : "Castilla and León",
+		"population" : 162802
+	},
+	{
+		"name" : "Salamanca",
+		"Countrycode" : "ESP",
+		"State" : "Castilla and León",
+		"population" : 158720
+	},
+	{
+		"name" : "Albacete",
+		"Countrycode" : "ESP",
+		"State" : "Kastilia-La Mancha",
+		"population" : 147527
+	},
+	{
+		"name" : "Getafe",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 145371
+	},
+	{
+		"name" : "Cádiz",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 142449
+	},
+	{
+		"name" : "Alcorcón",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 142048
+	},
+	{
+		"name" : "Huelva",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 140583
+	},
+	{
+		"name" : "León",
+		"Countrycode" : "ESP",
+		"State" : "Castilla and León",
+		"population" : 139809
+	},
+	{
+		"name" : "Castellón de la Plana [Castell",
+		"Countrycode" : "ESP",
+		"State" : "Valencia",
+		"population" : 139712
+	},
+	{
+		"name" : "Badajoz",
+		"Countrycode" : "ESP",
+		"State" : "Extremadura",
+		"population" : 136613
+	},
+	{
+		"name" : "[San Cristóbal de] la Laguna",
+		"Countrycode" : "ESP",
+		"State" : "Canary Islands",
+		"population" : 127945
+	},
+	{
+		"name" : "Logroño",
+		"Countrycode" : "ESP",
+		"State" : "La Rioja",
+		"population" : 127093
+	},
+	{
+		"name" : "Santa Coloma de Gramenet",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 120802
+	},
+	{
+		"name" : "Tarragona",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 113016
+	},
+	{
+		"name" : "Lleida (Lérida)",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 112207
+	},
+	{
+		"name" : "Jaén",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 109247
+	},
+	{
+		"name" : "Ourense (Orense)",
+		"Countrycode" : "ESP",
+		"State" : "Galicia",
+		"population" : 109120
+	},
+	{
+		"name" : "Mataró",
+		"Countrycode" : "ESP",
+		"State" : "Katalonia",
+		"population" : 104095
+	},
+	{
+		"name" : "Algeciras",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 103106
+	},
+	{
+		"name" : "Marbella",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 101144
+	},
+	{
+		"name" : "Barakaldo",
+		"Countrycode" : "ESP",
+		"State" : "Baskimaa",
+		"population" : 98212
+	},
+	{
+		"name" : "Dos Hermanas",
+		"Countrycode" : "ESP",
+		"State" : "Andalusia",
+		"population" : 94591
+	},
+	{
+		"name" : "Santiago de Compostela",
+		"Countrycode" : "ESP",
+		"State" : "Galicia",
+		"population" : 93745
+	},
+	{
+		"name" : "Torrejón de Ardoz",
+		"Countrycode" : "ESP",
+		"State" : "Madrid",
+		"population" : 92262
+	},
+	{
+		"name" : "Cape Town",
+		"Countrycode" : "ZAF",
+		"State" : "Western Cape",
+		"population" : 2352121
+	},
+	{
+		"name" : "Soweto",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 904165
+	},
+	{
+		"name" : "Johannesburg",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 756653
+	},
+	{
+		"name" : "Port Elizabeth",
+		"Countrycode" : "ZAF",
+		"State" : "Eastern Cape",
+		"population" : 752319
+	},
+	{
+		"name" : "Pretoria",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 658630
+	},
+	{
+		"name" : "Inanda",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 634065
+	},
+	{
+		"name" : "Durban",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 566120
+	},
+	{
+		"name" : "Vanderbijlpark",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 468931
+	},
+	{
+		"name" : "Kempton Park",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 442633
+	},
+	{
+		"name" : "Alberton",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 410102
+	},
+	{
+		"name" : "Pinetown",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 378810
+	},
+	{
+		"name" : "Pietermaritzburg",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 370190
+	},
+	{
+		"name" : "Benoni",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 365467
+	},
+	{
+		"name" : "Randburg",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 341288
+	},
+	{
+		"name" : "Umlazi",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 339233
+	},
+	{
+		"name" : "Bloemfontein",
+		"Countrycode" : "ZAF",
+		"State" : "Free State",
+		"population" : 334341
+	},
+	{
+		"name" : "Vereeniging",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 328535
+	},
+	{
+		"name" : "Wonderboom",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 283289
+	},
+	{
+		"name" : "Roodepoort",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 279340
+	},
+	{
+		"name" : "Boksburg",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 262648
+	},
+	{
+		"name" : "Klerksdorp",
+		"Countrycode" : "ZAF",
+		"State" : "North West",
+		"population" : 261911
+	},
+	{
+		"name" : "Soshanguve",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 242727
+	},
+	{
+		"name" : "Newcastle",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 222993
+	},
+	{
+		"name" : "East London",
+		"Countrycode" : "ZAF",
+		"State" : "Eastern Cape",
+		"population" : 221047
+	},
+	{
+		"name" : "Welkom",
+		"Countrycode" : "ZAF",
+		"State" : "Free State",
+		"population" : 203296
+	},
+	{
+		"name" : "Kimberley",
+		"Countrycode" : "ZAF",
+		"State" : "Northern Cape",
+		"population" : 197254
+	},
+	{
+		"name" : "Uitenhage",
+		"Countrycode" : "ZAF",
+		"State" : "Eastern Cape",
+		"population" : 192120
+	},
+	{
+		"name" : "Chatsworth",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 189885
+	},
+	{
+		"name" : "Mdantsane",
+		"Countrycode" : "ZAF",
+		"State" : "Eastern Cape",
+		"population" : 182639
+	},
+	{
+		"name" : "Krugersdorp",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 181503
+	},
+	{
+		"name" : "Botshabelo",
+		"Countrycode" : "ZAF",
+		"State" : "Free State",
+		"population" : 177971
+	},
+	{
+		"name" : "Brakpan",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 171363
+	},
+	{
+		"name" : "Witbank",
+		"Countrycode" : "ZAF",
+		"State" : "Mpumalanga",
+		"population" : 167183
+	},
+	{
+		"name" : "Oberholzer",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 164367
+	},
+	{
+		"name" : "Germiston",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 164252
+	},
+	{
+		"name" : "Springs",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 162072
+	},
+	{
+		"name" : "Westonaria",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 159632
+	},
+	{
+		"name" : "Randfontein",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 120838
+	},
+	{
+		"name" : "Paarl",
+		"Countrycode" : "ZAF",
+		"State" : "Western Cape",
+		"population" : 105768
+	},
+	{
+		"name" : "Potchefstroom",
+		"Countrycode" : "ZAF",
+		"State" : "North West",
+		"population" : 101817
+	},
+	{
+		"name" : "Rustenburg",
+		"Countrycode" : "ZAF",
+		"State" : "North West",
+		"population" : 97008
+	},
+	{
+		"name" : "Nigel",
+		"Countrycode" : "ZAF",
+		"State" : "Gauteng",
+		"population" : 96734
+	},
+	{
+		"name" : "George",
+		"Countrycode" : "ZAF",
+		"State" : "Western Cape",
+		"population" : 93818
+	},
+	{
+		"name" : "Ladysmith",
+		"Countrycode" : "ZAF",
+		"State" : "KwaZulu-Natal",
+		"population" : 89292
+	},
+	{
+		"name" : "Addis Abeba",
+		"Countrycode" : "ETH",
+		"State" : "Addis Abeba",
+		"population" : 2495000
+	},
+	{
+		"name" : "Dire Dawa",
+		"Countrycode" : "ETH",
+		"State" : "Dire Dawa",
+		"population" : 164851
+	},
+	{
+		"name" : "Nazret",
+		"Countrycode" : "ETH",
+		"State" : "Oromia",
+		"population" : 127842
+	},
+	{
+		"name" : "Gonder",
+		"Countrycode" : "ETH",
+		"State" : "Amhara",
+		"population" : 112249
+	},
+	{
+		"name" : "Dese",
+		"Countrycode" : "ETH",
+		"State" : "Amhara",
+		"population" : 97314
+	},
+	{
+		"name" : "Mekele",
+		"Countrycode" : "ETH",
+		"State" : "Tigray",
+		"population" : 96938
+	},
+	{
+		"name" : "Bahir Dar",
+		"Countrycode" : "ETH",
+		"State" : "Amhara",
+		"population" : 96140
+	},
+	{
+		"name" : "Stanley",
+		"Countrycode" : "FLK",
+		"State" : "East Falkland",
+		"population" : 1636
+	},
+	{
+		"name" : "Suva",
+		"Countrycode" : "FJI",
+		"State" : "Central",
+		"population" : 77366
+	},
+	{
+		"name" : "Quezon",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 2173831
+	},
+	{
+		"name" : "Manila",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 1581082
+	},
+	{
+		"name" : "Kalookan",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 1177604
+	},
+	{
+		"name" : "Davao",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 1147116
+	},
+	{
+		"name" : "Cebu",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 718821
+	},
+	{
+		"name" : "Zamboanga",
+		"Countrycode" : "PHL",
+		"State" : "Western Mindanao",
+		"population" : 601794
+	},
+	{
+		"name" : "Pasig",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 505058
+	},
+	{
+		"name" : "Valenzuela",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 485433
+	},
+	{
+		"name" : "Las Piñas",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 472780
+	},
+	{
+		"name" : "Antipolo",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 470866
+	},
+	{
+		"name" : "Taguig",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 467375
+	},
+	{
+		"name" : "Cagayan de Oro",
+		"Countrycode" : "PHL",
+		"State" : "Northern Mindanao",
+		"population" : 461877
+	},
+	{
+		"name" : "Parañaque",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 449811
+	},
+	{
+		"name" : "Makati",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 444867
+	},
+	{
+		"name" : "Bacolod",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 429076
+	},
+	{
+		"name" : "General Santos",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 411822
+	},
+	{
+		"name" : "Marikina",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 391170
+	},
+	{
+		"name" : "Dasmariñas",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 379520
+	},
+	{
+		"name" : "Muntinlupa",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 379310
+	},
+	{
+		"name" : "Iloilo",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 365820
+	},
+	{
+		"name" : "Pasay",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 354908
+	},
+	{
+		"name" : "Malabon",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 338855
+	},
+	{
+		"name" : "San José del Monte",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 315807
+	},
+	{
+		"name" : "Bacoor",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 305699
+	},
+	{
+		"name" : "Iligan",
+		"Countrycode" : "PHL",
+		"State" : "Central Mindanao",
+		"population" : 285061
+	},
+	{
+		"name" : "Calamba",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 281146
+	},
+	{
+		"name" : "Mandaluyong",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 278474
+	},
+	{
+		"name" : "Butuan",
+		"Countrycode" : "PHL",
+		"State" : "Caraga",
+		"population" : 267279
+	},
+	{
+		"name" : "Angeles",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 263971
+	},
+	{
+		"name" : "Tarlac",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 262481
+	},
+	{
+		"name" : "Mandaue",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 259728
+	},
+	{
+		"name" : "Baguio",
+		"Countrycode" : "PHL",
+		"State" : "CAR",
+		"population" : 252386
+	},
+	{
+		"name" : "Batangas",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 247588
+	},
+	{
+		"name" : "Cainta",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 242511
+	},
+	{
+		"name" : "San Pedro",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 231403
+	},
+	{
+		"name" : "Navotas",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 230403
+	},
+	{
+		"name" : "Cabanatuan",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 222859
+	},
+	{
+		"name" : "San Fernando",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 221857
+	},
+	{
+		"name" : "Lipa",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 218447
+	},
+	{
+		"name" : "Lapu-Lapu",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 217019
+	},
+	{
+		"name" : "San Pablo",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 207927
+	},
+	{
+		"name" : "Biñan",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 201186
+	},
+	{
+		"name" : "Taytay",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 198183
+	},
+	{
+		"name" : "Lucena",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 196075
+	},
+	{
+		"name" : "Imus",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 195482
+	},
+	{
+		"name" : "Olongapo",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 194260
+	},
+	{
+		"name" : "Binangonan",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 187691
+	},
+	{
+		"name" : "Santa Rosa",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 185633
+	},
+	{
+		"name" : "Tagum",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 179531
+	},
+	{
+		"name" : "Tacloban",
+		"Countrycode" : "PHL",
+		"State" : "Eastern Visayas",
+		"population" : 178639
+	},
+	{
+		"name" : "Malolos",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 175291
+	},
+	{
+		"name" : "Mabalacat",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 171045
+	},
+	{
+		"name" : "Cotabato",
+		"Countrycode" : "PHL",
+		"State" : "Central Mindanao",
+		"population" : 163849
+	},
+	{
+		"name" : "Meycauayan",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 163037
+	},
+	{
+		"name" : "Puerto Princesa",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 161912
+	},
+	{
+		"name" : "Legazpi",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 157010
+	},
+	{
+		"name" : "Silang",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 156137
+	},
+	{
+		"name" : "Ormoc",
+		"Countrycode" : "PHL",
+		"State" : "Eastern Visayas",
+		"population" : 154297
+	},
+	{
+		"name" : "San Carlos",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 154264
+	},
+	{
+		"name" : "Kabankalan",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 149769
+	},
+	{
+		"name" : "Talisay",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 148110
+	},
+	{
+		"name" : "Valencia",
+		"Countrycode" : "PHL",
+		"State" : "Northern Mindanao",
+		"population" : 147924
+	},
+	{
+		"name" : "Calbayog",
+		"Countrycode" : "PHL",
+		"State" : "Eastern Visayas",
+		"population" : 147187
+	},
+	{
+		"name" : "Santa Maria",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 144282
+	},
+	{
+		"name" : "Pagadian",
+		"Countrycode" : "PHL",
+		"State" : "Western Mindanao",
+		"population" : 142515
+	},
+	{
+		"name" : "Cadiz",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 141954
+	},
+	{
+		"name" : "Bago",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 141721
+	},
+	{
+		"name" : "Toledo",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 141174
+	},
+	{
+		"name" : "Naga",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 137810
+	},
+	{
+		"name" : "San Mateo",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 135603
+	},
+	{
+		"name" : "Panabo",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 133950
+	},
+	{
+		"name" : "Koronadal",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 133786
+	},
+	{
+		"name" : "Marawi",
+		"Countrycode" : "PHL",
+		"State" : "Central Mindanao",
+		"population" : 131090
+	},
+	{
+		"name" : "Dagupan",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 130328
+	},
+	{
+		"name" : "Sagay",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 129765
+	},
+	{
+		"name" : "Roxas",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 126352
+	},
+	{
+		"name" : "Lubao",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 125699
+	},
+	{
+		"name" : "Digos",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 125171
+	},
+	{
+		"name" : "San Miguel",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 123824
+	},
+	{
+		"name" : "Malaybalay",
+		"Countrycode" : "PHL",
+		"State" : "Northern Mindanao",
+		"population" : 123672
+	},
+	{
+		"name" : "Tuguegarao",
+		"Countrycode" : "PHL",
+		"State" : "Cagayan Valley",
+		"population" : 120645
+	},
+	{
+		"name" : "Ilagan",
+		"Countrycode" : "PHL",
+		"State" : "Cagayan Valley",
+		"population" : 119990
+	},
+	{
+		"name" : "Baliuag",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 119675
+	},
+	{
+		"name" : "Surigao",
+		"Countrycode" : "PHL",
+		"State" : "Caraga",
+		"population" : 118534
+	},
+	{
+		"name" : "San Carlos",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 118259
+	},
+	{
+		"name" : "San Juan del Monte",
+		"Countrycode" : "PHL",
+		"State" : "National Capital Reg",
+		"population" : 117680
+	},
+	{
+		"name" : "Tanauan",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 117539
+	},
+	{
+		"name" : "Concepcion",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 115171
+	},
+	{
+		"name" : "Rodriguez (Montalban)",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 115167
+	},
+	{
+		"name" : "Sariaya",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 114568
+	},
+	{
+		"name" : "Malasiqui",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 113190
+	},
+	{
+		"name" : "General Mariano Alvarez",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 112446
+	},
+	{
+		"name" : "Urdaneta",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 111582
+	},
+	{
+		"name" : "Hagonoy",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 111425
+	},
+	{
+		"name" : "San Jose",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 111009
+	},
+	{
+		"name" : "Polomolok",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 110709
+	},
+	{
+		"name" : "Santiago",
+		"Countrycode" : "PHL",
+		"State" : "Cagayan Valley",
+		"population" : 110531
+	},
+	{
+		"name" : "Tanza",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 110517
+	},
+	{
+		"name" : "Ozamis",
+		"Countrycode" : "PHL",
+		"State" : "Northern Mindanao",
+		"population" : 110420
+	},
+	{
+		"name" : "Mexico",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 109481
+	},
+	{
+		"name" : "San Jose",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 108254
+	},
+	{
+		"name" : "Silay",
+		"Countrycode" : "PHL",
+		"State" : "Western Visayas",
+		"population" : 107722
+	},
+	{
+		"name" : "General Trias",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 107691
+	},
+	{
+		"name" : "Tabaco",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 107166
+	},
+	{
+		"name" : "Cabuyao",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 106630
+	},
+	{
+		"name" : "Calapan",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 105910
+	},
+	{
+		"name" : "Mati",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 105908
+	},
+	{
+		"name" : "Midsayap",
+		"Countrycode" : "PHL",
+		"State" : "Central Mindanao",
+		"population" : 105760
+	},
+	{
+		"name" : "Cauayan",
+		"Countrycode" : "PHL",
+		"State" : "Cagayan Valley",
+		"population" : 103952
+	},
+	{
+		"name" : "Gingoog",
+		"Countrycode" : "PHL",
+		"State" : "Northern Mindanao",
+		"population" : 102379
+	},
+	{
+		"name" : "Dumaguete",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 102265
+	},
+	{
+		"name" : "San Fernando",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 102082
+	},
+	{
+		"name" : "Arayat",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 101792
+	},
+	{
+		"name" : "Bayawan (Tulong)",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 101391
+	},
+	{
+		"name" : "Kidapawan",
+		"Countrycode" : "PHL",
+		"State" : "Central Mindanao",
+		"population" : 101205
+	},
+	{
+		"name" : "Daraga (Locsin)",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 101031
+	},
+	{
+		"name" : "Marilao",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 101017
+	},
+	{
+		"name" : "Malita",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 100000
+	},
+	{
+		"name" : "Dipolog",
+		"Countrycode" : "PHL",
+		"State" : "Western Mindanao",
+		"population" : 99862
+	},
+	{
+		"name" : "Cavite",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 99367
+	},
+	{
+		"name" : "Danao",
+		"Countrycode" : "PHL",
+		"State" : "Central Visayas",
+		"population" : 98781
+	},
+	{
+		"name" : "Bislig",
+		"Countrycode" : "PHL",
+		"State" : "Caraga",
+		"population" : 97860
+	},
+	{
+		"name" : "Talavera",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 97329
+	},
+	{
+		"name" : "Guagua",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 96858
+	},
+	{
+		"name" : "Bayambang",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 96609
+	},
+	{
+		"name" : "Nasugbu",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 96113
+	},
+	{
+		"name" : "Baybay",
+		"Countrycode" : "PHL",
+		"State" : "Eastern Visayas",
+		"population" : 95630
+	},
+	{
+		"name" : "Capas",
+		"Countrycode" : "PHL",
+		"State" : "Central Luzon",
+		"population" : 95219
+	},
+	{
+		"name" : "Sultan Kudarat",
+		"Countrycode" : "PHL",
+		"State" : "ARMM",
+		"population" : 94861
+	},
+	{
+		"name" : "Laoag",
+		"Countrycode" : "PHL",
+		"State" : "Ilocos",
+		"population" : 94466
+	},
+	{
+		"name" : "Bayugan",
+		"Countrycode" : "PHL",
+		"State" : "Caraga",
+		"population" : 93623
+	},
+	{
+		"name" : "Malungon",
+		"Countrycode" : "PHL",
+		"State" : "Southern Mindanao",
+		"population" : 93232
+	},
+	{
+		"name" : "Santa Cruz",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 92694
+	},
+	{
+		"name" : "Sorsogon",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 92512
+	},
+	{
+		"name" : "Candelaria",
+		"Countrycode" : "PHL",
+		"State" : "Southern Tagalog",
+		"population" : 92429
+	},
+	{
+		"name" : "Ligao",
+		"Countrycode" : "PHL",
+		"State" : "Bicol",
+		"population" : 90603
+	},
+	{
+		"name" : "Tórshavn",
+		"Countrycode" : "FRO",
+		"State" : "Streymoyar",
+		"population" : 14542
+	},
+	{
+		"name" : "Libreville",
+		"Countrycode" : "GAB",
+		"State" : "Estuaire",
+		"population" : 419000
+	},
+	{
+		"name" : "Serekunda",
+		"Countrycode" : "GMB",
+		"State" : "Kombo St Mary",
+		"population" : 102600
+	},
+	{
+		"name" : "Banjul",
+		"Countrycode" : "GMB",
+		"State" : "Banjul",
+		"population" : 42326
+	},
+	{
+		"name" : "Tbilisi",
+		"Countrycode" : "GEO",
+		"State" : "Tbilisi",
+		"population" : 1235200
+	},
+	{
+		"name" : "Kutaisi",
+		"Countrycode" : "GEO",
+		"State" : "Imereti",
+		"population" : 240900
+	},
+	{
+		"name" : "Rustavi",
+		"Countrycode" : "GEO",
+		"State" : "Kvemo Kartli",
+		"population" : 155400
+	},
+	{
+		"name" : "Batumi",
+		"Countrycode" : "GEO",
+		"State" : "Adzaria [Atšara]",
+		"population" : 137700
+	},
+	{
+		"name" : "Sohumi",
+		"Countrycode" : "GEO",
+		"State" : "Abhasia [Aphazeti]",
+		"population" : 111700
+	},
+	{
+		"name" : "Accra",
+		"Countrycode" : "GHA",
+		"State" : "Greater Accra",
+		"population" : 1070000
+	},
+	{
+		"name" : "Kumasi",
+		"Countrycode" : "GHA",
+		"State" : "Ashanti",
+		"population" : 385192
+	},
+	{
+		"name" : "Tamale",
+		"Countrycode" : "GHA",
+		"State" : "Northern",
+		"population" : 151069
+	},
+	{
+		"name" : "Tema",
+		"Countrycode" : "GHA",
+		"State" : "Greater Accra",
+		"population" : 109975
+	},
+	{
+		"name" : "Sekondi-Takoradi",
+		"Countrycode" : "GHA",
+		"State" : "Western",
+		"population" : 103653
+	},
+	{
+		"name" : "Gibraltar",
+		"Countrycode" : "GIB",
+		"State" : "–",
+		"population" : 27025
+	},
+	{
+		"name" : "Saint George´s",
+		"Countrycode" : "GRD",
+		"State" : "St George",
+		"population" : 4621
+	},
+	{
+		"name" : "Nuuk",
+		"Countrycode" : "GRL",
+		"State" : "Kitaa",
+		"population" : 13445
+	},
+	{
+		"name" : "Les Abymes",
+		"Countrycode" : "GLP",
+		"State" : "Grande-Terre",
+		"population" : 62947
+	},
+	{
+		"name" : "Basse-Terre",
+		"Countrycode" : "GLP",
+		"State" : "Basse-Terre",
+		"population" : 12433
+	},
+	{
+		"name" : "Tamuning",
+		"Countrycode" : "GUM",
+		"State" : "–",
+		"population" : 9500
+	},
+	{
+		"name" : "Agaña",
+		"Countrycode" : "GUM",
+		"State" : "–",
+		"population" : 1139
+	},
+	{
+		"name" : "Ciudad de Guatemala",
+		"Countrycode" : "GTM",
+		"State" : "Guatemala",
+		"population" : 823301
+	},
+	{
+		"name" : "Mixco",
+		"Countrycode" : "GTM",
+		"State" : "Guatemala",
+		"population" : 209791
+	},
+	{
+		"name" : "Villa Nueva",
+		"Countrycode" : "GTM",
+		"State" : "Guatemala",
+		"population" : 101295
+	},
+	{
+		"name" : "Quetzaltenango",
+		"Countrycode" : "GTM",
+		"State" : "Quetzaltenango",
+		"population" : 90801
+	},
+	{
+		"name" : "Conakry",
+		"Countrycode" : "GIN",
+		"State" : "Conakry",
+		"population" : 1090610
+	},
+	{
+		"name" : "Bissau",
+		"Countrycode" : "GNB",
+		"State" : "Bissau",
+		"population" : 241000
+	},
+	{
+		"name" : "Georgetown",
+		"Countrycode" : "GUY",
+		"State" : "Georgetown",
+		"population" : 254000
+	},
+	{
+		"name" : "Port-au-Prince",
+		"Countrycode" : "HTI",
+		"State" : "Ouest",
+		"population" : 884472
+	},
+	{
+		"name" : "Carrefour",
+		"Countrycode" : "HTI",
+		"State" : "Ouest",
+		"population" : 290204
+	},
+	{
+		"name" : "Delmas",
+		"Countrycode" : "HTI",
+		"State" : "Ouest",
+		"population" : 240429
+	},
+	{
+		"name" : "Le-Cap-Haïtien",
+		"Countrycode" : "HTI",
+		"State" : "Nord",
+		"population" : 102233
+	},
+	{
+		"name" : "Tegucigalpa",
+		"Countrycode" : "HND",
+		"State" : "Distrito Central",
+		"population" : 813900
+	},
+	{
+		"name" : "San Pedro Sula",
+		"Countrycode" : "HND",
+		"State" : "Cortés",
+		"population" : 383900
+	},
+	{
+		"name" : "La Ceiba",
+		"Countrycode" : "HND",
+		"State" : "Atlántida",
+		"population" : 89200
+	},
+	{
+		"name" : "Kowloon and New Kowloon",
+		"Countrycode" : "HKG",
+		"State" : "Kowloon and New Kowl",
+		"population" : 1987996
+	},
+	{
+		"name" : "Victoria",
+		"Countrycode" : "HKG",
+		"State" : "Hongkong",
+		"population" : 1312637
+	},
+	{
+		"name" : "Longyearbyen",
+		"Countrycode" : "SJM",
+		"State" : "Länsimaa",
+		"population" : 1438
+	},
+	{
+		"name" : "Jakarta",
+		"Countrycode" : "IDN",
+		"State" : "Jakarta Raya",
+		"population" : 9604900
+	},
+	{
+		"name" : "Surabaya",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 2663820
+	},
+	{
+		"name" : "Bandung",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 2429000
+	},
+	{
+		"name" : "Medan",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Utara",
+		"population" : 1843919
+	},
+	{
+		"name" : "Palembang",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Selatan",
+		"population" : 1222764
+	},
+	{
+		"name" : "Tangerang",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 1198300
+	},
+	{
+		"name" : "Semarang",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 1104405
+	},
+	{
+		"name" : "Ujung Pandang",
+		"Countrycode" : "IDN",
+		"State" : "Sulawesi Selatan",
+		"population" : 1060257
+	},
+	{
+		"name" : "Malang",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 716862
+	},
+	{
+		"name" : "Bandar Lampung",
+		"Countrycode" : "IDN",
+		"State" : "Lampung",
+		"population" : 680332
+	},
+	{
+		"name" : "Bekasi",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 644300
+	},
+	{
+		"name" : "Padang",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Barat",
+		"population" : 534474
+	},
+	{
+		"name" : "Surakarta",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 518600
+	},
+	{
+		"name" : "Banjarmasin",
+		"Countrycode" : "IDN",
+		"State" : "Kalimantan Selatan",
+		"population" : 482931
+	},
+	{
+		"name" : "Pekan Baru",
+		"Countrycode" : "IDN",
+		"State" : "Riau",
+		"population" : 438638
+	},
+	{
+		"name" : "Denpasar",
+		"Countrycode" : "IDN",
+		"State" : "Bali",
+		"population" : 435000
+	},
+	{
+		"name" : "Yogyakarta",
+		"Countrycode" : "IDN",
+		"State" : "Yogyakarta",
+		"population" : 418944
+	},
+	{
+		"name" : "Pontianak",
+		"Countrycode" : "IDN",
+		"State" : "Kalimantan Barat",
+		"population" : 409632
+	},
+	{
+		"name" : "Samarinda",
+		"Countrycode" : "IDN",
+		"State" : "Kalimantan Timur",
+		"population" : 399175
+	},
+	{
+		"name" : "Jambi",
+		"Countrycode" : "IDN",
+		"State" : "Jambi",
+		"population" : 385201
+	},
+	{
+		"name" : "Depok",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 365200
+	},
+	{
+		"name" : "Cimahi",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 344600
+	},
+	{
+		"name" : "Balikpapan",
+		"Countrycode" : "IDN",
+		"State" : "Kalimantan Timur",
+		"population" : 338752
+	},
+	{
+		"name" : "Manado",
+		"Countrycode" : "IDN",
+		"State" : "Sulawesi Utara",
+		"population" : 332288
+	},
+	{
+		"name" : "Mataram",
+		"Countrycode" : "IDN",
+		"State" : "Nusa Tenggara Barat",
+		"population" : 306600
+	},
+	{
+		"name" : "Pekalongan",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 301504
+	},
+	{
+		"name" : "Tegal",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 289744
+	},
+	{
+		"name" : "Bogor",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 285114
+	},
+	{
+		"name" : "Ciputat",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 270800
+	},
+	{
+		"name" : "Pondokgede",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 263200
+	},
+	{
+		"name" : "Cirebon",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 254406
+	},
+	{
+		"name" : "Kediri",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 253760
+	},
+	{
+		"name" : "Ambon",
+		"Countrycode" : "IDN",
+		"State" : "Molukit",
+		"population" : 249312
+	},
+	{
+		"name" : "Jember",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 218500
+	},
+	{
+		"name" : "Cilacap",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 206900
+	},
+	{
+		"name" : "Cimanggis",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 205100
+	},
+	{
+		"name" : "Pematang Siantar",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Utara",
+		"population" : 203056
+	},
+	{
+		"name" : "Purwokerto",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 202500
+	},
+	{
+		"name" : "Ciomas",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 187400
+	},
+	{
+		"name" : "Tasikmalaya",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 179800
+	},
+	{
+		"name" : "Madiun",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 171532
+	},
+	{
+		"name" : "Bengkulu",
+		"Countrycode" : "IDN",
+		"State" : "Bengkulu",
+		"population" : 146439
+	},
+	{
+		"name" : "Karawang",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 145000
+	},
+	{
+		"name" : "Banda Aceh",
+		"Countrycode" : "IDN",
+		"State" : "Aceh",
+		"population" : 143409
+	},
+	{
+		"name" : "Palu",
+		"Countrycode" : "IDN",
+		"State" : "Sulawesi Tengah",
+		"population" : 142800
+	},
+	{
+		"name" : "Pasuruan",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 134019
+	},
+	{
+		"name" : "Kupang",
+		"Countrycode" : "IDN",
+		"State" : "Nusa Tenggara Timur",
+		"population" : 129300
+	},
+	{
+		"name" : "Tebing Tinggi",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Utara",
+		"population" : 129300
+	},
+	{
+		"name" : "Percut Sei Tuan",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Utara",
+		"population" : 129000
+	},
+	{
+		"name" : "Binjai",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Utara",
+		"population" : 127222
+	},
+	{
+		"name" : "Sukabumi",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 125766
+	},
+	{
+		"name" : "Waru",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 124300
+	},
+	{
+		"name" : "Pangkal Pinang",
+		"Countrycode" : "IDN",
+		"State" : "Sumatera Selatan",
+		"population" : 124000
+	},
+	{
+		"name" : "Magelang",
+		"Countrycode" : "IDN",
+		"State" : "Central Java",
+		"population" : 123800
+	},
+	{
+		"name" : "Blitar",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 122600
+	},
+	{
+		"name" : "Serang",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 122400
+	},
+	{
+		"name" : "Probolinggo",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 120770
+	},
+	{
+		"name" : "Cilegon",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 117000
+	},
+	{
+		"name" : "Cianjur",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 114300
+	},
+	{
+		"name" : "Ciparay",
+		"Countrycode" : "IDN",
+		"State" : "West Java",
+		"population" : 111500
+	},
+	{
+		"name" : "Lhokseumawe",
+		"Countrycode" : "IDN",
+		"State" : "Aceh",
+		"population" : 109600
+	},
+	{
+		"name" : "Taman",
+		"Countrycode" : "IDN",
+		"State" : "East Java",
+		"population" : 107000
+	}
+]

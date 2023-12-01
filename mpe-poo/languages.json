@@ -1,0 +1,5906 @@
+[
+	{
+		"language" : "Dutch",
+		"isOfficial" : true,
+		"percentage" : 5.3,
+		"countrycode" : "ABW"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 9.5,
+		"countrycode" : "ABW"
+	},
+	{
+		"language" : "Papiamento",
+		"isOfficial" : false,
+		"percentage" : 76.7,
+		"countrycode" : "ABW"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 7.4,
+		"countrycode" : "ABW"
+	},
+	{
+		"language" : "Balochi",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "AFG"
+	},
+	{
+		"language" : "Dari",
+		"isOfficial" : true,
+		"percentage" : 32.1,
+		"countrycode" : "AFG"
+	},
+	{
+		"language" : "Pashto",
+		"isOfficial" : true,
+		"percentage" : 52.4,
+		"countrycode" : "AFG"
+	},
+	{
+		"language" : "Turkmenian",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "AFG"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : false,
+		"percentage" : 8.8,
+		"countrycode" : "AFG"
+	},
+	{
+		"language" : "Ambo",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Chokwe",
+		"isOfficial" : false,
+		"percentage" : 4.2,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Kongo",
+		"isOfficial" : false,
+		"percentage" : 13.2,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Luchazi",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Luimbe-nganguela",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Luvale",
+		"isOfficial" : false,
+		"percentage" : 3.6,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Mbundu",
+		"isOfficial" : false,
+		"percentage" : 21.6,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Nyaneka-nkhumbi",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "Ovimbundu",
+		"isOfficial" : false,
+		"percentage" : 37.2,
+		"countrycode" : "AGO"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "AIA"
+	},
+	{
+		"language" : "Albaniana",
+		"isOfficial" : true,
+		"percentage" : 97.9,
+		"countrycode" : "ALB"
+	},
+	{
+		"language" : "Greek",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "ALB"
+	},
+	{
+		"language" : "Macedonian",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "ALB"
+	},
+	{
+		"language" : "Catalan",
+		"isOfficial" : true,
+		"percentage" : 32.3,
+		"countrycode" : "AND"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 6.2,
+		"countrycode" : "AND"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 10.8,
+		"countrycode" : "AND"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 44.6,
+		"countrycode" : "AND"
+	},
+	{
+		"language" : "Dutch",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "ANT"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "ANT"
+	},
+	{
+		"language" : "Papiamento",
+		"isOfficial" : true,
+		"percentage" : 86.2,
+		"countrycode" : "ANT"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 42.0,
+		"countrycode" : "ARE"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "ARE"
+	},
+	{
+		"language" : "Indian Languages",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "ARG"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "ARG"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 96.8,
+		"countrycode" : "ARG"
+	},
+	{
+		"language" : "Armenian",
+		"isOfficial" : true,
+		"percentage" : 93.4,
+		"countrycode" : "ARM"
+	},
+	{
+		"language" : "Azerbaijani",
+		"isOfficial" : false,
+		"percentage" : 2.6,
+		"countrycode" : "ARM"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 3.1,
+		"countrycode" : "ASM"
+	},
+	{
+		"language" : "Samoan",
+		"isOfficial" : true,
+		"percentage" : 90.6,
+		"countrycode" : "ASM"
+	},
+	{
+		"language" : "Tongan",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "ASM"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 95.7,
+		"countrycode" : "ATG"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "ATG"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 1.0,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Canton Chinese",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 81.2,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Greek",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Vietnamese",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "AUS"
+	},
+	{
+		"language" : "Czech",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 92.0,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Romanian",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Slovene",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 1.5,
+		"countrycode" : "AUT"
+	},
+	{
+		"language" : "Armenian",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "AZE"
+	},
+	{
+		"language" : "Azerbaijani",
+		"isOfficial" : true,
+		"percentage" : 89.0,
+		"countrycode" : "AZE"
+	},
+	{
+		"language" : "Lezgian",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "AZE"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "AZE"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "BDI"
+	},
+	{
+		"language" : "Kirundi",
+		"isOfficial" : true,
+		"percentage" : 98.1,
+		"countrycode" : "BDI"
+	},
+	{
+		"language" : "Swahili",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "BDI"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "Dutch",
+		"isOfficial" : true,
+		"percentage" : 59.2,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 32.6,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 1.0,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "BEL"
+	},
+	{
+		"language" : "Adja",
+		"isOfficial" : false,
+		"percentage" : 11.1,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Aizo",
+		"isOfficial" : false,
+		"percentage" : 8.7,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Bariba",
+		"isOfficial" : false,
+		"percentage" : 8.7,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Fon",
+		"isOfficial" : false,
+		"percentage" : 39.8,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 5.6,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Joruba",
+		"isOfficial" : false,
+		"percentage" : 12.2,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Somba",
+		"isOfficial" : false,
+		"percentage" : 6.7,
+		"countrycode" : "BEN"
+	},
+	{
+		"language" : "Busansi",
+		"isOfficial" : false,
+		"percentage" : 3.5,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Dagara",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Dyula",
+		"isOfficial" : false,
+		"percentage" : 2.6,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 9.7,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Gurma",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Mossi",
+		"isOfficial" : false,
+		"percentage" : 50.2,
+		"countrycode" : "BFA"
+	},
+	{
+		"language" : "Bengali",
+		"isOfficial" : true,
+		"percentage" : 97.7,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Chakma",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Garo",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Khasi",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Marma",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Santhali",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Tripuri",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "BGD"
+	},
+	{
+		"language" : "Bulgariana",
+		"isOfficial" : true,
+		"percentage" : 83.2,
+		"countrycode" : "BGR"
+	},
+	{
+		"language" : "Macedonian",
+		"isOfficial" : false,
+		"percentage" : 2.6,
+		"countrycode" : "BGR"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 3.7,
+		"countrycode" : "BGR"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 9.4,
+		"countrycode" : "BGR"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 67.7,
+		"countrycode" : "BHR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "BHR"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 89.7,
+		"countrycode" : "BHS"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 10.3,
+		"countrycode" : "BHS"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : true,
+		"percentage" : 99.2,
+		"countrycode" : "BIH"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : true,
+		"percentage" : 65.6,
+		"countrycode" : "BLR"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "BLR"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : true,
+		"percentage" : 32.0,
+		"countrycode" : "BLR"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "BLR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 50.8,
+		"countrycode" : "BLZ"
+	},
+	{
+		"language" : "Garifuna",
+		"isOfficial" : false,
+		"percentage" : 6.8,
+		"countrycode" : "BLZ"
+	},
+	{
+		"language" : "Maya Languages",
+		"isOfficial" : false,
+		"percentage" : 9.6,
+		"countrycode" : "BLZ"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 31.6,
+		"countrycode" : "BLZ"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "BMU"
+	},
+	{
+		"language" : "Aimará",
+		"isOfficial" : true,
+		"percentage" : 3.2,
+		"countrycode" : "BOL"
+	},
+	{
+		"language" : "Guaraní",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "BOL"
+	},
+	{
+		"language" : "Ketšua",
+		"isOfficial" : true,
+		"percentage" : 8.1,
+		"countrycode" : "BOL"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 87.7,
+		"countrycode" : "BOL"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "BRA"
+	},
+	{
+		"language" : "Indian Languages",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "BRA"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "BRA"
+	},
+	{
+		"language" : "Japanese",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "BRA"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 97.5,
+		"countrycode" : "BRA"
+	},
+	{
+		"language" : "Bajan",
+		"isOfficial" : false,
+		"percentage" : 95.1,
+		"countrycode" : "BRB"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "BRB"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 9.3,
+		"countrycode" : "BRN"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "BRN"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : true,
+		"percentage" : 45.5,
+		"countrycode" : "BRN"
+	},
+	{
+		"language" : "Malay-English",
+		"isOfficial" : false,
+		"percentage" : 28.8,
+		"countrycode" : "BRN"
+	},
+	{
+		"language" : "Asami",
+		"isOfficial" : false,
+		"percentage" : 15.2,
+		"countrycode" : "BTN"
+	},
+	{
+		"language" : "Dzongkha",
+		"isOfficial" : true,
+		"percentage" : 50.0,
+		"countrycode" : "BTN"
+	},
+	{
+		"language" : "Nepali",
+		"isOfficial" : false,
+		"percentage" : 34.8,
+		"countrycode" : "BTN"
+	},
+	{
+		"language" : "Khoekhoe",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "BWA"
+	},
+	{
+		"language" : "Ndebele",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "BWA"
+	},
+	{
+		"language" : "San",
+		"isOfficial" : false,
+		"percentage" : 3.5,
+		"countrycode" : "BWA"
+	},
+	{
+		"language" : "Shona",
+		"isOfficial" : false,
+		"percentage" : 12.3,
+		"countrycode" : "BWA"
+	},
+	{
+		"language" : "Tswana",
+		"isOfficial" : false,
+		"percentage" : 75.5,
+		"countrycode" : "BWA"
+	},
+	{
+		"language" : "Banda",
+		"isOfficial" : false,
+		"percentage" : 23.5,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Gbaya",
+		"isOfficial" : false,
+		"percentage" : 23.8,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Mandjia",
+		"isOfficial" : false,
+		"percentage" : 14.8,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Mbum",
+		"isOfficial" : false,
+		"percentage" : 6.4,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Ngbaka",
+		"isOfficial" : false,
+		"percentage" : 7.5,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Sara",
+		"isOfficial" : false,
+		"percentage" : 6.4,
+		"countrycode" : "CAF"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Dutch",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 60.4,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Eskimo Languages",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 23.4,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Punjabi",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "CAN"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "CCK"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "CCK"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 19.2,
+		"countrycode" : "CHE"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 63.6,
+		"countrycode" : "CHE"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : true,
+		"percentage" : 7.7,
+		"countrycode" : "CHE"
+	},
+	{
+		"language" : "Romansh",
+		"isOfficial" : true,
+		"percentage" : 0.6,
+		"countrycode" : "CHE"
+	},
+	{
+		"language" : "Aimará",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "CHL"
+	},
+	{
+		"language" : "Araucan",
+		"isOfficial" : false,
+		"percentage" : 9.6,
+		"countrycode" : "CHL"
+	},
+	{
+		"language" : "Rapa nui",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "CHL"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 89.7,
+		"countrycode" : "CHL"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : true,
+		"percentage" : 92.0,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Dong",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Hui",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Mantšu",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Miao",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Mongolian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Puyi",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Tibetan",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Tujia",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Uighur",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Yi",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "Zhuang",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "CHN"
+	},
+	{
+		"language" : "[South]Mande",
+		"isOfficial" : false,
+		"percentage" : 7.7,
+		"countrycode" : "CIV"
+	},
+	{
+		"language" : "Akan",
+		"isOfficial" : false,
+		"percentage" : 30.0,
+		"countrycode" : "CIV"
+	},
+	{
+		"language" : "Gur",
+		"isOfficial" : false,
+		"percentage" : 11.7,
+		"countrycode" : "CIV"
+	},
+	{
+		"language" : "Kru",
+		"isOfficial" : false,
+		"percentage" : 10.5,
+		"countrycode" : "CIV"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 11.4,
+		"countrycode" : "CIV"
+	},
+	{
+		"language" : "Bamileke-bamum",
+		"isOfficial" : false,
+		"percentage" : 18.6,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Duala",
+		"isOfficial" : false,
+		"percentage" : 10.9,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Fang",
+		"isOfficial" : false,
+		"percentage" : 19.7,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 9.6,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Maka",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Mandara",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Masana",
+		"isOfficial" : false,
+		"percentage" : 3.9,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Tikar",
+		"isOfficial" : false,
+		"percentage" : 7.4,
+		"countrycode" : "CMR"
+	},
+	{
+		"language" : "Boa",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Chokwe",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Kongo",
+		"isOfficial" : false,
+		"percentage" : 16.0,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Luba",
+		"isOfficial" : false,
+		"percentage" : 18.0,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Mongo",
+		"isOfficial" : false,
+		"percentage" : 13.5,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Ngala and Bangi",
+		"isOfficial" : false,
+		"percentage" : 5.8,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Rundi",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Rwanda",
+		"isOfficial" : false,
+		"percentage" : 10.3,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Teke",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Zande",
+		"isOfficial" : false,
+		"percentage" : 6.1,
+		"countrycode" : "COD"
+	},
+	{
+		"language" : "Kongo",
+		"isOfficial" : false,
+		"percentage" : 51.5,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "Mbete",
+		"isOfficial" : false,
+		"percentage" : 4.8,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "Mboshi",
+		"isOfficial" : false,
+		"percentage" : 11.4,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "Punu",
+		"isOfficial" : false,
+		"percentage" : 2.9,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "Sango",
+		"isOfficial" : false,
+		"percentage" : 2.6,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "Teke",
+		"isOfficial" : false,
+		"percentage" : 17.3,
+		"countrycode" : "COG"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "COK"
+	},
+	{
+		"language" : "Maori",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "COK"
+	},
+	{
+		"language" : "Arawakan",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "COL"
+	},
+	{
+		"language" : "Caribbean",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "COL"
+	},
+	{
+		"language" : "Chibcha",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "COL"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "COL"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 99.0,
+		"countrycode" : "COL"
+	},
+	{
+		"language" : "Comorian",
+		"isOfficial" : true,
+		"percentage" : 75.0,
+		"countrycode" : "COM"
+	},
+	{
+		"language" : "Comorian-Arabic",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "COM"
+	},
+	{
+		"language" : "Comorian-French",
+		"isOfficial" : false,
+		"percentage" : 12.9,
+		"countrycode" : "COM"
+	},
+	{
+		"language" : "Comorian-madagassi",
+		"isOfficial" : false,
+		"percentage" : 5.5,
+		"countrycode" : "COM"
+	},
+	{
+		"language" : "Comorian-Swahili",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "COM"
+	},
+	{
+		"language" : "Crioulo",
+		"isOfficial" : false,
+		"percentage" : 100.0,
+		"countrycode" : "CPV"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "CPV"
+	},
+	{
+		"language" : "Chibcha",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "CRI"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "CRI"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "CRI"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 97.5,
+		"countrycode" : "CRI"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "CUB"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "CXR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "CXR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "CYM"
+	},
+	{
+		"language" : "Greek",
+		"isOfficial" : true,
+		"percentage" : 74.1,
+		"countrycode" : "CYP"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : true,
+		"percentage" : 22.4,
+		"countrycode" : "CYP"
+	},
+	{
+		"language" : "Czech",
+		"isOfficial" : true,
+		"percentage" : 81.2,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Moravian",
+		"isOfficial" : false,
+		"percentage" : 12.9,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Silesiana",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "Slovak",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "CZE"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 91.3,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Greek",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Southern Slavic Languages",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 2.6,
+		"countrycode" : "DEU"
+	},
+	{
+		"language" : "Afar",
+		"isOfficial" : false,
+		"percentage" : 34.8,
+		"countrycode" : "DJI"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 10.6,
+		"countrycode" : "DJI"
+	},
+	{
+		"language" : "Somali",
+		"isOfficial" : false,
+		"percentage" : 43.9,
+		"countrycode" : "DJI"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 100.0,
+		"countrycode" : "DMA"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "DMA"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "Danish",
+		"isOfficial" : true,
+		"percentage" : 93.5,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "Norwegian",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "Swedish",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "DNK"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "DOM"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 98.0,
+		"countrycode" : "DOM"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 86.0,
+		"countrycode" : "DZA"
+	},
+	{
+		"language" : "Berberi",
+		"isOfficial" : false,
+		"percentage" : 14.0,
+		"countrycode" : "DZA"
+	},
+	{
+		"language" : "Ketšua",
+		"isOfficial" : false,
+		"percentage" : 7.0,
+		"countrycode" : "ECU"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 93.0,
+		"countrycode" : "ECU"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 98.8,
+		"countrycode" : "EGY"
+	},
+	{
+		"language" : "Sinaberberi",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "EGY"
+	},
+	{
+		"language" : "Afar",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Bilin",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Hadareb",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Saho",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Tigre",
+		"isOfficial" : false,
+		"percentage" : 31.7,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Tigrinja",
+		"isOfficial" : true,
+		"percentage" : 49.1,
+		"countrycode" : "ERI"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "ESH"
+	},
+	{
+		"language" : "Basque",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "ESP"
+	},
+	{
+		"language" : "Catalan",
+		"isOfficial" : false,
+		"percentage" : 16.9,
+		"countrycode" : "ESP"
+	},
+	{
+		"language" : "Galecian",
+		"isOfficial" : false,
+		"percentage" : 6.4,
+		"countrycode" : "ESP"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 74.4,
+		"countrycode" : "ESP"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "EST"
+	},
+	{
+		"language" : "Estonian",
+		"isOfficial" : true,
+		"percentage" : 65.3,
+		"countrycode" : "EST"
+	},
+	{
+		"language" : "Finnish",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "EST"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 27.8,
+		"countrycode" : "EST"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "EST"
+	},
+	{
+		"language" : "Amhara",
+		"isOfficial" : false,
+		"percentage" : 30.0,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Gurage",
+		"isOfficial" : false,
+		"percentage" : 4.7,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Oromo",
+		"isOfficial" : false,
+		"percentage" : 31.0,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Sidamo",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Somali",
+		"isOfficial" : false,
+		"percentage" : 4.1,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Tigrinja",
+		"isOfficial" : false,
+		"percentage" : 7.2,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Walaita",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "ETH"
+	},
+	{
+		"language" : "Estonian",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "FIN"
+	},
+	{
+		"language" : "Finnish",
+		"isOfficial" : true,
+		"percentage" : 92.7,
+		"countrycode" : "FIN"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "FIN"
+	},
+	{
+		"language" : "Saame",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "FIN"
+	},
+	{
+		"language" : "Swedish",
+		"isOfficial" : true,
+		"percentage" : 5.7,
+		"countrycode" : "FIN"
+	},
+	{
+		"language" : "Fijian",
+		"isOfficial" : true,
+		"percentage" : 50.8,
+		"countrycode" : "FJI"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 43.7,
+		"countrycode" : "FJI"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "FLK"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 93.6,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "FRA"
+	},
+	{
+		"language" : "Danish",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "FRO"
+	},
+	{
+		"language" : "Faroese",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "FRO"
+	},
+	{
+		"language" : "Kosrean",
+		"isOfficial" : false,
+		"percentage" : 7.3,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Mortlock",
+		"isOfficial" : false,
+		"percentage" : 7.6,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Pohnpei",
+		"isOfficial" : false,
+		"percentage" : 23.8,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Trukese",
+		"isOfficial" : false,
+		"percentage" : 41.6,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Wolea",
+		"isOfficial" : false,
+		"percentage" : 3.7,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Yap",
+		"isOfficial" : false,
+		"percentage" : 5.8,
+		"countrycode" : "FSM"
+	},
+	{
+		"language" : "Fang",
+		"isOfficial" : false,
+		"percentage" : 35.8,
+		"countrycode" : "GAB"
+	},
+	{
+		"language" : "Mbete",
+		"isOfficial" : false,
+		"percentage" : 13.8,
+		"countrycode" : "GAB"
+	},
+	{
+		"language" : "Mpongwe",
+		"isOfficial" : false,
+		"percentage" : 14.6,
+		"countrycode" : "GAB"
+	},
+	{
+		"language" : "Punu-sira-nzebi",
+		"isOfficial" : false,
+		"percentage" : 17.1,
+		"countrycode" : "GAB"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 97.3,
+		"countrycode" : "GBR"
+	},
+	{
+		"language" : "Gaeli",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "GBR"
+	},
+	{
+		"language" : "Kymri",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "GBR"
+	},
+	{
+		"language" : "Abhyasi",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Armenian",
+		"isOfficial" : false,
+		"percentage" : 6.8,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Azerbaijani",
+		"isOfficial" : false,
+		"percentage" : 5.5,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Georgiana",
+		"isOfficial" : true,
+		"percentage" : 71.7,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Osseetti",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 8.8,
+		"countrycode" : "GEO"
+	},
+	{
+		"language" : "Akan",
+		"isOfficial" : false,
+		"percentage" : 52.4,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Ewe",
+		"isOfficial" : false,
+		"percentage" : 11.9,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Ga-adangme",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Gurma",
+		"isOfficial" : false,
+		"percentage" : 3.3,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Joruba",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Mossi",
+		"isOfficial" : false,
+		"percentage" : 15.8,
+		"countrycode" : "GHA"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 7.4,
+		"countrycode" : "GIB"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 88.9,
+		"countrycode" : "GIB"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 38.6,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Kissi",
+		"isOfficial" : false,
+		"percentage" : 6.0,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Kpelle",
+		"isOfficial" : false,
+		"percentage" : 4.6,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Loma",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 23.2,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Susu",
+		"isOfficial" : false,
+		"percentage" : 11.0,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Yalunka",
+		"isOfficial" : false,
+		"percentage" : 2.9,
+		"countrycode" : "GIN"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 95.0,
+		"countrycode" : "GLP"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "GLP"
+	},
+	{
+		"language" : "Diola",
+		"isOfficial" : false,
+		"percentage" : 9.2,
+		"countrycode" : "GMB"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 16.2,
+		"countrycode" : "GMB"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 34.1,
+		"countrycode" : "GMB"
+	},
+	{
+		"language" : "Soninke",
+		"isOfficial" : false,
+		"percentage" : 7.6,
+		"countrycode" : "GMB"
+	},
+	{
+		"language" : "Wolof",
+		"isOfficial" : false,
+		"percentage" : 12.6,
+		"countrycode" : "GMB"
+	},
+	{
+		"language" : "Balante",
+		"isOfficial" : false,
+		"percentage" : 14.6,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Crioulo",
+		"isOfficial" : false,
+		"percentage" : 36.4,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 16.6,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 6.9,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Mandyako",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 8.1,
+		"countrycode" : "GNB"
+	},
+	{
+		"language" : "Bubi",
+		"isOfficial" : false,
+		"percentage" : 8.7,
+		"countrycode" : "GNQ"
+	},
+	{
+		"language" : "Fang",
+		"isOfficial" : false,
+		"percentage" : 84.8,
+		"countrycode" : "GNQ"
+	},
+	{
+		"language" : "Greek",
+		"isOfficial" : true,
+		"percentage" : 98.5,
+		"countrycode" : "GRC"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "GRC"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 100.0,
+		"countrycode" : "GRD"
+	},
+	{
+		"language" : "Danish",
+		"isOfficial" : true,
+		"percentage" : 12.5,
+		"countrycode" : "GRL"
+	},
+	{
+		"language" : "Greenlandic",
+		"isOfficial" : true,
+		"percentage" : 87.5,
+		"countrycode" : "GRL"
+	},
+	{
+		"language" : "Cakchiquel",
+		"isOfficial" : false,
+		"percentage" : 8.9,
+		"countrycode" : "GTM"
+	},
+	{
+		"language" : "Kekchí",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "GTM"
+	},
+	{
+		"language" : "Mam",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "GTM"
+	},
+	{
+		"language" : "Quiché",
+		"isOfficial" : false,
+		"percentage" : 10.1,
+		"countrycode" : "GTM"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 64.7,
+		"countrycode" : "GTM"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 94.3,
+		"countrycode" : "GUF"
+	},
+	{
+		"language" : "Indian Languages",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "GUF"
+	},
+	{
+		"language" : "Chamorro",
+		"isOfficial" : true,
+		"percentage" : 29.6,
+		"countrycode" : "GUM"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 37.5,
+		"countrycode" : "GUM"
+	},
+	{
+		"language" : "Japanese",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "GUM"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : false,
+		"percentage" : 3.3,
+		"countrycode" : "GUM"
+	},
+	{
+		"language" : "Philippene Languages",
+		"isOfficial" : false,
+		"percentage" : 19.7,
+		"countrycode" : "GUM"
+	},
+	{
+		"language" : "Arawakan",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "GUY"
+	},
+	{
+		"language" : "Caribbean",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "GUY"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 96.4,
+		"countrycode" : "GUY"
+	},
+	{
+		"language" : "Canton Chinese",
+		"isOfficial" : false,
+		"percentage" : 88.7,
+		"countrycode" : "HKG"
+	},
+	{
+		"language" : "Chiu chau",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "HKG"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 2.2,
+		"countrycode" : "HKG"
+	},
+	{
+		"language" : "Fukien",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "HKG"
+	},
+	{
+		"language" : "Hakka",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "HKG"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "HND"
+	},
+	{
+		"language" : "Garifuna",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "HND"
+	},
+	{
+		"language" : "Miskito",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "HND"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 97.2,
+		"countrycode" : "HND"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : true,
+		"percentage" : 95.9,
+		"countrycode" : "HRV"
+	},
+	{
+		"language" : "Slovene",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "HRV"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "HTI"
+	},
+	{
+		"language" : "Haiti Creole",
+		"isOfficial" : false,
+		"percentage" : 100.0,
+		"countrycode" : "HTI"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : true,
+		"percentage" : 98.5,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Romanian",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Slovak",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "HUN"
+	},
+	{
+		"language" : "Bali",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Banja",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Batakki",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Bugi",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Javanese",
+		"isOfficial" : false,
+		"percentage" : 39.4,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Madura",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : true,
+		"percentage" : 12.1,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Minangkabau",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Sunda",
+		"isOfficial" : false,
+		"percentage" : 15.8,
+		"countrycode" : "IDN"
+	},
+	{
+		"language" : "Asami",
+		"isOfficial" : false,
+		"percentage" : 1.5,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Bengali",
+		"isOfficial" : false,
+		"percentage" : 8.2,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Gujarati",
+		"isOfficial" : false,
+		"percentage" : 4.8,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : true,
+		"percentage" : 39.9,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Kannada",
+		"isOfficial" : false,
+		"percentage" : 3.9,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Malajalam",
+		"isOfficial" : false,
+		"percentage" : 3.6,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Marathi",
+		"isOfficial" : false,
+		"percentage" : 7.4,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Orija",
+		"isOfficial" : false,
+		"percentage" : 3.3,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Punjabi",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : false,
+		"percentage" : 6.3,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Telugu",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "Urdu",
+		"isOfficial" : false,
+		"percentage" : 5.1,
+		"countrycode" : "IND"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 98.4,
+		"countrycode" : "IRL"
+	},
+	{
+		"language" : "Irish",
+		"isOfficial" : true,
+		"percentage" : 1.6,
+		"countrycode" : "IRL"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Azerbaijani",
+		"isOfficial" : false,
+		"percentage" : 16.8,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Bakhtyari",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Balochi",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Gilaki",
+		"isOfficial" : false,
+		"percentage" : 5.3,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Kurdish",
+		"isOfficial" : false,
+		"percentage" : 9.1,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Luri",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Mazandarani",
+		"isOfficial" : false,
+		"percentage" : 3.6,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Persian",
+		"isOfficial" : true,
+		"percentage" : 45.7,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Turkmenian",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "IRN"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 77.2,
+		"countrycode" : "IRQ"
+	},
+	{
+		"language" : "Assyrian",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "IRQ"
+	},
+	{
+		"language" : "Azerbaijani",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "IRQ"
+	},
+	{
+		"language" : "Kurdish",
+		"isOfficial" : false,
+		"percentage" : 19.0,
+		"countrycode" : "IRQ"
+	},
+	{
+		"language" : "Persian",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "IRQ"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "ISL"
+	},
+	{
+		"language" : "Icelandic",
+		"isOfficial" : true,
+		"percentage" : 95.7,
+		"countrycode" : "ISL"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 18.0,
+		"countrycode" : "ISR"
+	},
+	{
+		"language" : "Hebrew",
+		"isOfficial" : true,
+		"percentage" : 63.1,
+		"countrycode" : "ISR"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 8.9,
+		"countrycode" : "ISR"
+	},
+	{
+		"language" : "Albaniana",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Friuli",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : true,
+		"percentage" : 94.1,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Sardinian",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Slovene",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "ITA"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 94.2,
+		"countrycode" : "JAM"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "JAM"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 97.9,
+		"countrycode" : "JOR"
+	},
+	{
+		"language" : "Armenian",
+		"isOfficial" : false,
+		"percentage" : 1.0,
+		"countrycode" : "JOR"
+	},
+	{
+		"language" : "Circassian",
+		"isOfficial" : false,
+		"percentage" : 1.0,
+		"countrycode" : "JOR"
+	},
+	{
+		"language" : "Ainu",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "Japanese",
+		"isOfficial" : true,
+		"percentage" : 99.1,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "Philippene Languages",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "JPN"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : true,
+		"percentage" : 46.0,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 34.7,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Tatar",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 5.0,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "KAZ"
+	},
+	{
+		"language" : "Gusii",
+		"isOfficial" : false,
+		"percentage" : 6.1,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Kalenjin",
+		"isOfficial" : false,
+		"percentage" : 10.8,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Kamba",
+		"isOfficial" : false,
+		"percentage" : 11.2,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Kikuyu",
+		"isOfficial" : false,
+		"percentage" : 20.9,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Luhya",
+		"isOfficial" : false,
+		"percentage" : 13.8,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Luo",
+		"isOfficial" : false,
+		"percentage" : 12.8,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Masai",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Meru",
+		"isOfficial" : false,
+		"percentage" : 5.5,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Nyika",
+		"isOfficial" : false,
+		"percentage" : 4.8,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Turkana",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "KEN"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Kirgiz",
+		"isOfficial" : true,
+		"percentage" : 59.7,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : true,
+		"percentage" : 16.2,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Tadzhik",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Tatar",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : false,
+		"percentage" : 14.1,
+		"countrycode" : "KGZ"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 3.1,
+		"countrycode" : "KHM"
+	},
+	{
+		"language" : "Khmer",
+		"isOfficial" : true,
+		"percentage" : 88.6,
+		"countrycode" : "KHM"
+	},
+	{
+		"language" : "Tšam",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "KHM"
+	},
+	{
+		"language" : "Vietnamese",
+		"isOfficial" : false,
+		"percentage" : 5.5,
+		"countrycode" : "KHM"
+	},
+	{
+		"language" : "Kiribati",
+		"isOfficial" : true,
+		"percentage" : 98.9,
+		"countrycode" : "KIR"
+	},
+	{
+		"language" : "Tuvalu",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "KIR"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 100.0,
+		"countrycode" : "KNA"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "KNA"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "KOR"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : true,
+		"percentage" : 99.9,
+		"countrycode" : "KOR"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 78.1,
+		"countrycode" : "KWT"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "KWT"
+	},
+	{
+		"language" : "Lao",
+		"isOfficial" : true,
+		"percentage" : 67.2,
+		"countrycode" : "LAO"
+	},
+	{
+		"language" : "Lao-Soung",
+		"isOfficial" : false,
+		"percentage" : 5.2,
+		"countrycode" : "LAO"
+	},
+	{
+		"language" : "Mon-khmer",
+		"isOfficial" : false,
+		"percentage" : 16.5,
+		"countrycode" : "LAO"
+	},
+	{
+		"language" : "Thai",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "LAO"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 93.0,
+		"countrycode" : "LBN"
+	},
+	{
+		"language" : "Armenian",
+		"isOfficial" : false,
+		"percentage" : 5.9,
+		"countrycode" : "LBN"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "LBN"
+	},
+	{
+		"language" : "Bassa",
+		"isOfficial" : false,
+		"percentage" : 13.7,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Gio",
+		"isOfficial" : false,
+		"percentage" : 7.9,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Grebo",
+		"isOfficial" : false,
+		"percentage" : 8.9,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Kpelle",
+		"isOfficial" : false,
+		"percentage" : 19.5,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Kru",
+		"isOfficial" : false,
+		"percentage" : 7.2,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Loma",
+		"isOfficial" : false,
+		"percentage" : 5.8,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 5.1,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Mano",
+		"isOfficial" : false,
+		"percentage" : 7.2,
+		"countrycode" : "LBR"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 96.0,
+		"countrycode" : "LBY"
+	},
+	{
+		"language" : "Berberi",
+		"isOfficial" : false,
+		"percentage" : 1.0,
+		"countrycode" : "LBY"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 80.0,
+		"countrycode" : "LCA"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 20.0,
+		"countrycode" : "LCA"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 89.0,
+		"countrycode" : "LIE"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "LIE"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "LIE"
+	},
+	{
+		"language" : "Mixed Languages",
+		"isOfficial" : false,
+		"percentage" : 19.6,
+		"countrycode" : "LKA"
+	},
+	{
+		"language" : "Singali",
+		"isOfficial" : true,
+		"percentage" : 60.3,
+		"countrycode" : "LKA"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : true,
+		"percentage" : 19.6,
+		"countrycode" : "LKA"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "LSO"
+	},
+	{
+		"language" : "Sotho",
+		"isOfficial" : true,
+		"percentage" : 85.0,
+		"countrycode" : "LSO"
+	},
+	{
+		"language" : "Zulu",
+		"isOfficial" : false,
+		"percentage" : 15.0,
+		"countrycode" : "LSO"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "LTU"
+	},
+	{
+		"language" : "Lithuanian",
+		"isOfficial" : true,
+		"percentage" : 81.6,
+		"countrycode" : "LTU"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 7.0,
+		"countrycode" : "LTU"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 8.1,
+		"countrycode" : "LTU"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "LTU"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 4.2,
+		"countrycode" : "LUX"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : true,
+		"percentage" : 2.3,
+		"countrycode" : "LUX"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 4.6,
+		"countrycode" : "LUX"
+	},
+	{
+		"language" : "Luxembourgish",
+		"isOfficial" : true,
+		"percentage" : 64.4,
+		"countrycode" : "LUX"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 13.0,
+		"countrycode" : "LUX"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 4.1,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Latvian",
+		"isOfficial" : true,
+		"percentage" : 55.1,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Lithuanian",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 2.1,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 32.5,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 2.9,
+		"countrycode" : "LVA"
+	},
+	{
+		"language" : "Canton Chinese",
+		"isOfficial" : false,
+		"percentage" : 85.6,
+		"countrycode" : "MAC"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "MAC"
+	},
+	{
+		"language" : "Mandarin Chinese",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "MAC"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 2.3,
+		"countrycode" : "MAC"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 65.0,
+		"countrycode" : "MAR"
+	},
+	{
+		"language" : "Berberi",
+		"isOfficial" : false,
+		"percentage" : 33.0,
+		"countrycode" : "MAR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 6.5,
+		"countrycode" : "MCO"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 41.9,
+		"countrycode" : "MCO"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 16.1,
+		"countrycode" : "MCO"
+	},
+	{
+		"language" : "Monegasque",
+		"isOfficial" : false,
+		"percentage" : 16.1,
+		"countrycode" : "MCO"
+	},
+	{
+		"language" : "Bulgariana",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "MDA"
+	},
+	{
+		"language" : "Gagauzi",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "MDA"
+	},
+	{
+		"language" : "Romanian",
+		"isOfficial" : true,
+		"percentage" : 61.9,
+		"countrycode" : "MDA"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 23.2,
+		"countrycode" : "MDA"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 8.6,
+		"countrycode" : "MDA"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "MDG"
+	},
+	{
+		"language" : "Malagasy",
+		"isOfficial" : true,
+		"percentage" : 98.9,
+		"countrycode" : "MDG"
+	},
+	{
+		"language" : "Dhivehi",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "MDV"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "MDV"
+	},
+	{
+		"language" : "Mixtec",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "Náhuatl",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "Otomí",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 92.1,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "Yucatec",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "Zapotec",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "MEX"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "MHL"
+	},
+	{
+		"language" : "Marshallese",
+		"isOfficial" : true,
+		"percentage" : 96.8,
+		"countrycode" : "MHL"
+	},
+	{
+		"language" : "Albaniana",
+		"isOfficial" : false,
+		"percentage" : 22.9,
+		"countrycode" : "MKD"
+	},
+	{
+		"language" : "Macedonian",
+		"isOfficial" : true,
+		"percentage" : 66.5,
+		"countrycode" : "MKD"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "MKD"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "MKD"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 4.0,
+		"countrycode" : "MKD"
+	},
+	{
+		"language" : "Bambara",
+		"isOfficial" : false,
+		"percentage" : 31.8,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 13.9,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "Senufo and Minianka",
+		"isOfficial" : false,
+		"percentage" : 12.0,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "Songhai",
+		"isOfficial" : false,
+		"percentage" : 6.9,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "Soninke",
+		"isOfficial" : false,
+		"percentage" : 8.7,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "Tamashek",
+		"isOfficial" : false,
+		"percentage" : 7.3,
+		"countrycode" : "MLI"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 2.1,
+		"countrycode" : "MLT"
+	},
+	{
+		"language" : "Maltese",
+		"isOfficial" : true,
+		"percentage" : 95.8,
+		"countrycode" : "MLT"
+	},
+	{
+		"language" : "Burmese",
+		"isOfficial" : true,
+		"percentage" : 69.0,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Chin",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Kachin",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Karen",
+		"isOfficial" : false,
+		"percentage" : 6.2,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Kayah",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Mon",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Rakhine",
+		"isOfficial" : false,
+		"percentage" : 4.5,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Shan",
+		"isOfficial" : false,
+		"percentage" : 8.5,
+		"countrycode" : "MMR"
+	},
+	{
+		"language" : "Bajad",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Buryat",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Dariganga",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Dorbet",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : false,
+		"percentage" : 5.9,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Mongolian",
+		"isOfficial" : true,
+		"percentage" : 78.8,
+		"countrycode" : "MNG"
+	},
+	{
+		"language" : "Carolinian",
+		"isOfficial" : false,
+		"percentage" : 4.8,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "Chamorro",
+		"isOfficial" : false,
+		"percentage" : 30.0,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 7.1,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 4.8,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : false,
+		"percentage" : 6.5,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "Philippene Languages",
+		"isOfficial" : false,
+		"percentage" : 34.1,
+		"countrycode" : "MNP"
+	},
+	{
+		"language" : "Chuabo",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Lomwe",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Makua",
+		"isOfficial" : false,
+		"percentage" : 27.8,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Marendje",
+		"isOfficial" : false,
+		"percentage" : 3.5,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Nyanja",
+		"isOfficial" : false,
+		"percentage" : 3.3,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Ronga",
+		"isOfficial" : false,
+		"percentage" : 3.7,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Sena",
+		"isOfficial" : false,
+		"percentage" : 9.4,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Shona",
+		"isOfficial" : false,
+		"percentage" : 6.5,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Tsonga",
+		"isOfficial" : false,
+		"percentage" : 12.4,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Tswa",
+		"isOfficial" : false,
+		"percentage" : 6.0,
+		"countrycode" : "MOZ"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "Hassaniya",
+		"isOfficial" : false,
+		"percentage" : 81.7,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "Soninke",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "Tukulor",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "Wolof",
+		"isOfficial" : false,
+		"percentage" : 6.6,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "Zenaga",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "MRT"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "MSR"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 96.6,
+		"countrycode" : "MTQ"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "MTQ"
+	},
+	{
+		"language" : "Bhojpuri",
+		"isOfficial" : false,
+		"percentage" : 21.1,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 70.6,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "Marathi",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "MUS"
+	},
+	{
+		"language" : "Chichewa",
+		"isOfficial" : true,
+		"percentage" : 58.3,
+		"countrycode" : "MWI"
+	},
+	{
+		"language" : "Lomwe",
+		"isOfficial" : false,
+		"percentage" : 18.4,
+		"countrycode" : "MWI"
+	},
+	{
+		"language" : "Ngoni",
+		"isOfficial" : false,
+		"percentage" : 6.7,
+		"countrycode" : "MWI"
+	},
+	{
+		"language" : "Yao",
+		"isOfficial" : false,
+		"percentage" : 13.2,
+		"countrycode" : "MWI"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 9.0,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "Dusun",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "Iban",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : true,
+		"percentage" : 58.4,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : false,
+		"percentage" : 3.9,
+		"countrycode" : "MYS"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 20.3,
+		"countrycode" : "MYT"
+	},
+	{
+		"language" : "Mahoré",
+		"isOfficial" : false,
+		"percentage" : 41.9,
+		"countrycode" : "MYT"
+	},
+	{
+		"language" : "Malagasy",
+		"isOfficial" : false,
+		"percentage" : 16.1,
+		"countrycode" : "MYT"
+	},
+	{
+		"language" : "Afrikaans",
+		"isOfficial" : false,
+		"percentage" : 9.5,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "Caprivi",
+		"isOfficial" : false,
+		"percentage" : 4.7,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "Herero",
+		"isOfficial" : false,
+		"percentage" : 8.0,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "Kavango",
+		"isOfficial" : false,
+		"percentage" : 9.7,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "Nama",
+		"isOfficial" : false,
+		"percentage" : 12.4,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "Ovambo",
+		"isOfficial" : false,
+		"percentage" : 50.7,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "San",
+		"isOfficial" : false,
+		"percentage" : 1.9,
+		"countrycode" : "NAM"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 34.3,
+		"countrycode" : "NCL"
+	},
+	{
+		"language" : "Malenasian Languages",
+		"isOfficial" : false,
+		"percentage" : 45.4,
+		"countrycode" : "NCL"
+	},
+	{
+		"language" : "Polynesian Languages",
+		"isOfficial" : false,
+		"percentage" : 11.6,
+		"countrycode" : "NCL"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 9.7,
+		"countrycode" : "NER"
+	},
+	{
+		"language" : "Hausa",
+		"isOfficial" : false,
+		"percentage" : 53.1,
+		"countrycode" : "NER"
+	},
+	{
+		"language" : "Kanuri",
+		"isOfficial" : false,
+		"percentage" : 4.4,
+		"countrycode" : "NER"
+	},
+	{
+		"language" : "Songhai-zerma",
+		"isOfficial" : false,
+		"percentage" : 21.2,
+		"countrycode" : "NER"
+	},
+	{
+		"language" : "Tamashek",
+		"isOfficial" : false,
+		"percentage" : 10.4,
+		"countrycode" : "NER"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "NFK"
+	},
+	{
+		"language" : "Bura",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Edo",
+		"isOfficial" : false,
+		"percentage" : 3.3,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 11.3,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Hausa",
+		"isOfficial" : false,
+		"percentage" : 21.1,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Ibibio",
+		"isOfficial" : false,
+		"percentage" : 5.6,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Ibo",
+		"isOfficial" : false,
+		"percentage" : 18.1,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Ijo",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Joruba",
+		"isOfficial" : false,
+		"percentage" : 21.4,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Kanuri",
+		"isOfficial" : false,
+		"percentage" : 4.1,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Tiv",
+		"isOfficial" : false,
+		"percentage" : 2.3,
+		"countrycode" : "NGA"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "NIC"
+	},
+	{
+		"language" : "Miskito",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "NIC"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 97.6,
+		"countrycode" : "NIC"
+	},
+	{
+		"language" : "Sumo",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "NIC"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "NIU"
+	},
+	{
+		"language" : "Niue",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "NIU"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "NLD"
+	},
+	{
+		"language" : "Dutch",
+		"isOfficial" : true,
+		"percentage" : 95.6,
+		"countrycode" : "NLD"
+	},
+	{
+		"language" : "Fries",
+		"isOfficial" : false,
+		"percentage" : 3.7,
+		"countrycode" : "NLD"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "NLD"
+	},
+	{
+		"language" : "Danish",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "NOR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "NOR"
+	},
+	{
+		"language" : "Norwegian",
+		"isOfficial" : true,
+		"percentage" : 96.6,
+		"countrycode" : "NOR"
+	},
+	{
+		"language" : "Saame",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "NOR"
+	},
+	{
+		"language" : "Swedish",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "NOR"
+	},
+	{
+		"language" : "Bhojpuri",
+		"isOfficial" : false,
+		"percentage" : 7.5,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Maithili",
+		"isOfficial" : false,
+		"percentage" : 11.9,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Nepali",
+		"isOfficial" : true,
+		"percentage" : 50.4,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Newari",
+		"isOfficial" : false,
+		"percentage" : 3.7,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Tamang",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Tharu",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "NPL"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 8.5,
+		"countrycode" : "NRU"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 7.5,
+		"countrycode" : "NRU"
+	},
+	{
+		"language" : "Kiribati",
+		"isOfficial" : false,
+		"percentage" : 17.9,
+		"countrycode" : "NRU"
+	},
+	{
+		"language" : "Nauru",
+		"isOfficial" : true,
+		"percentage" : 57.5,
+		"countrycode" : "NRU"
+	},
+	{
+		"language" : "Tuvalu",
+		"isOfficial" : false,
+		"percentage" : 8.5,
+		"countrycode" : "NRU"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 87.0,
+		"countrycode" : "NZL"
+	},
+	{
+		"language" : "Maori",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "NZL"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 76.7,
+		"countrycode" : "OMN"
+	},
+	{
+		"language" : "Balochi",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "OMN"
+	},
+	{
+		"language" : "Balochi",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Brahui",
+		"isOfficial" : false,
+		"percentage" : 1.2,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Hindko",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Pashto",
+		"isOfficial" : false,
+		"percentage" : 13.1,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Punjabi",
+		"isOfficial" : false,
+		"percentage" : 48.2,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Saraiki",
+		"isOfficial" : false,
+		"percentage" : 9.8,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Sindhi",
+		"isOfficial" : false,
+		"percentage" : 11.8,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Urdu",
+		"isOfficial" : true,
+		"percentage" : 7.6,
+		"countrycode" : "PAK"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 14.0,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Cuna",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Embera",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Guaymí",
+		"isOfficial" : false,
+		"percentage" : 5.3,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 76.8,
+		"countrycode" : "PAN"
+	},
+	{
+		"language" : "Pitcairnese",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "PCN"
+	},
+	{
+		"language" : "Aimará",
+		"isOfficial" : true,
+		"percentage" : 2.3,
+		"countrycode" : "PER"
+	},
+	{
+		"language" : "Ketšua",
+		"isOfficial" : true,
+		"percentage" : 16.4,
+		"countrycode" : "PER"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 79.8,
+		"countrycode" : "PER"
+	},
+	{
+		"language" : "Bicol",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Cebuano",
+		"isOfficial" : false,
+		"percentage" : 23.3,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Hiligaynon",
+		"isOfficial" : false,
+		"percentage" : 9.1,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Ilocano",
+		"isOfficial" : false,
+		"percentage" : 9.3,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Maguindanao",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Maranao",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Pampango",
+		"isOfficial" : false,
+		"percentage" : 3.0,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Pangasinan",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Pilipino",
+		"isOfficial" : true,
+		"percentage" : 29.3,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Waray-waray",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "PHL"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "PLW"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 3.2,
+		"countrycode" : "PLW"
+	},
+	{
+		"language" : "Palau",
+		"isOfficial" : true,
+		"percentage" : 82.2,
+		"countrycode" : "PLW"
+	},
+	{
+		"language" : "Philippene Languages",
+		"isOfficial" : false,
+		"percentage" : 9.2,
+		"countrycode" : "PLW"
+	},
+	{
+		"language" : "Malenasian Languages",
+		"isOfficial" : false,
+		"percentage" : 20.0,
+		"countrycode" : "PNG"
+	},
+	{
+		"language" : "Papuan Languages",
+		"isOfficial" : false,
+		"percentage" : 78.1,
+		"countrycode" : "PNG"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "POL"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "POL"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : true,
+		"percentage" : 97.6,
+		"countrycode" : "POL"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "POL"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 47.4,
+		"countrycode" : "PRI"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 51.3,
+		"countrycode" : "PRI"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "PRK"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : true,
+		"percentage" : 99.9,
+		"countrycode" : "PRK"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 99.0,
+		"countrycode" : "PRT"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "PRY"
+	},
+	{
+		"language" : "Guaraní",
+		"isOfficial" : true,
+		"percentage" : 40.1,
+		"countrycode" : "PRY"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "PRY"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 55.1,
+		"countrycode" : "PRY"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 95.9,
+		"countrycode" : "PSE"
+	},
+	{
+		"language" : "Hebrew",
+		"isOfficial" : false,
+		"percentage" : 4.1,
+		"countrycode" : "PSE"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 2.9,
+		"countrycode" : "PYF"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 40.8,
+		"countrycode" : "PYF"
+	},
+	{
+		"language" : "Tahitian",
+		"isOfficial" : false,
+		"percentage" : 46.4,
+		"countrycode" : "PYF"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 40.7,
+		"countrycode" : "QAT"
+	},
+	{
+		"language" : "Urdu",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "QAT"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "REU"
+	},
+	{
+		"language" : "Comorian",
+		"isOfficial" : false,
+		"percentage" : 2.8,
+		"countrycode" : "REU"
+	},
+	{
+		"language" : "Creole French",
+		"isOfficial" : false,
+		"percentage" : 91.5,
+		"countrycode" : "REU"
+	},
+	{
+		"language" : "Malagasy",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "REU"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "REU"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 7.2,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : true,
+		"percentage" : 0.7,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Romanian",
+		"isOfficial" : true,
+		"percentage" : 90.7,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "ROM"
+	},
+	{
+		"language" : "Avarian",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Bashkir",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Chechen",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Chuvash",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Mari",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Mordva",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : true,
+		"percentage" : 86.6,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Tatar",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Udmur",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "RUS"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "RWA"
+	},
+	{
+		"language" : "Rwanda",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "RWA"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 95.0,
+		"countrycode" : "SAU"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 49.4,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Bari",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Beja",
+		"isOfficial" : false,
+		"percentage" : 6.4,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Chilluk",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Dinka",
+		"isOfficial" : false,
+		"percentage" : 11.5,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Fur",
+		"isOfficial" : false,
+		"percentage" : 2.1,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Lotuko",
+		"isOfficial" : false,
+		"percentage" : 1.5,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Nubian Languages",
+		"isOfficial" : false,
+		"percentage" : 8.1,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Nuer",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Zande",
+		"isOfficial" : false,
+		"percentage" : 2.7,
+		"countrycode" : "SDN"
+	},
+	{
+		"language" : "Diola",
+		"isOfficial" : false,
+		"percentage" : 5.0,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 21.7,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Malinke",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Serer",
+		"isOfficial" : false,
+		"percentage" : 12.5,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Soninke",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Wolof",
+		"isOfficial" : true,
+		"percentage" : 48.1,
+		"countrycode" : "SEN"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : true,
+		"percentage" : 77.1,
+		"countrycode" : "SGP"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : true,
+		"percentage" : 14.1,
+		"countrycode" : "SGP"
+	},
+	{
+		"language" : "Tamil",
+		"isOfficial" : true,
+		"percentage" : 7.4,
+		"countrycode" : "SGP"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "SHN"
+	},
+	{
+		"language" : "Norwegian",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "SJM"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "SJM"
+	},
+	{
+		"language" : "Malenasian Languages",
+		"isOfficial" : false,
+		"percentage" : 85.6,
+		"countrycode" : "SLB"
+	},
+	{
+		"language" : "Papuan Languages",
+		"isOfficial" : false,
+		"percentage" : 8.6,
+		"countrycode" : "SLB"
+	},
+	{
+		"language" : "Polynesian Languages",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "SLB"
+	},
+	{
+		"language" : "Bullom-sherbro",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Ful",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Kono-vai",
+		"isOfficial" : false,
+		"percentage" : 5.1,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Kuranko",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Limba",
+		"isOfficial" : false,
+		"percentage" : 8.3,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Mende",
+		"isOfficial" : false,
+		"percentage" : 34.8,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Temne",
+		"isOfficial" : false,
+		"percentage" : 31.8,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Yalunka",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "SLE"
+	},
+	{
+		"language" : "Nahua",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "SLV"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "SLV"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : true,
+		"percentage" : 100.0,
+		"countrycode" : "SMR"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "SOM"
+	},
+	{
+		"language" : "Somali",
+		"isOfficial" : true,
+		"percentage" : 98.3,
+		"countrycode" : "SOM"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "SPM"
+	},
+	{
+		"language" : "Crioulo",
+		"isOfficial" : false,
+		"percentage" : 86.3,
+		"countrycode" : "STP"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "STP"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "SUR"
+	},
+	{
+		"language" : "Sranantonga",
+		"isOfficial" : false,
+		"percentage" : 81.0,
+		"countrycode" : "SUR"
+	},
+	{
+		"language" : "Czech and Moravian",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "SVK"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 10.5,
+		"countrycode" : "SVK"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 1.7,
+		"countrycode" : "SVK"
+	},
+	{
+		"language" : "Slovak",
+		"isOfficial" : true,
+		"percentage" : 85.6,
+		"countrycode" : "SVK"
+	},
+	{
+		"language" : "Ukrainian and Russian",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "SVK"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "SVN"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : false,
+		"percentage" : 7.9,
+		"countrycode" : "SVN"
+	},
+	{
+		"language" : "Slovene",
+		"isOfficial" : true,
+		"percentage" : 87.9,
+		"countrycode" : "SVN"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 0.8,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Finnish",
+		"isOfficial" : false,
+		"percentage" : 2.4,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Norwegian",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Southern Slavic Languages",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Swedish",
+		"isOfficial" : true,
+		"percentage" : 89.5,
+		"countrycode" : "SWE"
+	},
+	{
+		"language" : "Swazi",
+		"isOfficial" : true,
+		"percentage" : 89.9,
+		"countrycode" : "SWZ"
+	},
+	{
+		"language" : "Zulu",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "SWZ"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 3.8,
+		"countrycode" : "SYC"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 1.3,
+		"countrycode" : "SYC"
+	},
+	{
+		"language" : "Seselwa",
+		"isOfficial" : false,
+		"percentage" : 91.3,
+		"countrycode" : "SYC"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 90.0,
+		"countrycode" : "SYR"
+	},
+	{
+		"language" : "Kurdish",
+		"isOfficial" : false,
+		"percentage" : 9.0,
+		"countrycode" : "SYR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "TCA"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 12.3,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Gorane",
+		"isOfficial" : false,
+		"percentage" : 6.2,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Hadjarai",
+		"isOfficial" : false,
+		"percentage" : 6.7,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Kanem-bornu",
+		"isOfficial" : false,
+		"percentage" : 9.0,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Mayo-kebbi",
+		"isOfficial" : false,
+		"percentage" : 11.5,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Ouaddai",
+		"isOfficial" : false,
+		"percentage" : 8.7,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Sara",
+		"isOfficial" : false,
+		"percentage" : 27.7,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Tandjile",
+		"isOfficial" : false,
+		"percentage" : 6.5,
+		"countrycode" : "TCD"
+	},
+	{
+		"language" : "Ane",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Ewe",
+		"isOfficial" : true,
+		"percentage" : 23.2,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Gurma",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Kabyé",
+		"isOfficial" : true,
+		"percentage" : 13.8,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Kotokoli",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Moba",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Naudemba",
+		"isOfficial" : false,
+		"percentage" : 4.1,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Watyi",
+		"isOfficial" : false,
+		"percentage" : 10.3,
+		"countrycode" : "TGO"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 12.1,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Khmer",
+		"isOfficial" : false,
+		"percentage" : 1.3,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Kuy",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Lao",
+		"isOfficial" : false,
+		"percentage" : 26.9,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Malay",
+		"isOfficial" : false,
+		"percentage" : 3.6,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Thai",
+		"isOfficial" : true,
+		"percentage" : 52.6,
+		"countrycode" : "THA"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 9.7,
+		"countrycode" : "TJK"
+	},
+	{
+		"language" : "Tadzhik",
+		"isOfficial" : true,
+		"percentage" : 62.2,
+		"countrycode" : "TJK"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : false,
+		"percentage" : 23.2,
+		"countrycode" : "TJK"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "TKL"
+	},
+	{
+		"language" : "Tokelau",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "TKL"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "TKM"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 6.7,
+		"countrycode" : "TKM"
+	},
+	{
+		"language" : "Turkmenian",
+		"isOfficial" : true,
+		"percentage" : 76.7,
+		"countrycode" : "TKM"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : false,
+		"percentage" : 9.2,
+		"countrycode" : "TKM"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "TMP"
+	},
+	{
+		"language" : "Sunda",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "TMP"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "TON"
+	},
+	{
+		"language" : "Tongan",
+		"isOfficial" : true,
+		"percentage" : 98.3,
+		"countrycode" : "TON"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 2.9,
+		"countrycode" : "TTO"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : false,
+		"percentage" : 93.5,
+		"countrycode" : "TTO"
+	},
+	{
+		"language" : "Hindi",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "TTO"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 69.9,
+		"countrycode" : "TUN"
+	},
+	{
+		"language" : "Arabic-French",
+		"isOfficial" : false,
+		"percentage" : 26.3,
+		"countrycode" : "TUN"
+	},
+	{
+		"language" : "Arabic-French-English",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "TUN"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "TUR"
+	},
+	{
+		"language" : "Kurdish",
+		"isOfficial" : false,
+		"percentage" : 10.6,
+		"countrycode" : "TUR"
+	},
+	{
+		"language" : "Turkish",
+		"isOfficial" : true,
+		"percentage" : 87.6,
+		"countrycode" : "TUR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "TUV"
+	},
+	{
+		"language" : "Kiribati",
+		"isOfficial" : false,
+		"percentage" : 7.5,
+		"countrycode" : "TUV"
+	},
+	{
+		"language" : "Tuvalu",
+		"isOfficial" : true,
+		"percentage" : 92.5,
+		"countrycode" : "TUV"
+	},
+	{
+		"language" : "Ami",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Atayal",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Hakka",
+		"isOfficial" : false,
+		"percentage" : 11.0,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Mandarin Chinese",
+		"isOfficial" : true,
+		"percentage" : 20.1,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Min",
+		"isOfficial" : false,
+		"percentage" : 66.7,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Paiwan",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "TWN"
+	},
+	{
+		"language" : "Chaga and Pare",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Gogo",
+		"isOfficial" : false,
+		"percentage" : 3.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Ha",
+		"isOfficial" : false,
+		"percentage" : 3.5,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Haya",
+		"isOfficial" : false,
+		"percentage" : 5.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Hehet",
+		"isOfficial" : false,
+		"percentage" : 6.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Luguru",
+		"isOfficial" : false,
+		"percentage" : 4.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Makonde",
+		"isOfficial" : false,
+		"percentage" : 5.9,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Nyakusa",
+		"isOfficial" : false,
+		"percentage" : 5.4,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Nyamwesi",
+		"isOfficial" : false,
+		"percentage" : 21.1,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Shambala",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Swahili",
+		"isOfficial" : true,
+		"percentage" : 8.8,
+		"countrycode" : "TZA"
+	},
+	{
+		"language" : "Acholi",
+		"isOfficial" : false,
+		"percentage" : 4.4,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Ganda",
+		"isOfficial" : false,
+		"percentage" : 18.1,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Gisu",
+		"isOfficial" : false,
+		"percentage" : 4.5,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Kiga",
+		"isOfficial" : false,
+		"percentage" : 8.3,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Lango",
+		"isOfficial" : false,
+		"percentage" : 5.9,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Lugbara",
+		"isOfficial" : false,
+		"percentage" : 4.7,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Nkole",
+		"isOfficial" : false,
+		"percentage" : 10.7,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Rwanda",
+		"isOfficial" : false,
+		"percentage" : 3.2,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Soga",
+		"isOfficial" : false,
+		"percentage" : 8.2,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Teso",
+		"isOfficial" : false,
+		"percentage" : 6.0,
+		"countrycode" : "UGA"
+	},
+	{
+		"language" : "Belorussian",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Bulgariana",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Romanian",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 32.9,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "Ukrainian",
+		"isOfficial" : true,
+		"percentage" : 64.7,
+		"countrycode" : "UKR"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "UMI"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 95.7,
+		"countrycode" : "URY"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 86.2,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "German",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : false,
+		"percentage" : 0.6,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Japanese",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Korean",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Polish",
+		"isOfficial" : false,
+		"percentage" : 0.3,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Portuguese",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 7.5,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Tagalog",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Vietnamese",
+		"isOfficial" : false,
+		"percentage" : 0.2,
+		"countrycode" : "USA"
+	},
+	{
+		"language" : "Karakalpak",
+		"isOfficial" : false,
+		"percentage" : 2.0,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Kazakh",
+		"isOfficial" : false,
+		"percentage" : 3.8,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Russian",
+		"isOfficial" : false,
+		"percentage" : 10.9,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Tadzhik",
+		"isOfficial" : false,
+		"percentage" : 4.4,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Tatar",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Uzbek",
+		"isOfficial" : true,
+		"percentage" : 72.6,
+		"countrycode" : "UZB"
+	},
+	{
+		"language" : "Italian",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "VAT"
+	},
+	{
+		"language" : "Creole English",
+		"isOfficial" : false,
+		"percentage" : 99.1,
+		"countrycode" : "VCT"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "VCT"
+	},
+	{
+		"language" : "Goajiro",
+		"isOfficial" : false,
+		"percentage" : 0.4,
+		"countrycode" : "VEN"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : true,
+		"percentage" : 96.9,
+		"countrycode" : "VEN"
+	},
+	{
+		"language" : "Warrau",
+		"isOfficial" : false,
+		"percentage" : 0.1,
+		"countrycode" : "VEN"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.0,
+		"countrycode" : "VGB"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 81.7,
+		"countrycode" : "VIR"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "VIR"
+	},
+	{
+		"language" : "Spanish",
+		"isOfficial" : false,
+		"percentage" : 13.3,
+		"countrycode" : "VIR"
+	},
+	{
+		"language" : "Chinese",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Khmer",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Man",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Miao",
+		"isOfficial" : false,
+		"percentage" : 0.9,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Muong",
+		"isOfficial" : false,
+		"percentage" : 1.5,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Nung",
+		"isOfficial" : false,
+		"percentage" : 1.1,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Thai",
+		"isOfficial" : false,
+		"percentage" : 1.6,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Tho",
+		"isOfficial" : false,
+		"percentage" : 1.8,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Vietnamese",
+		"isOfficial" : true,
+		"percentage" : 86.8,
+		"countrycode" : "VNM"
+	},
+	{
+		"language" : "Bislama",
+		"isOfficial" : true,
+		"percentage" : 56.6,
+		"countrycode" : "VUT"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 28.3,
+		"countrycode" : "VUT"
+	},
+	{
+		"language" : "French",
+		"isOfficial" : true,
+		"percentage" : 14.2,
+		"countrycode" : "VUT"
+	},
+	{
+		"language" : "Futuna",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "WLF"
+	},
+	{
+		"language" : "Wallis",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "WLF"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 0.6,
+		"countrycode" : "WSM"
+	},
+	{
+		"language" : "Samoan",
+		"isOfficial" : true,
+		"percentage" : 47.5,
+		"countrycode" : "WSM"
+	},
+	{
+		"language" : "Samoan-English",
+		"isOfficial" : false,
+		"percentage" : 52.0,
+		"countrycode" : "WSM"
+	},
+	{
+		"language" : "Arabic",
+		"isOfficial" : true,
+		"percentage" : 99.6,
+		"countrycode" : "YEM"
+	},
+	{
+		"language" : "Soqutri",
+		"isOfficial" : false,
+		"percentage" : 0.0,
+		"countrycode" : "YEM"
+	},
+	{
+		"language" : "Albaniana",
+		"isOfficial" : false,
+		"percentage" : 16.5,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Hungarian",
+		"isOfficial" : false,
+		"percentage" : 3.4,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Macedonian",
+		"isOfficial" : false,
+		"percentage" : 0.5,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Romani",
+		"isOfficial" : false,
+		"percentage" : 1.4,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Serbo-Croatian",
+		"isOfficial" : true,
+		"percentage" : 75.2,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Slovak",
+		"isOfficial" : false,
+		"percentage" : 0.7,
+		"countrycode" : "YUG"
+	},
+	{
+		"language" : "Afrikaans",
+		"isOfficial" : true,
+		"percentage" : 14.3,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 8.5,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Ndebele",
+		"isOfficial" : false,
+		"percentage" : 1.5,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Northsotho",
+		"isOfficial" : false,
+		"percentage" : 9.1,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Southsotho",
+		"isOfficial" : false,
+		"percentage" : 7.6,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Swazi",
+		"isOfficial" : false,
+		"percentage" : 2.5,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Tsonga",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Tswana",
+		"isOfficial" : false,
+		"percentage" : 8.1,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Venda",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Xhosa",
+		"isOfficial" : true,
+		"percentage" : 17.7,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Zulu",
+		"isOfficial" : true,
+		"percentage" : 22.7,
+		"countrycode" : "ZAF"
+	},
+	{
+		"language" : "Bemba",
+		"isOfficial" : false,
+		"percentage" : 29.7,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "Chewa",
+		"isOfficial" : false,
+		"percentage" : 5.7,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "Lozi",
+		"isOfficial" : false,
+		"percentage" : 6.4,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "Nsenga",
+		"isOfficial" : false,
+		"percentage" : 4.3,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "Nyanja",
+		"isOfficial" : false,
+		"percentage" : 7.8,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "Tongan",
+		"isOfficial" : false,
+		"percentage" : 11.0,
+		"countrycode" : "ZMB"
+	},
+	{
+		"language" : "English",
+		"isOfficial" : true,
+		"percentage" : 2.2,
+		"countrycode" : "ZWE"
+	},
+	{
+		"language" : "Ndebele",
+		"isOfficial" : false,
+		"percentage" : 16.2,
+		"countrycode" : "ZWE"
+	},
+	{
+		"language" : "Nyanja",
+		"isOfficial" : false,
+		"percentage" : 2.2,
+		"countrycode" : "ZWE"
+	},
+	{
+		"language" : "Shona",
+		"isOfficial" : false,
+		"percentage" : 72.1,
+		"countrycode" : "ZWE"
+	}
+]
