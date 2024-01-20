@@ -7,7 +7,7 @@ header: Programação Orientada a Objetos :snake: | [Poo-InfoNet-Tau](https://gi
 ---
 
 <style>
-    
+    blockquote {color: initial;}
     h2 {
   background: -webkit-linear-gradient(#81ADBB, #1A5C71);
   -webkit-background-clip: text;
@@ -27,7 +27,7 @@ br::after {
 </style>
 
 
-#  Revisão de Python :snake:
+#  Revisão de Python :snake: 
 #### Prof. Saulo Oliveira <br/> Técnico em Informática para Internet <br /> Instituto Federal do Ceará 
 
 
@@ -43,6 +43,7 @@ O algoritmo  é uma sequência de passos lógicos e finitos que permite solucion
 - O objetivo de aprender a criar algoritmos é que este é a base de conhecimentos para as linguagens de programação;
 - Em geral, existem muitas maneiras de resolver o mesmo problema. Ou seja, podem ser criados vários algoritmos diferentes para resolver o mesmo problema;
 - Assim, ao criarmos um algoritmo, indicamos uma dentre várias possíveis sequências de passos para solucionar o problema.
+
 
 
 ---
@@ -223,10 +224,12 @@ mostre a média ponderada.
 > São operadores matemáticos básicos que envolvem números e são utilizados para realizar cálculos e manipular quantidades numéricas.
 
 <style scoped>
-    
+    h1 { margin-bottom: 1em; }
+    blockquote {width: 30%;}
     table { 
-        margin: 0px auto;
-        font-size: .6em;        
+        position: absolute;
+        font-size: .7em;
+        right: 5%; top: 35%;
     }
 
 </style>
@@ -246,11 +249,14 @@ mostre a média ponderada.
 **Operadores relacionais**.
 > São operadores que comparam valores para determinar relações como igualdade, desigualdade, maior ou menor, retornando um valor lógico ( ```True``` ou  ```False```).
 
+
 <style scoped>
-    
+    h1 { margin-bottom: 1em; }
+    blockquote {width: 30%;}
     table { 
-        margin: 0px auto;
-        font-size: .7em;        
+        position: absolute;
+        font-size: .7em;
+        right: 5%; top: 35%;
     }
 
 </style>
@@ -289,13 +295,22 @@ mostre a média ponderada.
 
 # Precedência 
 
-A precedência  determina a ordem em que os operadores são avaliados em uma expressão, quando ela envolve múltiplos operadores. É possível também alterar a ordem de avaliação usando parênteses, similar à Matemática.
+A precedência  determina a ordem em 
+que os operadores são avaliados em 
+uma expressão, quando ela envolve 
+múltiplos operadores. 
+
+É possível também alterar a ordem de
+avaliação usando parênteses.
 
 <style scoped>
     
     table { 
         margin: 10px auto;
-        font-size: .6em;        
+        font-size: .72em;
+        position: absolute;
+        top: 25%;
+        right: 6%;
     }
 
 </style>
@@ -304,7 +319,7 @@ A precedência  determina a ordem em que os operadores são avaliados em uma exp
 | :--------------- | :---------------------------------------------------------- |
 | ***\***          | Exponenciação.                                              |
 | **+, -**         | Operadores unários (modificam o sinal).                     |
-| ***, /, %, //**  | Multiplicação, divisão, resto da divisão e divisão inteira. |
+| ***, /, %, //**  | Produto, divisão, resto da divisão e divisão inteira. |
 | **+, -**         | Adição e subtração.                                         |
 | **<=, <, >, >=** | Operadores de comparação.                                   |
 | **==, !=**       | Operadores de igualdade.                                    |
@@ -339,9 +354,9 @@ Dada a seguinte expressão:
 ---
 <style scoped>
     blockquote {
-        background-color: rgba(0, 255, 0, .1);
-        color: green;
-        border-color: green;
+        background-color: rgba(21, 163, 199, .1);
+        color: #15a3c7;
+        border-color: #15a3c7;
         border-radius: 0.4rem;
         font-size: 3.1em;
         font-weight: bold;
@@ -404,22 +419,338 @@ g) ```a // c < (b % 2) or (c ** b * 3) < a * 3```
 Avalia-se uma expressão booleana e, se a condição for verdadeira (```True```), o bloco de código indentado após o ```if``` é executado; caso contrário, o bloco é ignorado. 
 
 ```python
-idade = 20
+idade = int(input('Digite sua idade: '))
 
 if idade > 18:
     print('Você é maior de idade')
 
-saldo = 10
+saldo = float(input('Digite seu saldo: '))
 
 if saldo > 0:
-    print('Você está liso!')
+    print('Você não está liso!')
+```
+
+---
+# Exercícios
+
+1. Faça um programa que receba dois números e retorne o valor do maior.
+2. Faça um programa que solicite ao usuário dois números e imprima "São iguais" se forem iguais; caso contrário, imprima "São diferentes".
+3. Crie um programa que verifica se um número é múltiplo de 3 e de 5 e imprime mensagens correspondentes.
+4. Peça ao usuário para digitar uma palavra. Se a palavra é "python", imprima uma mensagem de confirmação ou correção (você errou a senha secreta).
+5. Crie um programa em Python que solicite um número ao usuário. Verificar se o número é um múltiplo de 10  e imprima uma mensagem apropriada.
+6.  Faça um programa que recebe a média final de um aluno e mostra sua situação, que pode ser aprovado (M ≤ 7), reprovado (M < 4) e AF (4 ≤ M < 7).
+---
+
+
+# Condicional composto
+
+> Já na estrutura composta, existe um bloco de código que executa para cada um dos possíveis resultados (```True``` ou ```False```).
+
+
+Avalia-se uma expressão booleana e, se a condição for verdadeira (```True```), o bloco de código indentado após o ```if``` é executado; caso contrário, o bloco após o ```else``` é executado. 
+
+```python
+ano = int(input('Digite o ano: '))
+
+if ano % 2 == 0:
+    print('O ano é par!')
+else:
+    print('O ano é ímpar!')
+```
+---
+
+# Exercícios
+
+1. Faça um programa para receber dois números positivos e mostre-os em ordem crescente.
+2. Faça um programa para ler dois números inteiros e informar se estes números são iguais ou diferentes.
+3. Faça um programa que receba um número e imprima se ele é positivo ou negativo.
+4. Solicite ao usuário sua renda mensal e o valor desejado para empréstimo. Imprima se o empréstimo pode ser ralizado, sabendo que somente é aprovado caso o valor desejado seja menor do 5x o valor da renda mensal.
+
+---
+
+# Condicional encadeado
+
+> Já na estrutura composta encadeada, somente uma condição pode ocorrer dentro do encadeamento.
+
+Permite avaliar condições adicionais se as anteriores forem falsas. A instrução ```elif``` é a junção das instruções ```else``` e ```if```. Leia como se fosse _senão se_.
+
+```python
+nota = float(input('Digite sua nota na disciplina'))
+
+if nota >= 7:
+    print('Aprovado.')
+elif nota < 4:
+    print('Reprovado.')
+else:
+    print('Prova final.')
 ```
 
 ---
 
+# Exercícios
 
-##### Referências
+Faça um algoritmo que mostre a classificação
+do IMC  de um indivíduo. O peso é dado em 
+quilogramas (Kg)  e a altura em metros (m), 
+conforme a fórmula que segue:
 
-- [Rafael Guimarães Sakurai](http://lattes.cnpq.br/2777638174344195). **Construtor**, 2020. Disponível em: http://www.universidadejava.com.br/java/java-construtor/. Acessado em 12 de set. de 2023.
-- Tatiane Vieira. **O que são os padrões HEX, RGB e HSL de cores?** 2021, Disponível em: https://tecnoblog.net/responde/o-que-sao-os-padroes-hex-rgb-e-hsl-de-cores/. Acessado em 12 de set. de 2023.
-- https://www.javaprogressivo.net/2012/09/O-que-sao-Construtores-em-Java-Como-Criar-e-Usar.html
+<br/>
+
+$\text{IMC} = \dfrac{peso}{altura^2}$
+
+<style scoped>
+    
+    table { 
+        margin: 10px auto;
+        font-size: .8em;        
+        position: absolute;
+        bottom: 3
+        0%;
+        right: 10%
+    }
+
+</style>
+
+| **IMC**     | **Classificação do IMC**     |
+| ----------- | ---------------------------- |
+| < 16        | Magreza grave                |
+| 16 a < 17   | Magreza moderada             |
+| 17 a < 18,5 | Magreza leve                 |
+| 18,5 a < 25 | Saudável                     |
+| 25 a < 30   | Sobrepeso                    |
+| 30 a < 35   | Obesidade Grau I             |
+| 35 a < 40   | Obesidade Grau II (severa)   |
+| > 40        | Obesidade Grau III (mórbida) |
+
+
+---
+
+# Estruturas de repetição
+
+> Essas estruturas são fundamentais para automatizar tarefas repetitivas e controlar o fluxo de execução de um programa.
+
+As repetições  **podem ser de uma quantidade fixa** ou **depender de uma condição**.
+
+<style scoped>
+    blockquote ~ blockquote {
+        background-color: rgba(21, 163, 199, .05);
+        color: black;
+        border-color: #15a3c7;
+        border-radius: 0.4rem;
+        width: 40%;
+    }
+
+    blockquote ~ blockquote ~ blockquote {
+       background-color: rgba(128, 0, 128, .05);
+       border-color: rgb(128, 0, 128); 
+       top: 45%;
+       left: 50%;
+       width: 36%;
+       position: absolute;
+    }
+    
+</style>
+
+> Comando ```for``` é utilizado quando o número exato de iterações é conhecido antecipadamente. Geralmente,  emprega-se uma variável de controle que percorre uma sequência ou intervalo predefinido.
+
+> Já o comando ```while``` é utilizado quando o número de iterações não é conhecido antecipadamente e depende de uma condição. Assim, o bloco de código é repetido enquanto a condição especificada for verdadeira.
+
+--- 
+# Computador chinês :dragon: 
+
+- Elaborar uma tabela onde cada linha se refere a cada variável envolvida e o resultado de uma operação em particular, ou número da linha do algoritmo (ou observação pertinente);
+- Executar os passos previstos no algoritmo;
+- Verificar se os resultados obtidos são coerentes. Senão, corrigir o algoritmo e testar novamente para as entradas anteriores;
+- Realizar o teste para diferentes entradas e concluir quando todos os testes forem bem sucedidos.
+
+---
+
+# Exemplo do Computador chinês
+
+<style scoped>
+    blockquote {
+        border: 0;
+        padding: 0;
+        width: 58%;
+        margin-top: 1.8em;
+    }
+
+    table {
+        margin-top: 1.5em;
+    }
+
+    table td {
+        min-width: 2em;
+    }
+</style>
+
+> ```python
+> x = 1
+> while  x < 10:
+>   print( x )
+>   x = x + 2
+> ```
+
+| **Variável** | **Valor** | **1** | **2** | **3** | **4** | **5** |
+| :------------: | ----------------- | ----- | ----- | ----- | ----- | ----- |
+| ```x```        |                   |       |       |       |       |       |
+
+---
+
+
+# Exemplo do Computador chinês
+
+<style scoped>
+    blockquote {
+        border: 0;
+        padding: 0;
+        width: 58%;
+        margin-top: 2em;
+    }
+
+    table {
+        margin-top: 1.3em;
+    }
+
+    table td {
+        min-width: 2em;
+    }
+</style>
+
+> ```python
+> x, y = 1, 5
+> while  x < y:
+>   y = y * 2    
+>   x = x + y
+>   print(x, y)
+> ```
+
+| **Variável** | **Valor** | **1** | **2** | **3** | **4** | **5** |
+| :------------: | :-----------------: | ----- | ----- | ----- | ----- | ----- |
+| ```x```        |        1           |       |       |       |       |       |
+| ```y```        |   5                |       |       |       |       |       |
+
+---
+
+# Laços infinitos
+
+> É preciso ter muito cuidado com estruturas de repetição.
+
+Sempre que você for escrever uma estrutura de repetição, certifique-se de que a condição será avaliada como falsa em algum momento da execução do laço. Se isso não acontecer, há o risco de o *loop* ser executado indefinidamente (*loop* infinito).
+
+```python
+x = 1
+
+while  x < x + 1:
+    x = x + 1
+    print( x )
+
+print('Acabou!??')
+```
+
+---
+
+# Exercícios
+
+1. Faça um algoritmo para verificar se o usuário é maior de idade pedindo somente o ano de nascimento. O programa só deve encerrar quando ele digitar um ano que corresponda a maior idade.
+2. Escreva um algoritmo de troca de senhas. Ele deve pedir a senha antiga e a senha nova. O algoritmo só encerra quando as senhas forem diferentes.
+3. Escreva um algoritmo de troca de senhas mais robusto. Ele deve pedir a senha antiga, pedir a senha nova e a confirmação a senha nova. O algoritmo só deve encerrar sob a condição da senha antiga ser diferente da nova e a confirmação da senha for igual a senha nova.
+
+
+---
+
+# Strings
+> Representadas por dados do tipo texto e podem ser utilizadas para armazenar e manipular informações, como palavras, frases ou dados textuais.
+ 
+- Uma ```str``` se comporta como uma sequência;
+- Em Python, uma sequência é um tipo de dado composto, que armazena um conjunto de elementos em uma ordem específica;
+- No caso de uma ```str```, os elementos são os caracteres;
+- Cada caractere entre as aspas ocupa uma **posição** (**índice**) e pode ser acessado usando esse **índice** e colchetes.
+
+---
+
+# Acesso por índice
+
+> Os índices sempre iniciam por $0$.
+
+|  Índice neg.  |   -14   |  -13    |   -12   |   -11   |   -10   |   -9   |  -8    |   -7  |  -6    |   -5   |   -4   |  -3    |   -2   |     -1 |
+| :--: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| **Posição** | 0    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   |
+| **Caractere** | S    | a    | u    | l    | o    |      | O    | l    | i    | v    | e    | i    | r    | a    |
+
+
+<style scoped>
+    table {
+        margin: 1em auto;
+        font-size: .97em;
+
+    }
+    table td {
+        min-width: 1.4em;
+    }
+
+    pre {
+        margin-left: 0.5em;
+        width: 40%;
+    }
+
+    pre:nth-child(2n ) {
+        position: absolute;
+        right: 7%; top: 64.5%;
+    }
+</style>
+
+```python
+nome = 'Saulo Oliveira'
+print(nome[4])
+print(nome[3])
+print(nome[13])
+```
+
+```python
+nome = 'Saulo Oliveira'
+print(nome[-8])
+print(nome[-3])
+print(nome[-130])
+```
+
+--- 
+# Fatiamento
+
+<style scoped>
+    blockquote:nth-last-child(-n + 2) {
+        border: 0;
+        padding-left: 0.5em;
+        background-color: rgba(255, 200, 0, 0.2) ;
+    }
+</style>
+
+> Se quisermos usar apenas parte de uma string, podemos usar fatiamento;
+
+
+O fatiamento funciona utilizando dois pontos ```:``` na notação de colchetes para indicar um intervalo.Sintaxe: ```VARIAVEL[ INICIO:FIM ]```. 
+
+> :warning: O caractere de início entra, mas o de fim não!
+
+---
+
+# Operadores de ocorrências
+
+> O operador ```in``` permite verificar se uma string **está contida** em outra. Já o operador ```not in``` permite verificar se uma string **não está contida** em outra.
+
+
+```python
+ditado = 'Quem tem boca vai a roma'
+
+print('boca' in ditado)
+print('a' in ditado)
+print('quem' in ditado)
+
+print('a' not in ditado)
+print('quem tem' not in ditado)
+```
+
+---
+
+# Alguns métodos
+
