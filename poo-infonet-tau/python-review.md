@@ -572,7 +572,7 @@ As repetições  **podem ser de uma quantidade fixa** ou **depender de uma condi
         border: 0;
         padding: 0;
         width: 58%;
-        margin-top: 1.8em;
+        
     }
 
     table {
@@ -586,8 +586,11 @@ As repetições  **podem ser de uma quantidade fixa** ou **depender de uma condi
 
 > ```python
 > x = 1
+>
 > while  x < 10:
+>    
 >   print( x )
+>
 >   x = x + 2
 > ```
 
@@ -605,12 +608,9 @@ As repetições  **podem ser de uma quantidade fixa** ou **depender de uma condi
         border: 0;
         padding: 0;
         width: 58%;
-        margin-top: 2em;
+ 
     }
 
-    table {
-        margin-top: 1.3em;
-    }
 
     table td {
         min-width: 2em;
@@ -619,9 +619,12 @@ As repetições  **podem ser de uma quantidade fixa** ou **depender de uma condi
 
 > ```python
 > x, y = 1, 5
+>
 > while  x < y:
+>    
 >   y = y * 2    
 >   x = x + y
+>
 >   print(x, y)
 > ```
 
@@ -723,6 +726,16 @@ print(nome[-130])
         padding-left: 0.5em;
         background-color: rgba(255, 200, 0, 0.2) ;
     }
+
+    pre {
+        width: 42%;
+    }
+
+    pre:nth-child(2n +1) {
+        width: 40%;
+        position: absolute;
+        top: 50.5%; right: 5%;
+    }
 </style>
 
 > Se quisermos usar apenas parte de uma string, podemos usar fatiamento;
@@ -732,12 +745,38 @@ O fatiamento funciona utilizando dois pontos ```:``` na notação de colchetes p
 
 > :warning: O caractere de início entra, mas o de fim não!
 
+```python
+nome_completo = 'Saulo Oliveira'
+nome = nome_completo[0:5]
+sobrenome = nome_completo[6:14]
+
+print(nome)
+print(sobrenome)
+
+nome = nome_completo[:5]
+sobrenome = nome_completo[6:]
+```
+
+
+```python
+s = 'HelloWorld'
+reverse_str = s[::-1]
+print(reverse_str)
+
+s1 = s[2:8:2]
+print(s1)
+
+s2 = s[8:1:-1]
+print(s2)
+```
+
 ---
 
 # Operadores de ocorrências
 
 > O operador ```in``` permite verificar se uma string **está contida** em outra. Já o operador ```not in``` permite verificar se uma string **não está contida** em outra.
 
+<br />
 
 ```python
 ditado = 'Quem tem boca vai a roma'
@@ -752,5 +791,241 @@ print('quem tem' not in ditado)
 
 ---
 
-# Alguns métodos
+<style scoped>
+    pre:nth-child(2n + 1) {
+        color: red;
+        background-color: rgba(255, 0, 0,  .12)
+    }
+</style>
 
+# Imutabilidade em ```str```
+
+> Strings são imutáveis! Uma vez criada uma string, você não pode alterá-la (**mudar seu conteúdo**).
+
+```python
+>>> nome = 'Saulo Oliveira'
+>>> nome[0] = 'P'
+>>> print(nome)
+```
+
+
+```python
+Traceback (most recent call last):
+File "<stdin>", line 2, in <module>
+TypeError: 'str' object does not support item assignment
+```
+
+---
+
+# Concatenação
+> Juntar duas ou mais strings (ou partes de strings) em uma nova string. Usaremos o operador ```+```.
+
+```python
+nome = 'Saulo'
+sobrenome = 'Oliveira'
+nome_completo = primeiro + ultimo
+
+print(nome_completo)
+```
+
+Um caso especial de concatenação é a repetição de uma string várias vezes.
+
+```python
+palavra = 'blá'
+repetida = palavra * 5
+
+print(repetida)
+```
+
+---
+
+# Interpolação
+
+
+<style scoped>
+    strong { color: darkorange;}
+</style>
+
+> Interpolação de string é o **processo de avaliação de uma string literal** contendo um ou mais **espaços reservados** (*placeholders*), produzindoum resultado  no qual os **espaços reservados são substituídos por seus valores correspondentes**.
+
+Tais strings serão chamadas de "f-strings" ou "strings formatadas".
+
+```python
+nome = 'Saulo'
+reais =  5
+
+print(f'O professor {nome} é o melhor!')
+print(f'Só tenho {reais} no pix.')
+
+msg = f'O {nome} tem de saldo R$ {reais}'
+print(msg)
+```
+
+---
+
+# Exercícios
+
+<style scoped>
+    pre {margin-left: 2em;}
+</style>
+1. Crie uma nova string utilizando concatenação para adicionar a palavra "dia", resultando em "Bom dia".
+2. Utilize concatenação para criar uma string que represente a soma dos números da seguinte forma: "A soma de 10 e 5 é 15."
+```python
+numero1 = 10
+numero2 = 5
+```
+3. Suponha as variáveis abaixo. Utilize a interpolação de variáveis para criar uma string que exiba: "O preço do Notebook é R$ 2500.99."
+
+```python
+produto = "Notebook"
+preco = 2500.99
+```
+
+
+--- 
+
+# Alguns métodos de ```str```: Caixa do texto
+<style>
+    ul {padding-left: 1em }
+</style>
+
+> Para executá-los, você não precisa utlizat a sintaxe ```str.método(*args)```.
+
+- ```str.lower(): -> str```: retorna uma cópia da string com tudo em minúsculo;
+- ```str.upper(): -> str```: retorna uma cópia da string com tudo em maiúsculo.
+
+```python
+nome = 'Saulo Oliveira'
+M = nome.upper()
+m = nome.lower()
+print(M)
+print(m)
+print(f'o {nome} é o melhor prof!'.upper())
+print('IFCE'.lower())
+```
+
+--- 
+
+# Verificação de prefixo e de sufixo
+- ```str.startswith(str): -> bool```: verifica se uma string começa com o prefixo dado.
+- ```str.endswith(str): -> bool```: verifica se uma string termina com sufixo dado.
+
+```python
+nome = 'Saulo Oliveira'
+
+print(nome.startswith('saulo'))
+print(nome.startswith('Saulo'))
+print(nome.startswith('Oliveira'))
+
+print(nome.endswith('Oliveira'))
+print(nome.endswith('Oliveir'))
+```
+
+--- 
+
+# Quebra e cola de pedaços
+
+- ```str.split(str): -> list```: gera uma lista de strings com base na quebra de um delimitador.
+- ```str.join(list): -> str```: gera uma string a partir de pedaços, colando-os com o elemento concatenador.
+
+```python
+>>> nome = 'Saulo Oliveira Professor IFCE Computação'
+>>> print(nome.split())
+['Saulo', 'Oliveira', 'Professor', 'IFCE', 'Computação']
+
+>>> email = 'saulo.oliveira@ifce.edu.br'
+>>> print(email.split('@'))
+['saulo.oliveira', 'ifce.edu.br']
+
+print('r'.join('aaa'))
+print('r'.join(['a', 'a', 'a']))
+```
+
+---
+
+# Substituição
+
+- ```str.replace(str, str): -> str```: substitui todas as ocorrências de uma substring em uma string por outra substring. Ele retorna uma nova string com as substituições realizadas, sem modificar a string original.
+
+```python
+>>> frase = "Python é uma linguagem de programação, e Python é divertido."
+>>> nova_frase = frase.replace("Python", "Java")
+>>> print(nova_frase)
+
+Java é uma linguagem de programação, e Java é divertido.
+```
+
+
+---
+
+# Contagem e pesquisa
+
+- ```str.count(str): -> int```: conta o número de ocorrências **não-sobrepostas** de uma substring.
+- ```len(str): -> int```: Apesar de não ser um método e sim uma função ```built-in```, conta o número de caracteres na string.
+
+```python
+animal = 'arara'
+
+print(animal.count('a'))
+print(animal.count('r'))
+print(animal.count('ara'))
+
+print(len(''))
+print(len('a'))
+print(len('saulo'))
+```
+
+---
+
+# Exercícios
+<style scoped>
+    pre {margin-left: 2.5em;}
+</style>
+1. Faça um programa que receba um verbo regular no infinitivo e o conjugue no presente do indicativo. O programa deve aceitar todas as conjugações (1a, 2a e 3a).
+2. Escreva um programa para obter uma string de uma determinada string (lida pelo usuário) em que todas as ocorrências de seu primeiro caractere são alteradas para '\$', exceto o primeiro caractere em si.Exemplo: ```restart```. Saída: ```resta\$t```.
+3. Partindo da variável abaixo, como você pode contar a quanitidade de letras total dessa lista.
+```python
+>>> palavras = ["Python", "é", "uma", "linguagem", "poderosa"]
+>>> ...
+27
+```
+
+
+
+---
+
+# Listas
+
+<style scoped>
+    strong  {color: darkorange; }
+    strong:nth-child(even)  {color: darkred; }
+    strong:nth-child(3n) {color: darkviolet; }
+    
+    blockquote:nth-child(2n) {
+        background-color: rgba(255, 200, 20, .2);
+        border: 0;
+        
+    }
+</style>
+
+> Frequentemente, necessitaremos trabalhar com grandes coleções de dados e precisaremos guardar esses dados em memória, em variáveis.
+> 
+> - Criar uma variável para cada item de dado é impraticável;
+> - Utilizaremos variáveis compostas, chamadas vetores; 
+> - Um vetor é conhecido como variável **composta** (conjunto de dados com o mesmo nome), **homogênea** (variáveis do mesmo tipo), e **unidimensional** (acessadas por único índice);
+
+> :warning: Em Python, usaremos o tipo ```list``` que implementam algumas dessas características -- exceto homogeneidade.
+
+---
+# PEPs do Python 
+
+> Propostas de aprimoramento do Python.
+
+
+--- 
+
+# Referências
+
+https://en.wikipedia.org/wiki/String_interpolation
+
+https://peps.python.org/pep-0498/

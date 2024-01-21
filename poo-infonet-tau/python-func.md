@@ -436,3 +436,7 @@ https://estruturas.ufpr.br/disciplinas/pos-graduacao/introducao-a-computacao-cie
 
 
 https://realpython.com/python-mutable-vs-immutable-types/
+
+https://peps.python.org/pep-0257/
+
+https://peps.python.org/pep-0008/
