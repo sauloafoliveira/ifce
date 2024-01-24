@@ -7,12 +7,9 @@ header: Programação Orientada a Objetos :snake: | [Poo-InfoNet-Tau](https://gi
 ---
 
 <style>
+   
     blockquote {color: initial;}
-    h2 {
-  background: -webkit-linear-gradient(#81ADBB, #1A5C71);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-    }
+    
 </style>
 
 <style scoped>
@@ -1017,9 +1014,213 @@ print(len('saulo'))
 > :warning: Em Python, usaremos o tipo ```list``` que implementam algumas dessas características -- exceto homogeneidade.
 
 ---
-# PEPs do Python 
 
-> Propostas de aprimoramento do Python.
+# Semelhanças com ```str```
+
+<style scoped>
+    pre {
+        position: absolute;
+        top: 45%; right: 10%;
+        width: 35%;
+    }
+</style>
+
+> O tipo ```list``` em Python se comporta como uma sequência. Por isso, algumas operações funcionam de forma semelhante.
+
+<br />
+
+- Suporta indexação positiva e negativa;
+- Suporta fatiamento;
+- A quatidade de elementos em uma lista
+ é obtida pela função ```len```;
+- Os operadores ```in``` e ```not in``` também
+ servem para verificar ocorrência de valores.
+
+```python
+numeros = [45, 34, 1, 2, 3]
+
+print(numeros[-2])
+print(numeros[4])
+
+print(len(numeros))
+
+print(1 in numeros)
+print('1' in numeros)
+print(6 in numeros)
+```
+---
+
+# Criação de listas
+
+> Para se criar uma lista em Python, basta usar colchetes e atribuí-los a uma variável. Não precisa informar o tamanho *a priori*.
+
+<br />
+
+```python
+vazia = []
+unitaria = [1]
+notas = [0] * 3
+transacoes = [1, 100, -34, 90, 'a', False]
+
+print(vazia, len(vazia))
+print(unitaria, len(unitaria)) 
+print(notas, len(notas))
+print(transacoes, len(transacoes))
+```
+
+---
+
+# Alguns métodos de ```list```: Inserção
+
+
+<style scoped>
+    pre {
+        position: absolute;
+        top: 20%; right: 8%;
+        width: 30%;
+    }
+</style>
+
+> Usa-se a mesma sintaxe ```list.método(*args)```.
+Mas diferentemente das ```str```, modifica-se 
+a própria lista.
+
+- ```list.append(Any): -> None```: adiciona um
+ elemento ao final da lista. Só pode adicionar
+  um por vez!
+- ```list.insert(int, Any): -> None```: insere
+ um item numa dada posição.
+- ```list.extend(list): -> None```: expande a
+ lista atual com todos os elementos passados
+ como argumento.
+
+```python
+a = [1, 2, 5, 6]
+
+a.append(12)
+print(a)
+a.append(21)
+print(a)
+a.insert(0, 'Saulo')
+print(a)
+
+b = ['b', 'c', True]
+
+a.expand(b)
+print(a)
+
+b.insert(2, False)
+print(b)
+print(a)
+```
+---
+
+# Ordenação
+
+<style scoped>
+    pre {
+        position: absolute;
+        top: 30%; right: 8%;
+        width: 35%;
+    }
+</style>
+- ```list.sort(): -> None```: ordena de forma
+ crecente os valores presentes na lista.
+- ```list.reverse(): -> None```: reverte a 
+ordem dos elementos da lista.
+
+```python
+numeros = [2, 1, 3, 4, 3, 3]
+
+numeros.append(1)
+print(numeros)
+
+numeros.reverse()
+print(numeros)
+
+numeros.sort()
+numeros.reverse()
+numeros.append(9)
+print(numeros)
+```
+
+---
+
+# Contagem e Indexação
+
+
+<style scoped>
+    pre {
+        position: absolute;
+        top: 35%; right: 8%;
+        width: 35%;
+    }
+    strong {
+        color: red;
+    }
+</style>
+- ```list.count(Any): -> int```: retorna a
+ quantidade de vezes que um valor aparece 
+ na lista.
+- ```list.index(Any): -> int```: retorna a
+ posição de um valor. **Dá erro se o valor
+  não existir**.
+
+```python
+numeros = [2, 1, 3, 4, 3, 3]
+
+numeros.append(1)
+
+print(numeros.count(3))
+print(numeros.index(4))
+
+numeros.reverse()
+
+print(numeros.index(1))
+print(numeros.index(10))
+```
+
+---
+
+# Remoção, Limpeza e Cópia
+
+<style scoped>
+    pre {
+        position: absolute;
+        top: 25%; right: 8%;
+        width: 35%;
+    }
+    strong {
+        color: red;
+    }
+</style>
+- ```list.pop(): -> Any```: remove e retorna o
+primeiro elemento da lista. **Dá erro se a 
+lista estiver vazia**!
+- ```list.remove(Any): -> None```: apaga a 
+primeira ocorrência de um valor na lista. 
+**Dá erro se o valor não existir**!
+- ```list.copy(): -> list```: retorna uma 
+cópia da lista. Essa cópia é independente!
+- ```list.clear(): -> None```: limpa (remove)
+todos os elementos da lista.
+
+```python
+numeros = [2, 1, 3, 4, 3, 3]
+
+numeros.remove(3)
+numeros.reverse()
+print(numeros)
+
+numeros.pop()
+print(numeros)
+
+backup = numeros.copy()
+numeros.clear()
+
+print(numeros)
+print(backup)
+```
 
 
 --- 
