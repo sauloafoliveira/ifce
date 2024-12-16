@@ -127,43 +127,25 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
 </style>
 
 # Estrutura  de Dados
-## Tipo abstrato de dados
+## Ordenação e Busca
 #### Curso de Análise e Desenvolvimento de Sistemas
 #### Última revisão: **2024.2**
 
 ![bg right:55% top:40% 80%](images/capa2.png)
 
 ---
-# Tipo abstrato de dados
+# Ordenação e Busca
 ---
-# Tipo abstrato de dados
-
-> # Tipo abstrato de dados (TAD)
-> **Um TAD define**:
-> - um novo tipo de dado (no nosso caso uma classe);
-> - o conjunto de operações para manipular dados desse tipo (os métodos).
->
-> **Um TAD facilita**:
-> - a manutenção e a reutilização de código;
-> - a abstração – forma de implementação não precisa ser conhecida.
->
-> 
-> Por fim, para utilizar um TAD é necessário conhecer a sua **funcionalidade**, mas não a sua **implementação**.
-
-
+# Buble sort
+---
+# Selection sort
+---
+# Insertion sort
+---
+# Merge Sort
 
 ---
-# Tipo abstrato de dados
-
-> # Tipo abstrato de dados (TAD) – continuação
-> **Um TAD faz uso de encapsulamento porque:**
-> - agrupa a estrutura de dados juntamente com as operações adequadas/disponíveis;
-> - e encapsula a estrutura de dados, pois usuários só podem usar operações disponibilizadas.
-> 
-> **Um TAD na sua implementação tem como premissa que:**
-> - o há dois atores, a saber, o Usuário do TAD e o Programador do TAD. O usuário só "enxerga" a interface, não a implementação;
-> - a escolha de uma representação específica é fortemente influenciada pelas operações a serem executadas.
-
+# Quick Sort
 
 ---
 
