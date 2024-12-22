@@ -87,28 +87,6 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
         background-color: transparent;
         padding: 0;
     }
-
-    /* h1:has(~ blockquote) + blockquote {
-        background-color: #7986CB;
-        color: #fff;
-        padding: .3em .5em;
-        padding-left: 3.5em;
-        border-radius: .25em;
-        text-align: justify;
-    }
-
-    h1:has(~ blockquote) + blockquote:before {
-        content: '⚠️';
-        font-size: 2em;
-        position: absolute;
-        left: 1em;
-        
-    } */
-
-    img[center] {
-        display: block;
-        margin: 0 auto;
-    }
     
     h1 code {
         font-size: .75em;
@@ -133,6 +111,63 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
 
 ![bg right:55% top:40% 80%](images/capa2.png)
 
+
+---
+<style scoped>
+    h1 {font-size: 5em;}
+</style>
+# Revisão de Orientação a Objetos
+---
+
+# Orientação a Objetos em Python (modo rápido)
+<style scoped>
+    blockquote, pre {
+        width: 45%;
+    } 
+    li {
+        text-align: left;
+    }
+
+    pre {
+        position: absolute;
+        left: 48%;
+        top: 25%;
+    }
+</style>
+
+> # Definições de classes
+> - Os atributos armazenam dados para uso de cada objeto;
+> - Os construtores permitem que cada objeto seja configurado adequadamente quando ele é criado;
+> - Não há visibilidade em Python;
+> - Os métodos implementam o comportamento dos objetos.
+
+```python
+class Nome_Da_Classe:
+
+    # atribudo de classe
+    _instances = []
+
+    # construtor
+    def __init__(self, value):
+        # atributos de instancias
+        self._value = value
+        self._instances.append(value)
+
+    # método de instância
+    def double(self):
+        self._value *= 2
+
+    # método de classe
+    @classmethod
+    def increment_by(cls, value, increment):
+        return value + increment
+
+    # método statico
+    @staticmethod
+    def increment_by(value, increment):
+        return value + increment
+ ```
+
 ---
 # Tipo abstrato de dados
 ---
@@ -154,7 +189,7 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
 
 ---
 # Tipo abstrato de dados
-
+ 
 > # Tipo abstrato de dados (TAD) – continuação
 > **Um TAD faz uso de encapsulamento porque:**
 > - agrupa a estrutura de dados juntamente com as operações adequadas/disponíveis;
@@ -164,6 +199,48 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
 > - o há dois atores, a saber, o Usuário do TAD e o Programador do TAD. O usuário só "enxerga" a interface, não a implementação;
 > - a escolha de uma representação específica é fortemente influenciada pelas operações a serem executadas.
 
+
+---
+
+# Exemplo
+<style scoped>
+    pre {width: 40%; margin-top: -1em;}
+    pre + pre {
+        position: absolute;
+        right: 11%;
+    }
+</style>
+```python
+from typing import Self
+
+class ContaBancaria:
+
+    def deposito(
+        self,
+        valor: float
+    ) -> bool
+    
+    def saque(
+        self, 
+        valor: float
+    ) -> bool:
+
+    def transferencia(
+        self,
+        conta_destino: Self,
+        valor: float
+    ) -> bool:
+        
+        self.saque(valor):
+        conta_destino.deposito(valor)
+```
+
+```python
+from conta_bancaria import ContaBancaria
+
+class ContaPoupanca(ContaBancaria):
+
+```
 
 ---
 
