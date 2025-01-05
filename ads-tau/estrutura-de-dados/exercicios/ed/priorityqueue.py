@@ -23,7 +23,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             fila.clear()
         """
-        raise NotImplemented
+        raise NotImplementedError()
     
 
     def dequeue(self) -> T:
@@ -33,7 +33,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             urgente = fila_prioridade.dequeue()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def enqueue(self, value: T, priority: int) -> None:
@@ -48,6 +48,7 @@ class PriorityQueue(Generic[T]):
             fila_prioridade.dequeue("c", 1)  #["a", "c", "b"]
 
         """
+        raise NotImplementedError()
 
     
     def equals(self, other: Self) -> bool:
@@ -57,7 +58,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             if fila_prioridade.equals(outra):
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
 
     def is_empty(self) -> bool:
@@ -77,7 +78,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             a = fila_prioridade.peek()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def peek_piority(self) -> int:
@@ -87,7 +88,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             a = fila_prioridade.peek_priority()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def size(self) -> int:
@@ -107,6 +108,7 @@ class PriorityQueue(Generic[T]):
         Uso:
             print(fila_prioridade.to_str())
         """
+        raise NotImplementedError()
 
     
     ## truques do Python

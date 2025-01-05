@@ -1,4 +1,4 @@
-from ed.array_list import ArrayList
+from exercicios.ed.arraylist import ArrayList
 
 def test_array_list():
     # Teste de inicialização

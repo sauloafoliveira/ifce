@@ -22,7 +22,7 @@ class Queue(Generic[T]):
         Uso:
             fila.clear()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def dequeue(self) -> T:
@@ -32,7 +32,7 @@ class Queue(Generic[T]):
         Uso:
             primeiro = fila.dequeue()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def enqueue(self, value: T) -> None:
@@ -42,7 +42,7 @@ class Queue(Generic[T]):
         Uso:
             fila.enqueue(value)
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def equals(self, other: Self) -> bool:
@@ -52,7 +52,7 @@ class Queue(Generic[T]):
         Uso:
             if fila.equals(outra):
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
 
     def is_empty(self) -> bool:
@@ -72,7 +72,7 @@ class Queue(Generic[T]):
         Uso:
             a = fila.peek()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def size(self) -> int:
@@ -82,7 +82,7 @@ class Queue(Generic[T]):
         Uso:
             tam = fila.size()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def to_str(self) -> str:

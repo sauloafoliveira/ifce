@@ -20,7 +20,7 @@ class Stack(Generic[T]):
         Uso:
             pilha.clear()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def equals(self, other: Self) -> bool:
@@ -30,7 +30,7 @@ class Stack(Generic[T]):
         Uso:
             if pilha.equals(outra):
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def is_empty(self) -> bool:
@@ -51,7 +51,7 @@ class Stack(Generic[T]):
             a = pilha.peek()
         """
 
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def pop(self) -> T:
@@ -62,8 +62,7 @@ class Stack(Generic[T]):
             a = pilha.pop()
 
         """
-
-        raise NotImplemented()
+        raise NotImplementedError()
     
 
     def push(self, value: T) -> None:
@@ -73,7 +72,7 @@ class Stack(Generic[T]):
         Uso:
             pilha.push(value)
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     def size(self) -> int:
         """
@@ -82,8 +81,7 @@ class Stack(Generic[T]):
         Uso:
             tam = pilha.size()
         """
-
-        raise NotImplemented()
+        raise NotImplementedError()
 
 
 
@@ -94,6 +92,7 @@ class Stack(Generic[T]):
         Uso:
             print(pilha.to_str())
         """
+        raise NotImplementedError()
 
     ## truques do Python
 

@@ -1,8 +1,15 @@
 from typing import Generic, TypeVar, Self
+from arraylist import ArrayList
 
 T = TypeVar('T')
 
-class ArrayList(Generic[T]):
+class ListNode(Generic[T]):
+
+    def __init__(self, value: T):
+        self._value = value
+        self._next = None
+
+class LinkedList(Generic[T], ArrayList[T]):
 
     def __init__(self, n: int=0, value: T=None) -> Self:
         """
@@ -20,24 +27,24 @@ class ArrayList(Generic[T]):
         """
         super().__init__()
 
-    def add(self, value: T) -> None:
-        """
-        Adiciona um novo valor ao final deste ArrayList.
-        
-        Uso:
-            vec.add(valor);
+        self._size = 0
+        self._head: ListNode = None
+        self._tail: ListNode = None
 
-        """
-        raise NotImplemented()
+    def add(self, value: T) -> None:
+        node = ListNode(value)
+
+        if self.is_empty():
+            self._head, self._tail = node
+            self._size = 1
+        else:
+            self._tail.next = node
+            self._size += 1
+        
 
     def clear(self) -> None:
-        """
-        Remove todos os elementos deste ArrayList.
-        
-        Uso:
-            vec.clear()
-        """
-        raise NotImplemented()
+        self._head, self._tail = None
+        self._size = 0
 
     def equals(self, other: T) -> bool:
         """
@@ -47,28 +54,26 @@ class ArrayList(Generic[T]):
             if (vec1.equals(vec2)):
 
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     def first(self) -> T:
-        """
-        Retorna o elemento no índice 0 neste vetor. Equivalente a get(0). 
-        Este método sinaliza um erro (IndexError) se o vetor estiver vazio.
-
-        Uso:
-            a = vec.first()
-        """
-        raise NotImplemented()
+        if self.is_empty():
+            raise IndexError('Lista vazia')
+        
+        return self._head.value
+    
 
     def get_at(self, index: int) -> T:
-        """
-        Retorna o elemento no índice especificado neste ArrayList. 
-        Este método sinaliza um erro (```IndexError```) se o índice não estiver no intervalo deste ArrayList.
-        
-        Uso:
-            b = vec.get_at(2)
+        node = self._head
+        i = 0
 
-        """
-        raise NotImplemented()
+        while node:
+            if i == index:
+                node._value
+            
+            node = node._next
+            i += 1
+
 
     def insert_at(self, index: int, value: T) -> None:
         """
@@ -80,36 +85,25 @@ class ArrayList(Generic[T]):
             vec.insert_at(0, valor)
 
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     def is_empty(self) -> bool:
-        """
-        Retorna ```True``` se este ArrayList não contém elementos.
-        
-        Uso:
-            if vec.is_empty():
-        """
         return self.size() == 0
     
-    def last(self) -> T:
-        """
-        Retorna o último elemento neste ArrayList. Equivalente a ```get(size() - 1)```. 
-        Este método sinaliza um erro (```IndexError```) se o ArrayList estiver vazio.
 
-        Uso:
-            val = vec.last()
-        """
-        raise NotImplemented()
+    def last(self) -> T:
+        if self.is_empty():
+            raise IndexError()
+        
+        return self._tail._value
+
 
     def map(self, fn: callable) -> None:
-        """
-        Chama a função especificada em cada elemento deste vetor em ordem de índice crescente e mofidica o valor do índice pelo resultado de ```fn```.
-
-        Uso:
-            vec.map(lambda x: x * 2)
-
-        """
-        raise NotImplemented()
+        node = self._head
+        
+        while node:
+            node._value = fn(node._value)            
+            node = node._next
 
     def remove_at(self, index: int) -> None:
         """
@@ -120,29 +114,29 @@ class ArrayList(Generic[T]):
         Uso:
             vec.remove_at(0, valor)
         """
-        raise NotImplemented()
+        raise NotImplementedError()
+
+
 
     def reverse(self) -> None:
-        """
-        Reorganiza os elementos neste vetor na ordem oposta. 
-        Como exemplo, o elemento anteriormente no índice ```0``` é trocado pelo elemento no índice ```size()-1```.
-
-        Uso:
-            vec.reverse()
-        """
-        raise NotImplemented()
+        aux = LinkedList()
+        node = self._head
+        
+        while node:
+            aux.insert_at(0, node._value)
+        
+        self._head = aux._head
 
     def set_at(self, index: int, value: T) -> None:
-        """
-        Substitui o elemento no índice especificado neste vetor por um novo valor. 
-        O valor anterior naquele índice é sobrescrito. 
-        Este método sinaliza um erro (```IndexError```) se o índice não estiver no intervalo do ArrayList.
+        i = 0
 
-        Uso:
-            vec.set_at(2, value)
+        while node:
+            if i == index:
+                node._value = value
+                break
+            
+            node = node._next
 
-        """
-        raise NotImplemented()
 
     def shuffle(self) -> None:
         """
@@ -151,17 +145,10 @@ class ArrayList(Generic[T]):
         Uso:
             vec.shuffle()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
     def size(self) -> int:
-        """
-        Retorna o número de elementos neste ArrayList.
-        
-        Uso:
-            tam = vec.size()
-
-        """
-        raise NotImplemented()
+        return self._size
 
     def sort(self) -> None:
         """
@@ -172,7 +159,7 @@ class ArrayList(Generic[T]):
         Uso:
             vec.sort()
         """
-        raise NotImplemented()
+        raise NotImplementedError()
     
     def sublist(self, start: int, end: int=-1) -> Self:
         """
@@ -185,13 +172,13 @@ class ArrayList(Generic[T]):
             sub1 = vec.sublist(3)
             sub2= vec.sublist(1, 4)
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     def to_str(self) -> str:
         """
         Retorna uma representação de string imprimível deste ArrayList, como "[value1, value2, value3]".
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     ## truques do Python
 

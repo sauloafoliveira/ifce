@@ -147,6 +147,21 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
 > # Isenção de responsabilidade
 > Os códigos apresentados em Python têm como objetivo principal proporcionar aprendizado e entendimento sobre os conceitos abordados. Embora sejam funcionais e didáticos, não representam necessariamente as soluções mais otimizadas ou recomendadas para aplicações em produção. Sempre considere ajustar e aprimorar os exemplos conforme as necessidades específicas do seu projeto e as boas práticas de programação.
 
+
+```python
+class Comparable:
+
+    @abstractmethod
+    def compare_to(self, other) -> int:
+        pass
+
+    def __eq__(self, other):
+        return self.compare_to(other) == 0
+
+    def __leq
+
+```
+
 É verdade esse bilhete!
 
 ---
@@ -163,7 +178,7 @@ header: Estrutura de Dados | [Instituto Federal do Ceará](https://www.ifce.edu.
         width: 13.8em;
     }
 </style>
-Talvez a estratégia mais simples para se ordenar seja comparar pares de itens consecutivos e permutá-los, caso estejam fora de ordem. 
+Talvez a estratégia mais simples para se ordenar seja comparar pares de itens consecutivos e permutá-los, caso estejam fora de ordem. Assim funciona o Bubble Sort.
 
 ```python
 def bubble_sort(data: list[Comparable]):
@@ -201,13 +216,15 @@ Ordene, a seguir, na mão, usando o BubbleSort: ```[92, 80, 71, 63, 55, 41, 39, 
 A estratégia básica desse método é, em cada fase, selecionar um menor item ainda não ordenado e permutá-lo com aquele que ocupa a sua posição na sequência ordenada. 
 
 ```python
+def argmin(data: list) -> int:
+    m = min(data)
+    return data.index(m)
+
 def selection_sort(data: list[Comparable]):
     
-    n = len(data)
-    
-    for i in range(n):
+    for i in range(len(data)):
         
-        k = min(data[i:])
+        k = argmin(data[i:])
         
         data[i], data[k] = data[k], data[i]
 ```
@@ -222,7 +239,7 @@ Ordene, a seguir, na mãe, usando o SelectionSort: ```[46, 55, 59, 14, 38, 27]``
 ---
 # Insertion sort
 <style scoped>
-    p:nth-of-type(1) {margin-top: -.75em}
+    p:nth-of-type(1) {margin-top: -1em}
     pre {width: 60%; margin-left: 1em;}
     img {
         position: absolute;
@@ -232,20 +249,21 @@ Ordene, a seguir, na mãe, usando o SelectionSort: ```[46, 55, 59, 14, 38, 27]``
     }
 </style>
 
-Ao ordenar uma sequência $L = [L_{O}, L_{D}]$, esse método considera uma subsequência ordenada $L_{O}$ e outra desordenada $L_{D}$. Então, em cada fase, um item é removido de $L_{D}$ e inserido em sua posição correta dentro de $L_{O}$.
+Ao ordenar uma sequência $L = [L_{O}, L_{D}]$, considera-se uma subsequência ordenada $L_{O}$ e outra desordenada $L_{D}$. Então, em cada fase, remove-se um item de $L_{D}$ e o insere na sua posição correta dentro de $L_{O}$.
 
 ```python
-for insertion_sort(data: list[Comparable]):
+def insertion_sort(data: list[Comparable]):
    
-    for i in range(2, len(data)):
+    for i in range(1, len(data)):
         x = data[i]
         j = i - 1
 
-        while j >= 1 and x < data[j]:
-            j = j - 1
+        while j >= 0 and data[j] > x:
             data[ j + 1 ] = data[j]
+            j = j - 1
 
         data[j + 1] = x
+    return data
 ```
 Exercite a ordenação acima na sequência: ```[82, 50, 71, 63, 85, 43, 39, 97, 14]```. 
 
